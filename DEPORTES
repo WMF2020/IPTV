@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES VIP1" tvg-logo="" group-title="DP Y EVENTOS",DEPORTES VIP1
+#EXTINF:-1,DEPORTES VIP 1
 http://zufreelist.net:8080/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/2121
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES VIP2" tvg-logo="" group-title="DP Y EVENTOS",DEPORTES VIP2
+#EXTINF:-1 DEPORTES VIP 2
 http://zufreelist.net:8080/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/2122
 
 
