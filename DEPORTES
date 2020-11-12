@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES VIP1" tvg-logo="" group-title="DP Y EVENTOS",DEPORTES VIP1
+http://zufreelist.net:8080/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/2121
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES VIP2" tvg-logo="" group-title="DP Y EVENTOS",DEPORTES VIP2
+http://zufreelist.net:8080/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/JsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremotaJsjsjslistaremota/2122
+
+
+
 #EXTINF:-1,DIRECTV SPORTS
 http://145.239.2.125:32325/live/db66bbf52d2f44dc8a66a808a22d5ffe/c58fe46df91943aeb2808071c6c4186c/123.ts
 
