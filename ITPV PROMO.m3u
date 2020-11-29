@@ -1,221 +1,551 @@
-#EXTM3U
+#EXTINF:-1,A3series
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/131
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhYNPhN/BABY-TV-IPTVFR.jpg" group-title="KIDS",Baby tv *
-https://tecnoplay.club/roma/principal.php?c=11&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHhDwmc/Boomerang.jpg" group-title="KIDS",Boomerang *
-https://tecnoplay.club/roma/principal.php?c=20&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg" group-title="KIDS",Cartoon Network *
-https://tecnoplay.club/roma/principal.php?c=24&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9vCsk23/Discovery-kids.jpg" group-title="KIDS",Discovery Kids *
-https://tecnoplay.club/roma/principal.php?c=36&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCZtnhg/Disney-Channel.jpg" group-title="KIDS",Disney Channel *
-https://tecnoplay.club/roma/principal.php?c=44&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1LdvjvS/disney-jr.jpg" group-title="KIDS",Disney JR *
-https://tecnoplay.club/roma/principal.php?c=45&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fw5rVq/Disney-XD.jpg" group-title="KIDS",Disney XD *
-https://tecnoplay.club/roma/principal.php?c=46&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHt7dPy/Natgeo-Kids.jpg" group-title="KIDS",Natgeo Kids *
-https://tecnoplay.club/roma/principal.php?c=102&f=.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7NwLTsD/Nickelodeon.jpg" group-title="KIDS",Nickelodeon *
-https://tecnoplay.club/roma/principal.php?c=104&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJg6krr/Nick2.jpg" group-title="KIDS",Nick 2 *
-https://tecnoplay.club/roma/principal.php?c=105&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88VkhCV/Nick.jpg" group-title="KIDS",Nick JR *
-https://tecnoplay.club/roma/principal.php?c=106&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc0H7KL/Tooncas.jpg" group-title="KIDS",Tooncast *
-https://tecnoplay.club/roma/principal.php?c=129&f=.m3u8
+#EXTINF:-1,ABC Los Angeles Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/191
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44sPNz6/ANIMAL-PLANET-PTVFR.jpg" group-title="CULTURA",Animal Planet *
-https://tecnoplay.club/roma/principal.php?c=7&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel *
-https://tecnoplay.club/roma/principal.php?c=33&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo *
-https://tecnoplay.club/roma/principal.php?c=42&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater *
-https://tecnoplay.club/roma/principal.php?c=39&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences *
-https://tecnoplay.club/roma/principal.php?c=38&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H *
-https://tecnoplay.club/roma/principal.php?c=35&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery *
-https://tecnoplay.club/roma/principal.php?c=89&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",TLC *
-https://tecnoplay.club/roma/principal.php?c=40&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History *
-https://tecnoplay.club/roma/principal.php?c=83&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
-https://tecnoplay.club/roma/principal.php?c=93&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild *
-https://tecnoplay.club/roma/principal.php?c=103&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9vd9PF1/National-Geograp.jpg" group-title="CULTURA",National Geographic *
-https://tecnoplay.club/roma/principal.php?c=131&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cw167v4/EL-GURMET.jpg" group-title="CULTURA",El Gourmet *
-https://tecnoplay.club/roma/principal.php?c=49&f=.m3u8
-#EXTINF:-1 tvg-logo=".jpg" group-title="ENTRETENIMIENTO",Justicia TV *
-https://tecnoplay.club/roma/principal.php?c=22&f=.m3u8
+#EXTINF:-1,ADN 40
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/127
 
+#EXTINF:-1,Afizzionados
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/30
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QrRCnrz/AMC.jpg" group-title="CINE Y SERIES",Amc *
-https://tecnoplay.club/roma/principal.php?c=6&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DRjDMwJ/a-amp-e.jpg" group-title="CINE Y SERIES",A&e *
-https://tecnoplay.club/roma/principal.php?c=3&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cht20hW/Warner-Channel.jpg" group-title="CINE Y SERIES",Warner channenel *
-https://tecnoplay.club/roma/principal.php?c=167&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C2f4bRr/FOX.jpg" group-title="CINE Y SERIES",Fox Channel *
-https://tecnoplay.club/roma/principal.php?c=64&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZYFNymr/Universal-channel.jpg" group-title="CINE Y SERIES",Universal *
-https://tecnoplay.club/roma/principal.php?c=138&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6DphvY/FOX-LIFE.jpg" group-title="CINE Y SERIES",Fox Life
-https://tecnoplay.club/roma/principal.php?c=65&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyvKB8G/AXN.jpg" group-title="CINE Y SERIES",Axn *
-https://tecnoplay.club/roma/principal.php?c=9&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5stn54k/SONY.jpg" group-title="CINE Y SERIES",Sony *
-https://tecnoplay.club/roma/principal.php?c=113&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DrVNhdy/Tnt.jpg" group-title="CINE Y SERIES",Tnt *
-https://tecnoplay.club/roma/principal.php?c=127&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XL3MB0M/SPACE.jpg" group-title="CINE Y SERIES",Space *
-https://tecnoplay.club/roma/principal.php?c=114&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zRgy97L/Studio-Universal.jpg" group-title="CINE Y SERIES",Studio Universal *
-https://tecnoplay.club/roma/principal.php?c=115&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jWCp9z8/FX-IP.jpg" group-title="CINE Y SERIES",Fx
-https://tecnoplay.club/roma/principal.php?c=56&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C21DyYX/FXHD.jpg" group-title="CINE Y SERIES",Fx Movie
-https://tecnoplay.club/roma/principal.php?c=78&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nBBrf9v/TBS.jpg" group-title="CINE Y SERIES",Tbs *
-https://tecnoplay.club/roma/principal.php?c=119&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zWdwvx0/TCM.jpg" group-title="CINE Y SERIES",Tcm
-https://tecnoplay.club/roma/principal.php?c=120&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thdx4Hh/CINE-CANAL.jpg" group-title="CINE Y SERIES",Cine canal
-https://tecnoplay.club/roma/principal.php?c=22&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nb8sVg6/CINEMAX.png" group-title="CINE Y SERIES",Cinemax
-https://tecnoplay.club/roma/principal.php?c=316&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkbYPqj/Paramount.jpg" group-title="CINE Y SERIES",Paramount *
-https://tecnoplay.club/roma/principal.php?c=108&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVBCfBN/Comedy-Central.jpg" group-title="CINE Y SERIES",Comedy Central
-https://tecnoplay.club/roma/principal.php?c=123&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzQnqbq/cl-sundance-channel-m.png" group-title="CINE Y SERIES",Sundance tv *
-https://tecnoplay.club/roma/principal.php?c=116&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8MHWNXv/Cinelatino.jpg" group-title="CINE Y SERIES",Cine Latino
-https://tecnoplay.club/roma/principal.php?c=23&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PmFm7mZ/TNT-SERIES.jpg" group-title="CINE Y SERIES",Tnt Series *
-https://tecnoplay.club/roma/principal.php?c=128&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action *
-https://tecnoplay.club/roma/principal.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema *
-https://tecnoplay.club/roma/principal.php?c=148&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema sub *
-https://tecnoplay.club/roma/principal.php?c=144&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nCzFtNW/fox-comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy *
-https://tecnoplay.club/roma/principal.php?c=150&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tsjrQQm/FOX-CLASSIC-IPTVFR.jpg" group-title="CINE Y SERIES",Fox Premium Classics *
-https://tecnoplay.club/roma/principal.php?c=149&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9bsHPy5/fox-family.jpghttps://i.ibb.co/9bsHPy5/fox-family.jpg"group-title="CINE Y SERIES",Fox Premium Family *
-https://tecnoplay.club/roma/principal.php?c=151&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series *
-https://tecnoplay.club/roma/principal.php?c=153&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series SUB *
-https://tecnoplay.club/roma/principal.php?c=74&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sd5rT28/fox-movies.jpg" group-title="CINE Y SERIES",Fox Premium Movies *
-https://tecnoplay.club/roma/principal.php?c=152&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden *
-https://tecnoplay.club/roma/principal.php?c=79&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden Premier *
-https://tecnoplay.club/roma/principal.php?c=80&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO *
-https://tecnoplay.club/roma/principal.php?c=155&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO SUB *
-https://tecnoplay.club/roma/principal.php?c=162&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CHd4GZ3/hbo2.jpg" group-title="CINE Y SERIES",HBO 2 *
-https://tecnoplay.club/roma/principal.php?c=156&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P5hWtZW/HBO-PLUS-IPTVFR.jpg" group-title="CINE Y SERIES",HBO plus *
-https://tecnoplay.club/roma/principal.php?c=159&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xfjmtm/HBO-Family.jpg" group-title="CINE Y SERIES",HBO Family *
-https://tecnoplay.club/roma/principal.php?c=157&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO Signature *
-https://tecnoplay.club/roma/principal.php?c=161&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCnTRrK/max-prime.jpg" group-title="CINE Y SERIES",HBO Mundi *
-https://tecnoplay.club/roma/principal.php?c=158&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO Pop *
-https://tecnoplay.club/roma/principal.php?c=160&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO EXTREME *
-https://tecnoplay.club/roma/principal.php?c=163&f=.m3u8
+#EXTINF:-1,AMC
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/82
 
+#EXTINF:-1,AMC Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/162
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tDbjmNX/AZ-CORA.jpg" group-title="ENTRETENIMIENTO",Az Corazon
-https://tecnoplay.club/roma/principal.php?c=4&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K9FqCPZ/LIFETIME.jpg" group-title="ENTRETENIMIENTO",Lifetime
-https://tecnoplay.club/roma/principal.php?c=92&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/txXLPPC/MAS-CHIC.jpg" group-title="ENTRETENIMIENTO",Mas Chic *
-https://tecnoplay.club/roma/principal.php?c=93&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPG6FJd/AZ-MUND.jpg" group-title="ENTRETENIMIENTO",Az Mundo
-https://tecnoplay.club/roma/principal.php?c=5&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dmXRZHr/HOLATV.jpg" group-title="ENTRETENIMIENTO",Hola TV *
-https://tecnoplay.club/roma/principal.php?c=84&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/51wjY61/logo-multimedios-2.png" group-title="ENTRETENIMIENTO",Multimedios *
-https://tecnoplay.club/roma/principal.php?c=100&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kymB7WM/telemundo.jpg" group-title="ENTRETENIMIENTO",Telemundo *
-https://tecnoplay.club/roma/principal.php?c=166&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FzGc99Y/DHEI.jpg" group-title="ENTRETENIMIENTO",DHE
-https://tecnoplay.club/roma/principal.php?c=34&f=.m3u8
+#EXTINF:-1,America TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/5
 
+#EXTINF:-1,Animal Planet
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/94
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports *
-https://tecnoplay.club/roma/principal.php?c=170&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv sports-2 *
-https://tecnoplay.club/roma/principal.php?c=169&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 [latm] *
-https://tecnoplay.club/roma/principal.php?c=70&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 [latm] *
-https://tecnoplay.club/roma/principal.php?c=71&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 3 [latm] *
-https://tecnoplay.club/roma/principal.php?c=72&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 [MEX]
-https://tecnoplay.club/roma/principal.php?c=67&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 [MEX] *
-https://tecnoplay.club/roma/principal.php?c=68&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 [MEX] *
-https://tecnoplay.club/roma/principal.php?c=69&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 (latm) *
-https://tecnoplay.club/roma/principal.php?c=57&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (latm) *
-https://tecnoplay.club/roma/principal.php?c=58&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (latm) *
-https://tecnoplay.club/roma/principal.php?c=59&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus (latm)
-https://tecnoplay.club/roma/principal.php?c=54&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn (MEX) *
-https://tecnoplay.club/roma/principal.php?c=51&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (MEX) *
-https://tecnoplay.club/roma/principal.php?c=52&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (MEX) *
-https://tecnoplay.club/roma/principal.php?c=53&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S5QNysK/TDN-UNIVI.jpg" group-title="DEPORTES",Univision TUDN *
-https://tecnoplay.club/roma/principal.php?c=131&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
-https://tecnoplay.club/roma/principal.php?c=31&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTES",Golf Channel *
-https://tecnoplay.club/roma/principal.php?c=81&f=.m3u8
+#EXTINF:-1,ATV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/61
 
+#EXTINF:-1,AXN
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/78
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PDH7DhW/CNN-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="NOTICIAS",Cnn espanol
-https://tecnoplay.club/roma/principal.php?c=14&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/61626QC/cnn-internacional-iptv.jpg" group-title="NOTICIAS",Cnn internacional [USA]
-https://tecnoplay.club/roma/principal.php?c=15&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fSRX1nw/GTo-Mw-YPgp71-X-kkdyydnl-Hr9-IVP1ls4l-NC8l-TPi-NU6mz-Fvd-U3-S7-Bp7z-EKd-JH4-PQ7r-Y.png" group-title="NOTICIAS",ADN 40
-https://tecnoplay.club/roma/principal.php?c=148&f=.m3u8
+#EXTINF:-1,Az Cinema
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/54
 
+#EXTINF:-1,Az Corazon
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/198
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6JRTP3/200px-MTV-Logo-svg.png" group-title="MUSICA",MTV *
-https://tecnoplay.club/roma/principal.php?c=97&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYmNVpn/1200px-MTV-Live-svg.png" group-title="MUSICA",MTV Live *
-https://tecnoplay.club/roma/principal.php?c=99&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YNcfn34/ar-mtv-hits-m.png" group-title="MUSICA",MTV Hits *
-https://tecnoplay.club/roma/principal.php?c=98&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV *
-https://tecnoplay.club/roma/principal.php?c=164&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0fGkNRC/VH1.jpg" group-title="MUSICA",Vh1 *
-https://tecnoplay.club/roma/principal.php?c=140&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA",Vh1 Classics
-https://tecnoplay.club/roma/principal.php?c=104&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1cy7m/CONCERT.jpg" group-title="MUSICA",Concert Channel *
-https://tecnoplay.club/roma/principal.php?c=143&f=.m3u8
+#EXTINF:-1,Az Mundo
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/53
+
+#EXTINF:-1,Azteca 7
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/1
+
+#EXTINF:-1,Azteca Uno
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/52
+
+#EXTINF:-1,Bandamax
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/90
+
+#EXTINF:-1,Bein la liga
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/23
+
+#EXTINF:-1,Bet Stars Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/156
+
+#EXTINF:-1,Boing
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/119
+
+#EXTINF:-1,Boomerang
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/115
+
+#EXTINF:-1,Bravo Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/157
+
+#EXTINF:-1,Brazzer TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/135
+
+#EXTINF:-1,Canal 5
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/2
+
+#EXTINF:-1,Canal N
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/197
+
+#EXTINF:-1,Canal sony
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/77
+
+#EXTINF:-1,Caracol
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/59
+
+#EXTINF:-1,Cartoon Network
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/114
+
+#EXTINF:-1,Chavo 24/7
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/150
+
+#EXTINF:-1,Cine Latino
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/84
+
+#EXTINF:-1,Cinecanal
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/44
+
+#EXTINF:-1,Cinemax
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/43
+
+#EXTINF:-1,Cinemax Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/172
+
+#EXTINF:-1,CMT Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/158
+
+#EXTINF:-1,CNBC TV Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/155
+
+#EXTINF:-1,CNN Español
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/66
+
+#EXTINF:-1,Comedy Central
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/91
+
+#EXTINF:-1,Comedy Central Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/167
+
+#EXTINF:-1,Directv Sports
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/20
+
+#EXTINF:-1,Directv Sports Plus
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/22
+
+#EXTINF:-1,Discovery A&E
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/99
+
+#EXTINF:-1,Discovery A&E Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/161
+
+#EXTINF:-1,Discovery Channel
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/95
+
+#EXTINF:-1,Discovery Channel Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/181
+
+#EXTINF:-1,discovery Family Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/180
+
+#EXTINF:-1,Discovery HYH
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/97
+
+#EXTINF:-1,Discovery Kids
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/117
+
+#EXTINF:-1,Discovery Theater
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/101
+
+#EXTINF:-1,Discovery TLC
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/100
+
+#EXTINF:-1,Discovery Turbo
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/96
+
+#EXTINF:-1,Discovery World
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/102
+
+#EXTINF:-1,Disney Channel
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/107
+
+#EXTINF:-1,Disney Junior
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/109
+
+#EXTINF:-1,Disney XD
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/108
+
+#EXTINF:-1,Distrito comedia
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/47
+
+#EXTINF:-1,Dpelicula
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/85
+
+#EXTINF:-1,El Gourmet
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/106
+
+#EXTINF:-1,El Trece
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/46
+
+#EXTINF:-1,Espn 2 Mexico
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/28
+
+#EXTINF:-1,Espn 2 Sur
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/18
+
+#EXTINF:-1,Espn 2 Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/179
+
+#EXTINF:-1,Espn 3 Mexico
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/29
+
+#EXTINF:-1,Espn Deportes
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/15
+
+#EXTINF:-1,Espn Mexico
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/27
+
+#EXTINF:-1,Espn Plus
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/16
+
+#EXTINF:-1,Espn Sur
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/17
+
+#EXTINF:-1,Espn U usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/148
+
+#EXTINF:-1,Espn Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/178
+
+#EXTINF:-1,Everything
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/103
+
+#EXTINF:-1,Everything Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/168
+
+#EXTINF:-1,Foro TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/143
+
+#EXTINF:-1,FOX
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/42
+
+#EXTINF:-1,Fox 5 New York Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/192
+
+#EXTINF:-1,Fox Life
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/72
+
+#EXTINF:-1,Fox Premium Action MX
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/37
+
+#EXTINF:-1,Fox Premium Action Sur
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/138
+
+#EXTINF:-1,Fox Premium Classics
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/139
+
+#EXTINF:-1,Fox Premium Comedy
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/133
+
+#EXTINF:-1,Fox Premium Family
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/69
+
+#EXTINF:-1,Fox Premium Movies
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/68
+
+#EXTINF:-1,Fox Premium Series
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/38
+
+#EXTINF:-1,Fox Sports
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/12
+
+#EXTINF:-1,Fox Sports 2 Mexico
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/25
+
+#EXTINF:-1,Fox Sports 3
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/14
+
+#EXTINF:-1,Fox Sports 3 Mexico
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/26
+
+#EXTINF:-1,Fox Sports Mexico
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/24
+
+#EXTINF:-1,Fox Sports Premium
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/10
+
+#EXTINF:-1,freeform Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/177
+
+#EXTINF:-1,FX
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/70
+
+#EXTINF:-1,FX Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/160
+
+#EXTINF:-1,FXM
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/71
+
+#EXTINF:-1,FXX
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/159
+
+#EXTINF:-1,FYI Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/163
+
+#EXTINF:-1,Galavision
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/55
+
+#EXTINF:-1,Gol Perú
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/6
+
+#EXTINF:-1,Gol TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/7
+
+#EXTINF:-1,Golden
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/202
+
+#EXTINF:-1,Golden Edge
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/74
+
+#EXTINF:-1,Golden Plus
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/73
+
+#EXTINF:-1,Golden Premier
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/75
+
+#EXTINF:-1,Hallmak
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/174
+
+#EXTINF:-1,HBO
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/31
+
+#EXTINF:-1,HBO 2
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/32
+
+#EXTINF:-1,HBO Family
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/34
+
+#EXTINF:-1,HBO Mundi
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/149
+
+#EXTINF:-1,HBO Plus
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/33
+
+#EXTINF:-1,HBO POP
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/36
+
+#EXTINF:-1,HBO Xtreme
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/35
+
+#EXTINF:-1,History
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/49
+
+#EXTINF:-1,History 2
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/50
+
+#EXTINF:-1,History Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/186
+
+#EXTINF:-1,Hola TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/136
+
+#EXTINF:-1,HTV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/89
+
+#EXTINF:-1,Hustler TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/124
+
+#EXTINF:-1,ID Investigation
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/98
+
+#EXTINF:-1,ID Investigation Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/183
+
+#EXTINF:-1,Imagen TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/65
+
+#EXTINF:-1,Isat
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/86
+
+#EXTINF:-1,Las Estrellas
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/57
+
+#EXTINF:-1,Latina
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/4
+
+#EXTINF:-1,Lifetime
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/104
+
+#EXTINF:-1,LMN Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/169
+
+#EXTINF:-1,MLB Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/134
+
+#EXTINF:-1,Movistar Deportes Perú
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/195
+
+#EXTINF:-1,MTV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/87
+
+#EXTINF:-1,MTV Hits
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/88
+
+#EXTINF:-1,Multipremier
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/81
+
+#EXTINF:-1,Nat Geo Kids
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/118
+
+#EXTINF:-1,Nat Geo Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/187
+
+#EXTINF:-1,Nat Geo Wild
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/93
+
+#EXTINF:-1,Nat Geo Wild Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/188
+
+#EXTINF:-1,National Geographic
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/92
+
+#EXTINF:-1,NBA Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/125
+
+#EXTINF:-1,NBC Sports Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/147
+
+#EXTINF:-1,NBC Universo Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/142
+
+#EXTINF:-1,NFL Network
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/151
+
+#EXTINF:-1,NHL Network
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/154
+
+#EXTINF:-1,Nick
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/110
+
+#EXTINF:-1,Nick 2
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/111
+
+#EXTINF:-1,Nick JR
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/112
+
+#EXTINF:-1,Nick Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/170
+
+#EXTINF:-1,Nicktoons
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/113
+
+#EXTINF:-1,Once TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/132
+
+#EXTINF:-1,Panamericana
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/141
+
+#EXTINF:-1,Paramount Channel
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/83
+
+#EXTINF:-1,Pasiones
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/51
+
+#EXTINF:-1,Play Boy
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/145
+
+#EXTINF:-1,RCN
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/193
+
+#EXTINF:-1,Rt Noticias
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/67
+
+#EXTINF:-1,Sci
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/182
+
+#EXTINF:-1,Sextreme
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/144
+
+#EXTINF:-1,Space
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/39
+
+#EXTINF:-1,Syfy
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/58
+
+#EXTINF:-1,Syfy Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/176
+
+#EXTINF:-1,TBS
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/105
+
+#EXTINF:-1,TCM
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/152
+
+#EXTINF:-1,Telefe
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/45
+
+#EXTINF:-1,Telehit
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/122
+
+#EXTINF:-1,Telemundo
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/48
+
+#EXTINF:-1,Terror 24/7
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/196
+
+#EXTINF:-1,The Movie Channel Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/175
+
+#EXTINF:-1,Tlnovelas
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/56
+
+#EXTINF:-1,TNT
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/41
+
+#EXTINF:-1,TNT Series
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/76
+
+#EXTINF:-1,TNT Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/173
+
+#EXTINF:-1,Tooncast
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/116
+
+#EXTINF:-1,Top Latino
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/123
+
+#EXTINF:-1,Travel Channel Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/190
+
+#EXTINF:-1,Tru TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/137
+
+#EXTINF:-1,TUDN
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/3
+
+#EXTINF:-1,TUDN USA
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/200
+
+#EXTINF:-1,TVC Deportes
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/60
+
+#EXTINF:-1,TYC Sports
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/11
+
+#EXTINF:-1,Unicable
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/63
+
+#EXTINF:-1,Unimas
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/64
+
+#EXTINF:-1,Universal Channel
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/79
+
+#EXTINF:-1,Univision
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/62
+
+#EXTINF:-1,Usa Network Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/164
+
+#EXTINF:-1,Venus
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/126
+
+#EXTINF:-1,VH1
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/120
+
+#EXTINF:-1,Vh1 Classic
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/121
+
+#EXTINF:-1,Viceland Usa
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/165
+
+#EXTINF:-1,Warner Bros TV
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/40
+
+#EXTINF:-1,Win Sports
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/8
+
+#EXTINF:-1,Win Sports Plus
+http://23.237.88.107:25461/tvplustvgratis/74sdfg54sdfgdf/140
