@@ -1,0 +1,276 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",TIGO SPORTS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/5
+#EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTES",ESPN 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/4
+
+#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://blogdoguinhocesar.files.wordpress.com/2015/09/canal-space.png" group-title="CINE PREMIUM",SPACE 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/7
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CINE PREMIUM",FOX LIFE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/10
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM CINEMA " tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="CINE PREMIUM",FOX PREMIUM CINEMA 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/11
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="CINE PREMIUM",FOX PREMIUM ACTION
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",MOVISTAR LIGA CAMPEONES
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/15
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",MOVISTAR DEPORTES
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/13
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE PREMIUM",TNT
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/17
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="CINE PREMIUM",TNT SERIES 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/18
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="CINE PREMIUM",A&E
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/19
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE PREMIUM",FX
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/20
+#EXTINF:-1 tvg-id="" tvg-name="FMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE PREMIUM",FMX
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/21
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-5.png" group-title="CINE PREMIUM",AMC
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/22
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="DEPORTES",FOX SPORTS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/25
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="CINE PREMIUM",PARAMOUNT CHANNEL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/24
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/26
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/28
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG14.png" group-title="DEPORTES",NBA TV
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/29
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORT 3
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/27
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOL TV
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/30
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT SPORTS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/31
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYC SPORTS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/32
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORTS Ñ
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/33
+
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/35
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DEPORTES",DIRECTV SPORTS 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/37
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="DEPORTES",DIRECTV SPORTS 2
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/38
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV +" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.5ab19e07d5e47_DirecTVSports.png.dc3ff6a8fc043a490082409ea08b4a86.png" group-title="DEPORTES",DIREC TV +
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/39
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="DEPORTES",LA LIGA TV BAR
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/40
+#EXTINF:-1 tvg-id="" tvg-name="CARTON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/800px-Cartoon_Network_1992_logo.svg.png" group-title="INFANTIL",CARTON NETWORK
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/41
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/42
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NAT GEO KIDS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/43
+#EXTINF:-1 tvg-id="" tvg-name="NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="INFANTIL",NICK TOONS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/44
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="INFANTIL",NICK 2
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/45
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://w0.pngwave.com/png/982/982/logo-nickelodeon-arabia-television-bumper-nicktoons-splat-uk-png-clip-art.png" group-title="INFANTIL",NICKELODEON
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/46
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="INFANTIL",NICK JR
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/47
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/48
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="CINE PREMIUM",UNIVERSAL CHANNEL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/49
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1200px-Sony_Channel_logo.svg.png" group-title="CINE PREMIUM",SONY CHANNEL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/50
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE PREMIUM",CINECANAL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/52
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE PREMIUM",DE PELICULA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/54
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANEL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/53
+#EXTINF:-1 tvg-id="" tvg-name="WARNER BROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png" group-title="CINE PREMIUM",WARNER BROS TV
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/51
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="CINE PREMIUM",GOLDEN
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/55
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.pngfind.com/pngs/m/690-6907141_transparent-escuchar-musica-clipart-disney-junior-logo-png.png" group-title="INFANTIL",DISNEY JUNIOR
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/56
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE PREMIUM",CINEMAX
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/57
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/disney-xd-logo-png-transparent.png" group-title="INFANTIL",DISNEY XD
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/58
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL",DISCOVERY KIDS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/60
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE PREMIUM",HBO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/61
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.pinimg.com/originals/ff/e8/e0/ffe8e06088efbad75512bea09b3f4e77.png" group-title="CINE PREMIUM",HBO 2
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/62
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE PREMIUM",HBO SIGNATURE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/63
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE PREMIUM",HBO FAMILY
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/64
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE PREMIUM",HBO PLUS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/65
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="CINE PREMIUM",TRU TV
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/59
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="CINE PREMIUM",HBO POP
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/66
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE PREMIUM",HBO XTREME
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/67
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURAL",DISCOVERY TURBO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/69
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://www.pngkit.com/png/full/376-3767975_fxx-us-hd-fxx-logo-png.png" group-title="CINE PREMIUM",FXX
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/70
+
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE PREMIUM",FXM
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/72
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png" group-title="CINE PREMIUM",SYFY
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/73
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURAL",ANIMAL PLANET
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/75
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/910px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO",TELEMUNDO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/77
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="ENTRETENIMIENTO",TBS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/76
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1280px-MTV_Logo_2010.svg.png" group-title="ENTRETENIMIENTO",MTV
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/79
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/80
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PEPA" tvg-logo="https://es.peppapig.com/wp-content/uploads/sites/6/2019/03/cropped-peppa_logo.png" group-title="CANALES 24/7",PEPA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/160
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPOJA" tvg-logo="https://www.mipeluchito.com/wp-content/uploads/logo-bob-esponja-300x200.png" group-title="CANALES 24/7",BOB ESPOJA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/152
+#EXTINF:-1 tvg-id="" tvg-name="CORRE CAMINOS" tvg-logo="https://media0.webgarden.es/images/media0:59bb9b2014bc0.png/coyoteycorrecaminos-1.png" group-title="CANALES 24/7",CORRE CAMINOS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/149
+#EXTINF:-1 tvg-id="" tvg-name="CUENTOS DE LOS HERMANOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Grimm_Logo.png" group-title="CANALES 24/7",CUENTOS DE LOS HERMANOS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/148
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="CANALES 24/7",DRAGON BALL SUPER
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/147
+#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Courage_the_Cowardly_Dog_logo.svg/1200px-Courage_the_Cowardly_Dog_logo.svg.png" group-title="CANALES 24/7",CORAJE EL PERRO COBARDE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/150
+#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL ZODIACO" tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="CANALES 24/7",CABALLEROS DEL ZODIACO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/153
+#EXTINF:-1 tvg-id="" tvg-name="DINOSAURIOS" tvg-logo="https://miro.medium.com/max/690/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="CANALES 24/7",DINOSAURIOS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/146
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="CANALES 24/7",DRAGON BALL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/145
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" group-title="CINE PREMIUM",FOX COMEDY
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/144
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANALES 24/7",DRAGON BALL Z
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/143
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="CANALES 24/7",DRAGON BALL GT
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/142
+#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSICS" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023531111/FOX_Classics_HD.png" group-title="CINE PREMIUM",FOX CLASSICS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/141
+#EXTINF:-1 tvg-id="" tvg-name="MUSICTOP" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" group-title="MUSICALES",MUSICTOP
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/140
+#EXTINF:-1 tvg-id="" tvg-name="RADIO COMPANY" tvg-logo="http://www.areacompanyonline.com/logo.png" group-title="MUSICALES",RADIO COMPANY
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/139
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO" tvg-logo="https://www.vhv.rs/dpng/d/534-5340278_chavo-del-8-png-chavo-del-8-logo.png" group-title="CANALES 24/7",EL CHAVO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/137
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="ENTRETENIMIENTO",DHE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/136
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICALES",VH1
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/135
+
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/134
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="CANALES 24/7",EL CHAPULIN COLORADO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/133
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="MUSICALES",TELEHIT
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/132
+#EXTINF:-1 tvg-id="" tvg-name="E ENTERTAIMENT " tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="ENTRETENIMIENTO",E ENTERTAIMENT 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/131
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="CANALES 24/7",FUTURAMA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/130
+#EXTINF:-1 tvg-id="" tvg-name="MALCOLM" tvg-logo="https://2.bp.blogspot.com/-q1-No2xCa98/VnivktNNkBI/AAAAAAAAAS0/2mu3jh93u9o/s1600-r/80C.png" group-title="CANALES 24/7",MALCOLM
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/128
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://cdn131.picsart.com/278369787022211.png" group-title="MÉXICO",ADN 40
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/126
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICALES",MTV HITS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/129
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="MÉXICO",AZTECA UNO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/125
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1024px-Naruto_logo.svg.png" group-title="CANALES 24/7",NARUTO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/124
+#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://i.imgur.com/TB2dJz7.png" group-title="MÉXICO",TELEFORMULA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/123
+#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="https://www.leverescaperoom.com/wp-content/uploads/Pinkpanther-logo.svg_.png" group-title="CANALES 24/7",LA PANTERA ROSA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/122
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA " tvg-logo="https://static.wixstatic.com/media/0cd32b_91fe205f4689457c92bd222cb787e186~mv2.png" group-title="MÉXICO",AZTECA CINEMA 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/121
+#EXTINF:-1 tvg-id="" tvg-name="PINKY Y CEREBRO" tvg-logo="https://www.cool90s.com/images/Pinky%20and%20the%20Brain.png" group-title="CANALES 24/7",PINKY Y CEREBRO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/120
+#EXTINF:-1 tvg-id="" tvg-name="CNN " tvg-logo="https://www.pngkit.com/png/full/987-9872747_cnn-international-logo-png-cnn-logo.png" group-title="CULTURAL",CNN 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/119
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="CULTURAL",HISTORY CHANNEL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/118
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/1200px-Logo_de_FUTV.svg.png" group-title="DEPORTES",FUTV
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/117
+
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="CULTURAL",NAT GEO 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/115
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURAL",DISCOVERY THEATHER
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/114
+#EXTINF:-1 tvg-id="" tvg-name="DICOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1024px-Discovery_Science_2017_Logo.svg.png" group-title="CULTURAL",DICOVERY SCIENCE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/113
+
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1024px-International_Pok%C3%A9mon_logo.svg.png" group-title="CANALES 24/7",POKEMON
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/111
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Smallville_2001_logo.svg/1200px-Smallville_2001_logo.svg.png" group-title="CANALES 24/7",SMALLVILLE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/109
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK" tvg-logo="https://www.tdogmedia.com/wp-content/uploads/2015/07/South-Park.png" group-title="CANALES 24/7",SOUTH PARK
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/108
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CAMPEONES" tvg-logo="https://cdn-cms.bnea.io/sites/default/files/games/logo/197476118373750.png" group-title="CANALES 24/7",SUPER CAMPEONES
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/107
+#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOON" tvg-logo="https://toppng.com/uploads/preview/very-first-anime-you-watched-sailor-moon-logo-vector-11563248372st7ly1w4cr.png" group-title="CANALES 24/7",SAILOR MOON
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/110
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://seeklogo.com/images/C/caracol-television-2017-logo-E3E35240F8-seeklogo.com.png" group-title="COLOMBIA ",CARACOL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/106
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://i.redd.it/w3v6xn3c74c31.png" group-title="CANALES 24/7",X-MEN
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/105
+
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/16
+
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 1- 5" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 1- 5
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/304
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 6-11" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 6-11
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/305
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS 12-17" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS 12-17
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/308
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 18-21" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 18-21
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/309
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 22-26" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 22-26
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/310
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MÉXICO",LAS ESTRELLAS 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/336
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="MÉXICO",TELENOVELAS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/337
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/1264px-Televisa_logo.svg.png" group-title="MÉXICO",TELEVISA
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/338
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-family-blanco.png.ff94e0e2127dd2bae75d63e66395f10b.png" group-title="CINE PREMIUM",FOX FAMILY
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/339
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN  EDGE" tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="CINE PREMIUM",GOLDEN  EDGE
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/340
+#EXTINF:-1 tvg-id="" tvg-name="TELERITMO" tvg-logo="https://image.multimedios.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.png" group-title="MUSICALES",TELERITMO
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/341
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE PREMIUM",GOLDEN PLUS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/343
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",HBO MUNDI
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/344
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO SPORTS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/345
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="DEPORTES",#VAMOS 
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/346
+#EXTINF:-1 tvg-id="" tvg-name="PXSPORTS" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.PX-Sports.png.69799a483e3fdec5415743ea9563dda1.png" group-title="DEPORTES",PXSPORTS
+http://209.126.106.6:25468/cambioexperience/4kiS8le1al/347
