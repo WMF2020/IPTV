@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,ORIENTE P. Vs ROYAL PARI (REPLAY)
+https://ffb3ffefff0aa4670fcc4808dcdff345.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/3af718b5bb9f4159881da3342d03483b/43df23046a0945debada275186b172a3/2b2e2c8af0a746e78406f67205d49b65/7d643e78918c4fef8eba45280b6238ce/2ce971dd15d2458a8299e918c713aad3/index_6.m3u8
+
+#EXTINF:-1,ALWAYS READY P. Vs GUABIRA (REPLAY)
+https://ffb3ffefff0aa4670fcc4808dcdff345.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/24b4748dc4f14366b1695e515eb88ccb/43df23046a0945debada275186b172a3/2b2e2c8af0a746e78406f67205d49b65/7935479688894ee1b0e431ab511a75af/2ce971dd15d2458a8299e918c713aad3/index_6.m3u8
+
+#EXTINF:-1,MUNICIPAL VINTO P. Vs BOLIVAR (REPLAY)
+https://ffb3ffefff0aa4670fcc4808dcdff345.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/750765a3f192411b9811ff8064b11883/43df23046a0945debada275186b172a3/2b2e2c8af0a746e78406f67205d49b65/8546659b9a08466bb29575f38368a8ca/2ce971dd15d2458a8299e918c713aad3/index_6.m3u8
+
+#EXTINF:-1,SAN JOSÉ Vs THE STRONGEST (REPLAY)
+https://ffb3ffefff0aa4670fcc4808dcdff345.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/7c25d329b7c84952836016433706bbe0/43df23046a0945debada275186b172a3/2b2e2c8af0a746e78406f67205d49b65/06681881f1ec4709ad390641d5bd1370/2ce971dd15d2458a8299e918c713aad3/index_6.m3u8
+
+#EXTINF:-1,WILSTERMANN Vs NACIONAL POTOSI (REPLAY)
+https://ffb3ffefff0aa4670fcc4808dcdff345.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/495565fb613d46cb96c5ce0509251877/43df23046a0945debada275186b172a3/2b2e2c8af0a746e78406f67205d49b65/ca7ee876fad14152ab61c1d5b20087b9/2ce971dd15d2458a8299e918c713aad3/index_6.m3u8
 
 #EXTINF:-1,WILSTERMANN Vs ROYAL PARI (REPLAY)
 https://ffb3ffefff0aa4670fcc4808dcdff345.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/cbd84de38bde473f80ca2e5888b0554d/43df23046a0945debada275186b172a3/2b2e2c8af0a746e78406f67205d49b65/c0cbb767aaab41ec9809b8dca2d77916/2ce971dd15d2458a8299e918c713aad3/index_6.m3u8
