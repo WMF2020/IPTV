@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Mix 24-7
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
+#EXTINF:-1,Mix 24-7 Top 100
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
+#EXTINF:-1,Mix 24-7 Tropical
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
+#EXTINF:-1,Mix 24-7 Retro
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
+#EXTINF:-1,Mix 24-7 Pop
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
+#EXTINF:-1,Mix 24-7 Vintage
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
+#EXTINF:-1,ConciertosLive
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
