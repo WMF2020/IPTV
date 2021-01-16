@@ -9,8 +9,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/13
 #EXTINF:-1 tvg-id="" tvg-name="INFANTIL | BOOMERANG" tvg-logo="http://158.69.24.110/posters/1502829251219.jpg" group-title="(INFANTIL)",INFANTIL | BOOMERANG
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/37
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="(INFANTIL)",INFANTIL | CARTOON NETWORK
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/39
+
 #EXTINF:-1 tvg-id="" tvg-name="INFANTIL | DISNEY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502829290456.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY CHANNEL
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/43
 #EXTINF:-1 tvg-id="" tvg-name="INFANTIL | DISNEY JUNIOR" tvg-logo="http://158.69.24.110/posters/1502829304423.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY JUNIOR
@@ -83,8 +82,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/336
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/338
 #EXTINF:-1 tvg-id="" tvg-name="MX-AZTECA 7 HD*" tvg-logo="http://158.69.24.110/posters/1503359114130.jpg" group-title="MEXICO PREMIUM",MX-AZTECA 7 HD*
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/342
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="http://158.69.24.110/posters/1502828403504.jpg" group-title="ENTRETENIMIENTO",UNICABLE
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/361
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE: A3 SERIES INTERNATIONAL" tvg-logo="http://158.69.24.110/posters/1527112686131.jpg" group-title="CINE FAMILIAR",CINE: A3 SERIES INTERNATIONAL
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/401
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="http://158.69.24.110/posters/1517080529348.jpg" group-title="COLOMBIA",CARACOL
@@ -133,26 +131,20 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/873
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/874
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES: WIN SPORTS (opcion 5)" tvg-logo="" group-title="(DEPORTES)",DEPORTES: WIN SPORTS (opcion 5)
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/879
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CNN EN ESPAÑOL S" tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/cnn-espanol.png" group-title="NOTICIAS",NOTICIAS: CNN EN ESPAÑOL S
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1045
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG| America TV" tvg-logo="" group-title="ARGENTINA",ARG| America TV
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1057
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Canal 9" tvg-logo="" group-title="ARGENTINA",ARG| Canal 9
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1058
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="ARGENTINA",CANAL 13
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1059
 #EXTINF:-1 tvg-id="" tvg-name="Deportes- Fox Sports Premium 2" tvg-logo="" group-title="(DEPORTES)",Deportes- Fox Sports Premium 2
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1069
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Garage TV" tvg-logo="" group-title="ARGENTINA",ARG| Garage TV
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1070
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TN" tvg-logo="" group-title="ARGENTINA",ARG| TN
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1074
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TV Publica" tvg-logo="" group-title="ARGENTINA",ARG| TV Publica
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1075
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="" group-title="REPUBLICA DOMINICANA",Color Vision 9
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1094
-#EXTINF:-1 tvg-id="" tvg-name="Fuego TV" tvg-logo="" group-title="REPUBLICA DOMINICANA",Fuego TV
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1100
+
 #EXTINF:-1 tvg-id="" tvg-name="Super TV 55 Santiago" tvg-logo="" group-title="REPUBLICA DOMINICANA",Super TV 55 Santiago
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1107
 #EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleantillas Canal 2
@@ -201,8 +193,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10912
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10913
 #EXTINF:-1 tvg-id="" tvg-name="UY | Cardinal TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg" group-title="URUGUAY",UY | Cardinal TV
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10914
-#EXTINF:-1 tvg-id="" tvg-name="UY | Charrua TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URUGUAY",UY | Charrua TV
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10915
+
 #EXTINF:-1 tvg-id="" tvg-name="UY | Pantalla IMPO" tvg-logo="https://www.impo.com.uy/wp_impo/wp-content/uploads/2015/12/Eventos-1.jpg" group-title="URUGUAY",UY | Pantalla IMPO
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10919
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal 10 HD" tvg-logo="https://i.pinimg.com/originals/66/e9/06/66e906d27abd2a8378e43c95efabce3b.png" group-title="URUGUAY",UY | Canal 10 HD
@@ -211,8 +202,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10923
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10929
 #EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru HD" tvg-logo="" group-title="PERU",PE | TV Peru HD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10930
-#EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru Noticias" tvg-logo="" group-title="PERU",PE | TV Peru Noticias
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10931
+
 #EXTINF:-1 tvg-id="" tvg-name="Deportes-WIN SPORT (opcion 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" group-title="(DEPORTES)",Deportes-WIN SPORT (opcion 1)
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10932
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES: FUTV CR OPC 1" tvg-logo="https://www.nacion.com/resizer/d_Jdge_gFdDd8K295xjWh1edNXg=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/BZAFW4DBWRBGJPAYNKXOVSSDHM.png" group-title="COSTA RICA",DEPORTES: FUTV CR OPC 1
@@ -251,18 +241,15 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11004
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11007
 #EXTINF:-1 tvg-id="" tvg-name="Canal CNC Medellin" tvg-logo="" group-title="ENTRETENIMIENTO",Canal CNC Medellin
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11009
-#EXTINF:-1 tvg-id="" tvg-name="Melody Channel TV" tvg-logo="" group-title="ENTRETENIMIENTO",Melody Channel TV
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11010
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="" group-title="ENTRETENIMIENTO",Telecaribe
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11012
 #EXTINF:-1 tvg-id="" tvg-name="Telecaribe Deportes" tvg-logo="" group-title="(DEPORTES)",Telecaribe Deportes
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11013
 #EXTINF:-1 tvg-id="" tvg-name="PE: FRECUENCIA LATINA" tvg-logo="" group-title="PERU",PE: FRECUENCIA LATINA
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11016
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CNN INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/698975622274494464/_WS109jD_400x400.png" group-title="NOTICIAS",NOTICIAS: CNN INTERNACIONAL
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11023
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CABLE NOTICIAS" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",NOTICIAS: CABLE NOTICIAS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11024
+
+
 #EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CINE FAMILIAR",CINE: UNIVERSAL SD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28469
 #EXTINF:-1 tvg-id="" tvg-name="DOMINICANA*Telesistema" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2013/07/telesistema.png" group-title="REPUBLICA DOMINICANA",DOMINICANA*Telesistema
@@ -281,10 +268,8 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28507
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28511
 #EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREAM HD" tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="CINE FAMILIAR",CINE: HBO XTREAM HD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28523
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MUSICA | MTV LIVE
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28526
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV hit" tvg-logo="https://pbs.twimg.com/profile_images/1191732709787422722/t8WYVddw_400x400.jpg" group-title="MUSICA",MUSICA | MTV hit
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28528
+
+
 #EXTINF:-1 tvg-id="ID - Investigation Discovery (Invest.DiscoveryHD)" tvg-name="CULTURA | ID SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="(CULTURA)",CULTURA | ID SD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28532
 #EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name="CULTURA | HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="(CULTURA)",CULTURA | HISTORY 2
@@ -303,8 +288,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28560
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28562
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIA*BBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/635px-BBC_World_Service_red.svg.png" group-title="NOTICIAS",NOTICIA*BBC World
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28566
-#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 10" tvg-logo="https://cdn.canal10.com.ni/files/2019/09/04/LOGO.png" group-title="NICARAGUA",NICARAGUA*Canal 10
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28582
+
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal 11" tvg-logo="https://3.bp.blogspot.com/-Q_14fKfRfvw/UkI5gUhw-hI/AAAAAAAAA1w/K6ePWMa9FzU/s1600/teleonce.jpg" group-title="GUATEMALA",GUATEMALA*Canal 11
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28583
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA: Canal 13-" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA",GUATEMALA: Canal 13-
@@ -317,10 +301,8 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28590
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28591
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal 3" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/40/Canal_3_Guatemala_1979-1987.png/revision/latest/scale-to-width-down/340?cb=20170629182404&path-prefix=es" group-title="GUATEMALA",GUATEMALA*Canal 3
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28593
-#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 4" tvg-logo="https://canal4.com.ni/images/LogoC42.png" group-title="NICARAGUA",NICARAGUA*Canal 4
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28601
-#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="NICARAGUA",NICARAGUA*Canal 8
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28606
+
+
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal Antigua" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png" group-title="GUATEMALA",GUATEMALA*Canal Antigua
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28607
 #EXTINF:-1 tvg-id="" tvg-name="CHI| 24 Horas" tvg-logo="" group-title="CHILE",CHI| 24 Horas
@@ -365,8 +347,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31474
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31490
 #EXTINF:-1 tvg-id="CINEMAX HD (Cinemax HD)" tvg-name="CINE: CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE FAMILIAR",CINE: CINEMAX
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/32014
-#EXTINF:-1 tvg-id="" tvg-name="AMORDISCO TV" tvg-logo="" group-title="COLOMBIA",AMORDISCO TV
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/32425
+
 #EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILEVISION
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/33016
 #EXTINF:-1 tvg-id="" tvg-name="CO: RCN " tvg-logo="http://158.69.24.110/posters/1502828302331.jpg" group-title="COLOMBIA",CO: RCN 
@@ -413,10 +394,8 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35105
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35115
 #EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PANAMA",LAT*NEXT - PAN
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35123
-#EXTINF:-1 tvg-id="" tvg-name="LAT*NU MUSIC" tvg-logo="" group-title="MUSICA",LAT*NU MUSIC
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35124
-#EXTINF:-1 tvg-id="" tvg-name="LAT*RHEMA TV" tvg-logo="" group-title="",LAT*RHEMA TV
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35129
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE: SyFy SD" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.syfy.png.pagespeed.ic.HEaEjd3wrS.png" group-title="CINE FAMILIAR",CINE: SyFy SD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35136
 #EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PANAMA",LAT*TV  Max - PAN
@@ -425,10 +404,8 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35140
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35143
 #EXTINF:-1 tvg-id="" tvg-name="TeleMicro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",TeleMicro - RD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35145
-#EXTINF:-1 tvg-id="" tvg-name="Telecentro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telecentro - RD
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35146
-#EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telesistema RD
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35149
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Teleunion - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleunion - RD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35150
 #EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleuniverso - RD
@@ -441,8 +418,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35159
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35162
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES |  LA LIGA TV BAR HD" tvg-logo="" group-title="(DEPORTES)",DEPORTES |  LA LIGA TV BAR HD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35169
-#EXTINF:-1 tvg-id="" tvg-name="PY | TIGO SPORTS PLUS" tvg-logo="" group-title="PARAGUAY",PY | TIGO SPORTS PLUS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35232
+
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA: MAGAZINE TV" tvg-logo="" group-title="ARGENTINA",ARGENTINA: MAGAZINE TV
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35234
 #EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CR: | CANAL 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="COSTA RICA",CR: | CANAL 6 SD
@@ -451,8 +427,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35476
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35477
 #EXTINF:-1 tvg-id="" tvg-name="CR: | TELETICA 7" tvg-logo="" group-title="COSTA RICA",CR: | TELETICA 7
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35480
-#EXTINF:-1 tvg-id="" tvg-name="DEP | M. Liga Campeones  FHD (SOLO EVENTOS)" tvg-logo="" group-title="",DEP | M. Liga Campeones  FHD (SOLO EVENTOS)
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35551
+
 #EXTINF:-1 tvg-id="FOX Action (Fox Action HD)" tvg-name="CINE: FOX ACTION SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINE FAMILIAR",CINE: FOX ACTION SD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/55864
 #EXTINF:-1 tvg-id="" tvg-name="Canal_de_las_estrellas" tvg-logo="" group-title="ENTRETENIMIENTO",Canal_de_las_estrellas
@@ -517,8 +492,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58349
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58350
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Golf Channel HD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58351
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*HBO Family HD
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58352
+
 #EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*History HD
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58353
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Max Prime HD
@@ -549,8 +523,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58584
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58585
 #EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="LATINOS PREMIUM",LAT*13-Sinart
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58586
-#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="LATINOS PREMIUM",LAT*29 - VM Latino
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58587
+
 #EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="LATINOS PREMIUM",LAT*42 - Extra TV 42
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58588
 #EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="LATINOS PREMIUM",LAT*6 - Repretel
@@ -619,64 +592,7 @@ http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58686
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58689
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5163KwhxYrL._SY445_.jpg" group-title="24/7",24/7 La Risa en Vacaciones
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58690
-#EXTINF:-1 tvg-id="" tvg-name="MLB 2" tvg-logo="" group-title="MLB 2020",MLB 2
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58695
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ANGELS" tvg-logo="" group-title="MLB 2020",MLB | ANGELS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58696
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ASTROS" tvg-logo="" group-title="MLB 2020",MLB | ASTROS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58697
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ATHLETICS" tvg-logo="" group-title="MLB 2020",MLB | ATHLETICS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58698
-#EXTINF:-1 tvg-id="" tvg-name="MLB | BLUE JAYS" tvg-logo="" group-title="MLB 2020",MLB | BLUE JAYS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58699
-#EXTINF:-1 tvg-id="" tvg-name="MLB | BRAVES" tvg-logo="" group-title="MLB 2020",MLB | BRAVES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58700
-#EXTINF:-1 tvg-id="" tvg-name="MLB | BREWERS" tvg-logo="" group-title="MLB 2020",MLB | BREWERS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58701
-#EXTINF:-1 tvg-id="" tvg-name="MLB | CARDINALS" tvg-logo="" group-title="MLB 2020",MLB | CARDINALS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58702
-#EXTINF:-1 tvg-id="" tvg-name="MLB | CUBS" tvg-logo="" group-title="MLB 2020",MLB | CUBS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58703
-#EXTINF:-1 tvg-id="" tvg-name="MLB | D-BACKS" tvg-logo="" group-title="MLB 2020",MLB | D-BACKS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58704
-#EXTINF:-1 tvg-id="" tvg-name="MLB | DODGERS" tvg-logo="" group-title="MLB 2020",MLB | DODGERS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58705
-#EXTINF:-1 tvg-id="" tvg-name="MLB | GIANTS" tvg-logo="" group-title="MLB 2020",MLB | GIANTS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58706
-#EXTINF:-1 tvg-id="" tvg-name="MLB | MARINERS" tvg-logo="" group-title="MLB 2020",MLB | MARINERS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58707
-#EXTINF:-1 tvg-id="" tvg-name="MLB | Marlins" tvg-logo="" group-title="MLB 2020",MLB | Marlins
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58708
-#EXTINF:-1 tvg-id="" tvg-name="MLB | METS" tvg-logo="" group-title="MLB 2020",MLB | METS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58709
-#EXTINF:-1 tvg-id="" tvg-name="MLB | NATIONALS" tvg-logo="" group-title="MLB 2020",MLB | NATIONALS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58710
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ORIOLES" tvg-logo="" group-title="MLB 2020",MLB | ORIOLES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58711
-#EXTINF:-1 tvg-id="" tvg-name="MLB | PADRES" tvg-logo="" group-title="MLB 2020",MLB | PADRES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58712
-#EXTINF:-1 tvg-id="" tvg-name="MLB | PHILLIES" tvg-logo="" group-title="MLB 2020",MLB | PHILLIES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58713
-#EXTINF:-1 tvg-id="" tvg-name="MLB | PIRATES" tvg-logo="" group-title="MLB 2020",MLB | PIRATES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58714
-#EXTINF:-1 tvg-id="" tvg-name="MLB | RANGERS" tvg-logo="" group-title="MLB 2020",MLB | RANGERS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58715
-#EXTINF:-1 tvg-id="" tvg-name="MLB | RAYS" tvg-logo="" group-title="MLB 2020",MLB | RAYS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58716
-#EXTINF:-1 tvg-id="" tvg-name="MLB | RED SOX" tvg-logo="" group-title="MLB 2020",MLB | RED SOX
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58717
-#EXTINF:-1 tvg-id="" tvg-name="MLB | REDS" tvg-logo="" group-title="MLB 2020",MLB | REDS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58718
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ROCKIES" tvg-logo="" group-title="MLB 2020",MLB | ROCKIES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58719
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ROYALS" tvg-logo="" group-title="MLB 2020",MLB | ROYALS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58720
-#EXTINF:-1 tvg-id="" tvg-name="MLB | TWINS" tvg-logo="" group-title="MLB 2020",MLB | TWINS
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58721
-#EXTINF:-1 tvg-id="" tvg-name="MLB | WHITE SOX" tvg-logo="" group-title="MLB 2020",MLB | WHITE SOX
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58722
-#EXTINF:-1 tvg-id="" tvg-name="MLB | YANKEES" tvg-logo="" group-title="MLB 2020",MLB | YANKEES
-http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58723
+
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO: Canal 5 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO PREMIUM",MEXICO: Canal 5 *
 http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58907
 #EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSOSN TEMP1-5" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSOSN TEMP1-5
