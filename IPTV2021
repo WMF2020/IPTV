@@ -1,0 +1,693 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/2
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="https://pbs.twimg.com/profile_images/986698932926468096/Dck2pa4b_400x400.jpg" group-title="ECUADOR",TELEAMAZONAS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/4
+#EXTINF:-1 tvg-id="" tvg-name="ECU: CANAL UNO" tvg-logo="" group-title="ECUADOR",ECU: CANAL UNO
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10
+#EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="ECUADOR",ECU: OROMAR TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/13
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | BOOMERANG" tvg-logo="http://158.69.24.110/posters/1502829251219.jpg" group-title="(INFANTIL)",INFANTIL | BOOMERANG
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/37
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="(INFANTIL)",INFANTIL | CARTOON NETWORK
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/39
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | DISNEY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502829290456.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY CHANNEL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/43
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | DISNEY JUNIOR" tvg-logo="http://158.69.24.110/posters/1502829304423.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY JUNIOR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/44
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | DISNEY XD" tvg-logo="http://158.69.24.110/posters/1502829321394.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY XD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/45
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | NICKELODEON" tvg-logo="http://158.69.24.110/posters/1502829382339.jpg" group-title="(INFANTIL)",INFANTIL | NICKELODEON
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/48
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | NICK 2" tvg-logo="http://158.69.24.110/posters/1527121519146.jpg" group-title="(INFANTIL)",INFANTIL | NICK 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/51
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | NICKTOONS" tvg-logo="http://158.69.24.110/posters/1502829371377.jpg" group-title="(INFANTIL)",INFANTIL | NICKTOONS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/53
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | TOONCAST" tvg-logo="http://158.69.24.110/posters/1502829416567.jpg" group-title="(INFANTIL)",INFANTIL | TOONCAST
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/55
+#EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CINE: CINECANAL HD" tvg-logo="http://158.69.24.110/posters/1527114495213.jpg" group-title="CINE FAMILIAR",CINE: CINECANAL HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60
+#EXTINF:-1 tvg-id="Canal De Película" tvg-name="CINE: DE PELICULA" tvg-logo="http://158.69.24.110/posters/1502829551251.jpg" group-title="CINE FAMILIAR",CINE: DE PELICULA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/63
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: FOX CINEMA" tvg-logo="http://158.69.24.110/posters/1502829582401.jpg" group-title="CINE FAMILIAR",CINE: FOX CINEMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/68
+#EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CINE: FOX CLASSICS" tvg-logo="http://158.69.24.110/posters/1502829596198.jpg" group-title="CINE FAMILIAR",CINE: FOX CLASSICS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/69
+#EXTINF:-1 tvg-id="" tvg-name="CINE: FXM" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="CINE FAMILIAR",CINE: FXM
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/73
+#EXTINF:-1 tvg-id="Canal Golden Edge" tvg-name="CINE: GOLDEN EDGE" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="CINE FAMILIAR",CINE: GOLDEN EDGE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/77
+#EXTINF:-1 tvg-id="" tvg-name="CINE: STUDIO UNIVERSAL" tvg-logo="https://4.bp.blogspot.com/-GWYPDztrmio/TmcVUzOhRZI/AAAAAAAAMag/8SAtw20RYnc/s1600/Studio+Universal+MultiChoice+DStv.png" group-title="CINE FAMILIAR",CINE: STUDIO UNIVERSAL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/90
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: TCM SD" tvg-logo="https://d14smv89t73oqm.cloudfront.net/dynamic/section/00000000/37/9904952f96100b8cf10c5c25e4c3459057f3c44d_1564649003.jpg" group-title="CINE FAMILIAR",CINE: TCM SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/96
+#EXTINF:-1 tvg-id="" tvg-name="CINE: TNT" tvg-logo="https://img1.pnghut.com/16/12/10/rWWBR9N4S6/paper-tnt-bon-scott-logo-tshirt.jpg" group-title="CINE FAMILIAR",CINE: TNT
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/97
+#EXTINF:-1 tvg-id="Canal beIN Sport en Español" tvg-name="DEPORTES | BEIN SPORTS N " tvg-logo="https://sport-tv-guide.live/images/stations/a85.png" group-title="(DEPORTES)",DEPORTES | BEIN SPORTS N 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/128
+#EXTINF:-1 tvg-id="Canal TyC Sports" tvg-name="DEPORTES | TyC SPORTS Inter" tvg-logo="https://pbs.twimg.com/profile_images/1233335586582339585/AY-7RI1m_400x400.jpg" group-title="(DEPORTES)",DEPORTES | TyC SPORTS Inter
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/130
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="(DEPORTES)",DEPORTES | DIRECTV SPORTS 1 HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/132
+#EXTINF:-1 tvg-id="Fox Sports 3 (Fox Sports 3 HD)" tvg-name="DEPORTES | FOX SPORTS 3 opc 2" tvg-logo="https://pbs.twimg.com/profile_images/1212793409972428802/GOVO09Xq_400x400.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 opc 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/133
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | UNIVISION DEPORTES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/UDN-Image-1.jpg/revision/latest/scale-to-width-down/340?cb=20190405094925" group-title="(DEPORTES)",DEPORTES | UNIVISION DEPORTES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/134
+#EXTINF:-1 tvg-id="Canal TyC Sports" tvg-name="DEPORTES | TyC SPORTS" tvg-logo="https://img.utdstc.com/icons/tyc-sports-android.png:225" group-title="(DEPORTES)",DEPORTES | TyC SPORTS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/137
+#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEPORTES | FOX SPORTS PREMIUM " tvg-logo="https://sport-tv-guide.live/images/stations/a1695.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS PREMIUM 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/138
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV ECUADOR" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2012/08/goltv-logo1.jpg" group-title="(DEPORTES)",DEPORTES | GOL TV ECUADOR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/139
+#EXTINF:-1 tvg-id="ESPN 3 (Norte)" tvg-name="DEPORTES | ESPN 3 Mx " tvg-logo="https://latelegratis.com/logos/espn3mx.png" group-title="(DEPORTES)",DEPORTES | ESPN 3 Mx 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/141
+#EXTINF:-1 tvg-id="ESPN 2 México" tvg-name="DEPORTES | ESPN 2 Mx " tvg-logo="https://latelegratis.com/logos/espn2mx.png" group-title="(DEPORTES)",DEPORTES | ESPN 2 Mx 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/142
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 1 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 1 MX
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/148
+#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 2 MX" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/01/FOX-SPORTS-2-MX-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 2 MX
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/149
+#EXTINF:-1 tvg-id="Canal Fox Sports 3 (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 3 MX" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/01/FOX-SPORTS-3-MX-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 MX
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/150
+#EXTINF:-1 tvg-id="Fox Sports 3 (Fox Sports 3 HD)" tvg-name="DEPORTES | FOX SPORTS 3 SUR" tvg-logo="https://www.supercable.com.pe/uploads/5/3/5/0/53505143/4284505.jpg" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 SUR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/151
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL PERÚ" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="(DEPORTES)",DEPORTES | GOL PERÚ
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/164
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a1256.png" group-title="(DEPORTES)",DEPORTES | DIRECTV SPORTS 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/165
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="http://158.69.24.110/posters/1527119903183.jpg" group-title="ENTRETENIMIENTO",LIFETIME
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/328
+#EXTINF:-1 tvg-id="Canal AMC (México)" tvg-name="CINE: AMC SD" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg" group-title="CINE FAMILIAR",CINE: AMC SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/336
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://158.69.24.110/posters/1508426614157.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/338
+#EXTINF:-1 tvg-id="" tvg-name="MX-AZTECA 7 HD*" tvg-logo="http://158.69.24.110/posters/1503359114130.jpg" group-title="MEXICO PREMIUM",MX-AZTECA 7 HD*
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/342
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="http://158.69.24.110/posters/1502828403504.jpg" group-title="ENTRETENIMIENTO",UNICABLE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/361
+#EXTINF:-1 tvg-id="" tvg-name="CINE: A3 SERIES INTERNATIONAL" tvg-logo="http://158.69.24.110/posters/1527112686131.jpg" group-title="CINE FAMILIAR",CINE: A3 SERIES INTERNATIONAL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/401
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="http://158.69.24.110/posters/1517080529348.jpg" group-title="COLOMBIA",CARACOL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/415
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://158.69.24.110/posters/1502828069321.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/416
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="https://static-s.aa-cdn.net/img/ios/289679193/564e707c7f7c0a39dbc4cb381429fe34?v=1" group-title="(DEPORTES)",DEPORTES | TUDN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/531
+#EXTINF:-1 tvg-id="Discovery H&H (Home Health HD)" tvg-name="CULTURA | DISCOVERY Home and Health" tvg-logo="https://www.saenzpeñavision.com.ar/images/canales/50.png" group-title="(CULTURA)",CULTURA | DISCOVERY Home and Health
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/535
+#EXTINF:-1 tvg-id="TLC (TLC)" tvg-name="CULTURA | DISCOVERY TLC" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/d6/d8/6fd6d8c4-7e7f-b036-9fb7-41ca7e404bdb/source/256x256bb.jpg" group-title="(CULTURA)",CULTURA | DISCOVERY TLC
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/539
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="CULTURA | DISCOVERY TURBO " tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="(CULTURA)",CULTURA | DISCOVERY TURBO 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/540
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="CULTURA | DISCOVERY SCIENCE" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-science.jpg" group-title="(CULTURA)",CULTURA | DISCOVERY SCIENCE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/551
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="CULTURA | DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png" group-title="(CULTURA)",CULTURA | DISCOVERY THEATER
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/552
+#EXTINF:-1 tvg-id="NAT GEO WILD (Nat Geo Wild)" tvg-name="CULTURA | NATGEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="(CULTURA)",CULTURA | NATGEO WILD HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/558
+#EXTINF:-1 tvg-id="Fox Sports (Fox Sports Col)" tvg-name="DEPORTES | FOX SPORTS 1 SUR" tvg-logo="http://51.79.20.225:25461/box_/LOGOSCANALES/deporteslatinos/FoxSportSur.jpg" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 1 SUR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/561
+#EXTINF:-1 tvg-id="Fox Sports 2 (Fox Sports 2 HD)" tvg-name="DEPORTES | FOX SPORTS 2 SUR" tvg-logo="http://51.79.20.225:25461/box_/LOGOSCANALES/deporteslatinos/FoxSport2SurAmerica.jpg" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 2 SUR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/562
+#EXTINF:-1 tvg-id="Fox Sports 3 (Fox Sports 3 HD)" tvg-name="DEPORTES | FOX SPORTS 3 Sur" tvg-logo="http://51.79.20.225:25461/box_/LOGOSCANALES/deporteslatinos/FoxSport3SurAmerica.jpg" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 Sur
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/563
+#EXTINF:-1 tvg-id="ESPN Sur" tvg-name="DEPORTES | ESPN 1 SUR " tvg-logo="http://51.79.20.225:25461/box_/LOGOSCANALES/deporteslatinos/Espn1Sur.jpg" group-title="(DEPORTES)",DEPORTES | ESPN 1 SUR 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/569
+#EXTINF:-1 tvg-id="ESPN 2 Sur" tvg-name="DEPORTES | ESPN 2 SUR" tvg-logo="http://51.79.20.225:25461/box_/LOGOSCANALES/deporteslatinos/Espn2Sur.jpg" group-title="(DEPORTES)",DEPORTES | ESPN 2 SUR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/570
+#EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CINE: A&E" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/ae-logo-png-transparent.png" group-title="CINE FAMILIAR",CINE: A&E
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/601
+#EXTINF:-1 tvg-id="ESPN 3 Sur" tvg-name="DEPORTES | ESPN 3 Sur" tvg-logo="https://3.bp.blogspot.com/-82c6bJRjPO8/XJAO42gcD9I/AAAAAAAABQA/uanEh24soeYnM6TWORYfUlmD2shZ6VoPwCLcBGAs/s1600/espn3tv.png" group-title="(DEPORTES)",DEPORTES | ESPN 3 Sur
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/618
+#EXTINF:-1 tvg-id="Canal ESPN Deportes" tvg-name="DEPORTES | ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="(DEPORTES)",DEPORTES | ESPN DEPORTES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/619
+#EXTINF:-1 tvg-id="" tvg-name="CINE: HBO PLUS" tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="CINE FAMILIAR",CINE: HBO PLUS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/634
+#EXTINF:-1 tvg-id="HBO SIGNATURE (HBO Signature)" tvg-name="CINE: HBO SIGNATURE" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-SIGNATURE-NUEVO.jpg" group-title="CINE FAMILIAR",CINE: HBO SIGNATURE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/635
+#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Internacional" tvg-logo="" group-title="COLOMBIA",COL| Caracol Internacional
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/870
+#EXTINF:-1 tvg-id="" tvg-name="COL| NTN 24" tvg-logo="" group-title="COLOMBIA",COL| NTN 24
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/873
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA* RCN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",COLOMBIA* RCN Internacional
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/874
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: WIN SPORTS (opcion 5)" tvg-logo="" group-title="(DEPORTES)",DEPORTES: WIN SPORTS (opcion 5)
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/879
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CNN EN ESPAÑOL S" tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/cnn-espanol.png" group-title="NOTICIAS",NOTICIAS: CNN EN ESPAÑOL S
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1045
+#EXTINF:-1 tvg-id="" tvg-name="ARG| America TV" tvg-logo="" group-title="ARGENTINA",ARG| America TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1057
+#EXTINF:-1 tvg-id="" tvg-name="ARG| Canal 9" tvg-logo="" group-title="ARGENTINA",ARG| Canal 9
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1058
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="ARGENTINA",CANAL 13
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1059
+#EXTINF:-1 tvg-id="" tvg-name="Deportes- Fox Sports Premium 2" tvg-logo="" group-title="(DEPORTES)",Deportes- Fox Sports Premium 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1069
+#EXTINF:-1 tvg-id="" tvg-name="ARG| Garage TV" tvg-logo="" group-title="ARGENTINA",ARG| Garage TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1070
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TN" tvg-logo="" group-title="ARGENTINA",ARG| TN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1074
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TV Publica" tvg-logo="" group-title="ARGENTINA",ARG| TV Publica
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1075
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="" group-title="REPUBLICA DOMINICANA",Color Vision 9
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1094
+#EXTINF:-1 tvg-id="" tvg-name="Fuego TV" tvg-logo="" group-title="REPUBLICA DOMINICANA",Fuego TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1100
+#EXTINF:-1 tvg-id="" tvg-name="Super TV 55 Santiago" tvg-logo="" group-title="REPUBLICA DOMINICANA",Super TV 55 Santiago
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1107
+#EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleantillas Canal 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1108
+#EXTINF:-1 tvg-id="" tvg-name="Telecanal 28" tvg-logo="" group-title="ENTRETENIMIENTO",Telecanal 28
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1110
+#EXTINF:-1 tvg-id="" tvg-name="Telever Canal 12" tvg-logo="" group-title="ENTRETENIMIENTO",Telever Canal 12
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/1113
+#EXTINF:-1 tvg-id="" tvg-name="PER| AMERICATV" tvg-logo="" group-title="PERU",PER| AMERICATV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10776
+#EXTINF:-1 tvg-id="" tvg-name="PER| Panamericana Ultra HD" tvg-logo="" group-title="PERU",PER| Panamericana Ultra HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10787
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) PEPPA PIG" tvg-logo="https://www.peppapig.com/wp-content/uploads/sites/3/2019/03/paintbox_app_icon.png" group-title="24/7",(24/7) PEPPA PIG
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKÉMON" tvg-logo="http://pngriver.com/wp-content/uploads/2018/03/Download-Pokemon-PNG-Pic-For-Designing-Purpose.png" group-title="24/7",24/7 POKÉMON
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10885
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) PINKY Y CEREBRO" tvg-logo="https://i.ya-webdesign.com/images/cerebro-vector-3.png" group-title="24/7",(24/7) PINKY Y CEREBRO
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24/7",24/7 BOB ESPONJA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10887
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL SUPER" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="24/7",(24/7) DRAGON BALL SUPER
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10895
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL" tvg-logo="https://pngriver.com/wp-content/uploads/2018/04/Download-Dragon-Ball-Logo-PNG-File.png" group-title="24/7",(24/7) DRAGON BALL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10901
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL GT" tvg-logo="https://fanart.tv/fanart/tv/79275/hdclearart/dragon-ball-gt-56868eb879e3a.png" group-title="24/7",(24/7) DRAGON BALL GT
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10903
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) CHAPULIN COLORADO" tvg-logo="https://files.gamebanana.com/img/ico/sprays/el_chapulin_colorado.png" group-title="24/7",(24/7) CHAPULIN COLORADO
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10904
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) FUTURAMA" tvg-logo="http://pngimg.com/uploads/futurama/futurama_PNG4.png" group-title="24/7",(24/7) FUTURAMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10905
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 12 Melo" tvg-logo="https://pbs.twimg.com/profile_images/702229243741216773/PPmLWRSE_400x400.png" group-title="URUGUAY",UY | Canal 12 Melo
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10906
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 2 Lascano" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-lascano.png" group-title="URUGUAY",UY | Canal 2 Lascano
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10907
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 2 San Carlos" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="URUGUAY",UY | Canal 2 San Carlos
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10908
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 4 Paysandu" tvg-logo="https://pbs.twimg.com/profile_images/623905507414278144/m2Olr7dp_400x400.png" group-title="URUGUAY",UY | Canal 4 Paysandu
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10909
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 4 Salto" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="URUGUAY",UY | Canal 4 Salto
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10910
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 6 Durazno" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal6uruguay-324x160.png" group-title="URUGUAY",UY | Canal 6 Durazno
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10911
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 7 Punta" tvg-logo="http://canal7punta.tv/images/logo.png" group-title="URUGUAY",UY | Canal 7 Punta
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10912
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal-M" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg" group-title="URUGUAY",UY | Canal-M
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10913
+#EXTINF:-1 tvg-id="" tvg-name="UY | Cardinal TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg" group-title="URUGUAY",UY | Cardinal TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10914
+#EXTINF:-1 tvg-id="" tvg-name="UY | Charrua TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URUGUAY",UY | Charrua TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10915
+#EXTINF:-1 tvg-id="" tvg-name="UY | Pantalla IMPO" tvg-logo="https://www.impo.com.uy/wp_impo/wp-content/uploads/2015/12/Eventos-1.jpg" group-title="URUGUAY",UY | Pantalla IMPO
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10919
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 10 HD" tvg-logo="https://i.pinimg.com/originals/66/e9/06/66e906d27abd2a8378e43c95efabce3b.png" group-title="URUGUAY",UY | Canal 10 HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10923
+#EXTINF:-1 tvg-id="" tvg-name="PE | Peru Magico" tvg-logo="" group-title="PERU",PE | Peru Magico
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10929
+#EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru HD" tvg-logo="" group-title="PERU",PE | TV Peru HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10930
+#EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru Noticias" tvg-logo="" group-title="PERU",PE | TV Peru Noticias
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10931
+#EXTINF:-1 tvg-id="" tvg-name="Deportes-WIN SPORT (opcion 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" group-title="(DEPORTES)",Deportes-WIN SPORT (opcion 1)
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10932
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: FUTV CR OPC 1" tvg-logo="https://www.nacion.com/resizer/d_Jdge_gFdDd8K295xjWh1edNXg=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/BZAFW4DBWRBGJPAYNKXOVSSDHM.png" group-title="COSTA RICA",DEPORTES: FUTV CR OPC 1
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10933
+#EXTINF:-1 tvg-id="" tvg-name="Deportes-Tigo Sports CR" tvg-logo="" group-title="COSTA RICA",Deportes-Tigo Sports CR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10940
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA*NEXT 21" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pa-nex-tv-canal-21-3964.jpg" group-title="PANAMA",PANAMA*NEXT 21
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10955
+#EXTINF:-1 tvg-id="" tvg-name="PAN| OYE TV PANAMA" tvg-logo="" group-title="PANAMA",PAN| OYE TV PANAMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10956
+#EXTINF:-1 tvg-id="" tvg-name="PAN| RPC PANAMA" tvg-logo="" group-title="PANAMA",PAN| RPC PANAMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10957
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA*SER TV PANAMA" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMA",PANAMA*SER TV PANAMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10958
+#EXTINF:-1 tvg-id="" tvg-name="PAN| TVN PANAMA" tvg-logo="" group-title="PANAMA",PAN| TVN PANAMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10959
+#EXTINF:-1 tvg-id="" tvg-name="PAN| TV MAX PANAMA" tvg-logo="" group-title="PANAMA",PAN| TV MAX PANAMA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10960
+#EXTINF:-1 tvg-id="" tvg-name="PR | Wipr Canal 6" tvg-logo="" group-title="PUERTO RICO",PR | Wipr Canal 6
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10962
+#EXTINF:-1 tvg-id="" tvg-name="PR | Mega TV" tvg-logo="" group-title="PUERTO RICO",PR | Mega TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10963
+#EXTINF:-1 tvg-id="" tvg-name="PR | UNIVISION" tvg-logo="" group-title="PUERTO RICO",PR | UNIVISION
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10964
+#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA" tvg-logo="" group-title="PUERTO RICO",PR | WAPA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10966
+#EXTINF:-1 tvg-id="" tvg-name="PR | Wapa 2" tvg-logo="" group-title="PUERTO RICO",PR | Wapa 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10967
+#EXTINF:-1 tvg-id="" tvg-name="PR | Wapa America" tvg-logo="" group-title="PUERTO RICO",PR | Wapa America
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10968
+#EXTINF:-1 tvg-id="" tvg-name="PR | Teleoro Canal 13" tvg-logo="" group-title="PUERTO RICO",PR | Teleoro Canal 13
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/10969
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: HBO POP" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="CINE FAMILIAR",CINE: HBO POP
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11004
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-logo="" group-title="ENTRETENIMIENTO",Cali TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11007
+#EXTINF:-1 tvg-id="" tvg-name="Canal CNC Medellin" tvg-logo="" group-title="ENTRETENIMIENTO",Canal CNC Medellin
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11009
+#EXTINF:-1 tvg-id="" tvg-name="Melody Channel TV" tvg-logo="" group-title="ENTRETENIMIENTO",Melody Channel TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11010
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="" group-title="ENTRETENIMIENTO",Telecaribe
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11012
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe Deportes" tvg-logo="" group-title="(DEPORTES)",Telecaribe Deportes
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11013
+#EXTINF:-1 tvg-id="" tvg-name="PE: FRECUENCIA LATINA" tvg-logo="" group-title="PERU",PE: FRECUENCIA LATINA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11016
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CNN INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/698975622274494464/_WS109jD_400x400.png" group-title="NOTICIAS",NOTICIAS: CNN INTERNACIONAL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11023
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CABLE NOTICIAS" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",NOTICIAS: CABLE NOTICIAS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/11024
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CINE FAMILIAR",CINE: UNIVERSAL SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28469
+#EXTINF:-1 tvg-id="" tvg-name="DOMINICANA*Telesistema" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2013/07/telesistema.png" group-title="REPUBLICA DOMINICANA",DOMINICANA*Telesistema
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28474
+#EXTINF:-1 tvg-id="" tvg-name="Tele Antillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas2.png" group-title="REPUBLICA DOMINICANA",Tele Antillas
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28478
+#EXTINF:-1 tvg-id="Space (Space HD)" tvg-name="CINE: SPACE 1" tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png" group-title="CINE FAMILIAR",CINE: SPACE 1
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28497
+#EXTINF:-1 tvg-id="SONY SD" tvg-name="CINE: SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE FAMILIAR",CINE: SONY
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28499
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*RETRO TV" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="GUATEMALA",GUATEMALA*RETRO TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28503
+#EXTINF:-1 tvg-id="PARAMOUNT Channel SD" tvg-name="CINE: PARAMOUNT" tvg-logo="https://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png" group-title="CINE FAMILIAR",CINE: PARAMOUNT
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28507
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL | NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="(INFANTIL)",INFANTIL | NICK JR
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28511
+#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREAM HD" tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="CINE FAMILIAR",CINE: HBO XTREAM HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28523
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MUSICA | MTV LIVE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28526
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV hit" tvg-logo="https://pbs.twimg.com/profile_images/1191732709787422722/t8WYVddw_400x400.jpg" group-title="MUSICA",MUSICA | MTV hit
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28528
+#EXTINF:-1 tvg-id="ID - Investigation Discovery (Invest.DiscoveryHD)" tvg-name="CULTURA | ID SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="(CULTURA)",CULTURA | ID SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28532
+#EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name="CULTURA | HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="(CULTURA)",CULTURA | HISTORY 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28535
+#EXTINF:-1 tvg-id="HBO 2 (HBO 2 SD)" tvg-name="CINE: HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="CINE FAMILIAR",CINE: HBO 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28540
+#EXTINF:-1 tvg-id="HBO (HBO SD)" tvg-name="CINE: HBO 1" tvg-logo="https://www.vocespremium.com/wp-content/uploads/2017/11/HBO-1.png" group-title="CINE FAMILIAR",CINE: HBO 1
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28543
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Guatevision - GUA" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png" group-title="GUATEMALA",GUATEMALA*Guatevision - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28545
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE FAMILIAR",CINE: AXN SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28558
+#EXTINF:-1 tvg-id="Animal Planet (Animal Planet HD)" tvg-name="CULTURA | ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="(CULTURA)",CULTURA | ANIMAL PLANET
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28560
+#EXTINF:-1 tvg-id="" tvg-name="DOMINICANA*Antena 7- RD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="REPUBLICA DOMINICANA",DOMINICANA*Antena 7- RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28562
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIA*BBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/635px-BBC_World_Service_red.svg.png" group-title="NOTICIAS",NOTICIA*BBC World
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28566
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 10" tvg-logo="https://cdn.canal10.com.ni/files/2019/09/04/LOGO.png" group-title="NICARAGUA",NICARAGUA*Canal 10
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28582
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal 11" tvg-logo="https://3.bp.blogspot.com/-Q_14fKfRfvw/UkI5gUhw-hI/AAAAAAAAA1w/K6ePWMa9FzU/s1600/teleonce.jpg" group-title="GUATEMALA",GUATEMALA*Canal 11
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28583
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA: Canal 13-" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA",GUATEMALA: Canal 13-
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28587
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA:Canal 14" tvg-logo="https://www.vostv.com.ni/static/images/logo.png" group-title="NICARAGUA",NICARAGUA:Canal 14
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28588
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR*Canal 2 - ESA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR",EL SALVADOR*Canal 2 - ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28590
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 2" tvg-logo="https://canal2tv.com/wp-content/uploads/2016/11/LogoCanal2.png" group-title="NICARAGUA",NICARAGUA*Canal 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28591
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal 3" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/40/Canal_3_Guatemala_1979-1987.png/revision/latest/scale-to-width-down/340?cb=20170629182404&path-prefix=es" group-title="GUATEMALA",GUATEMALA*Canal 3
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28593
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 4" tvg-logo="https://canal4.com.ni/images/LogoC42.png" group-title="NICARAGUA",NICARAGUA*Canal 4
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28601
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="NICARAGUA",NICARAGUA*Canal 8
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28606
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal Antigua" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png" group-title="GUATEMALA",GUATEMALA*Canal Antigua
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28607
+#EXTINF:-1 tvg-id="" tvg-name="CHI| 24 Horas" tvg-logo="" group-title="CHILE",CHI| 24 Horas
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28610
+#EXTINF:-1 tvg-id="" tvg-name="CHI| CDO Premium" tvg-logo="" group-title="(DEPORTES)",CHI| CDO Premium
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28612
+#EXTINF:-1 tvg-id="" tvg-name="CHILE* TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CHILE",CHILE* TV Chile
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28617
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) ALF" tvg-logo="https://pbs.twimg.com/profile_images/378800000120793887/a5fddbffb9f8c700e5fddcda074348d9.png" group-title="24/7",(24/7) ALF
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28622
+#EXTINF:-1 tvg-id="" tvg-name="CHILE: CANAL 13" tvg-logo="" group-title="CHILE",CHILE: CANAL 13
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/28623
+#EXTINF:-1 tvg-id="FOX Comedy (Fox Comedy HD)" tvg-name="CINE: FOX COMEDY HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" group-title="CINE FAMILIAR",CINE: FOX COMEDY HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/29413
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES:  VTV PLUS" tvg-logo="https://pbs.twimg.com/profile_images/610526607258705920/ywLtXVDX_400x400.png" group-title="(DEPORTES)",DEPORTES:  VTV PLUS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/29772
+#EXTINF:-1 tvg-id="" tvg-name="PA: TELEMETRO 13" tvg-logo="https://img.utdstc.com/icons/telemetro-android.png:225" group-title="PANAMA",PA: TELEMETRO 13
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30117
+#EXTINF:-1 tvg-id="" tvg-name="peru: movistar plus" tvg-logo="" group-title="PERU",peru: movistar plus
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30118
+#EXTINF:-1 tvg-id="" tvg-name="RD DIGITAL 15" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD DIGITAL 15
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30119
+#EXTINF:-1 tvg-id="" tvg-name="COL: TELEANTIOQUIA" tvg-logo="" group-title="COLOMBIA",COL: TELEANTIOQUIA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30120
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) CANTINFLAS " tvg-logo="https://pbs.twimg.com/profile_images/2834612208/e64a24ad3c5159b1664a076e7f43aac4.jpeg" group-title="24/7",(24/7) CANTINFLAS 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30180
+#EXTINF:-1 tvg-id="" tvg-name="MLB BEISBOL" tvg-logo="https://pbs.twimg.com/profile_images/3659847571/3bd76f160bcb7b60e57c92f8f6bbf099.jpeg" group-title="(DEPORTES)",MLB BEISBOL
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30502
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES  NBA " tvg-logo="" group-title="(DEPORTES)",DEPORTES  NBA 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/30622
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL - DISCOVERY KIDS" tvg-logo="" group-title="(INFANTIL)",INFANTIL - DISCOVERY KIDS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31306
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS PLUS" tvg-logo="https://4.bp.blogspot.com/-LvkcDQBTXrg/VMqy0lgwlBI/AAAAAAAAAIs/1pzpfuhJvdc/s1600/Directv%2BSports%2BPlus%2Ben%2Bvivo%2Bonline.png" group-title="(DEPORTES)",DEPORTES | DIRECTV SPORTS PLUS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31453
+#EXTINF:-1 tvg-id="" tvg-name="CINE: WOW TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="CINE FAMILIAR",CINE: WOW TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31466
+#EXTINF:-1 tvg-id="" tvg-name="CHILE: TVN" tvg-logo="" group-title="CHILE",CHILE: TVN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31473
+#EXTINF:-1 tvg-id="" tvg-name="CHILE: MEGA" tvg-logo="" group-title="CHILE",CHILE: MEGA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31474
+#EXTINF:-1 tvg-id="Canal TNT Series" tvg-name="CINE: TNT SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt-series_m.png" group-title="CINE FAMILIAR",CINE: TNT SERIES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/31490
+#EXTINF:-1 tvg-id="CINEMAX HD (Cinemax HD)" tvg-name="CINE: CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE FAMILIAR",CINE: CINEMAX
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/32014
+#EXTINF:-1 tvg-id="" tvg-name="AMORDISCO TV" tvg-logo="" group-title="COLOMBIA",AMORDISCO TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/32425
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILEVISION
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/33016
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN " tvg-logo="http://158.69.24.110/posters/1502828302331.jpg" group-title="COLOMBIA",CO: RCN 
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/33485
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CDF FHD PREMIUM" tvg-logo="https://apprecs.org/ios/images/app-icons/256/44/520848964.jpg" group-title="(DEPORTES)",DEPORTES | CDF FHD PREMIUM
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/33912
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: HBO XTREME" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg" group-title="CINE FAMILIAR",CINE: HBO XTREME
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/33916
+#EXTINF:-1 tvg-id="" tvg-name="CHILE: LA RED" tvg-logo="" group-title="CHILE",CHILE: LA RED
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/33917
+#EXTINF:-1 tvg-id="" tvg-name="CDN 37 RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",CDN 37 RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35042
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CANAL 13 - NI" tvg-logo="" group-title="NICARAGUA",LAT*CANAL 13 - NI
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35051
+#EXTINF:-1 tvg-id="" tvg-name="CDN2- RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",CDN2- RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35054
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal  21 - ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35060
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 12 - ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35063
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="NICARAGUA",LAT*Canal 12 - NI
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35064
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PANAMA",LAT*Canal 13 - PAN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35065
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 19  ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35068
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PANAMA",LAT*Canal 2 - PAN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35071
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 4 - ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35073
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PANAMA",LAT*Canal 4 - PAN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35075
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 6 - ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35076
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="NICARAGUA",LAT*Canal 6 - NI
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35077
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="GUATEMALA",LAT*Canal 7 - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35078
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="GUATEMALA",LAT*Canal Azteca - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35081
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Guatevision - GUA" tvg-logo="" group-title="GUATEMALA",LAT*Guatevision - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35105
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MASTV - PAN" tvg-logo="" group-title="PANAMA",LAT*MASTV - PAN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35115
+#EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PANAMA",LAT*NEXT - PAN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35123
+#EXTINF:-1 tvg-id="" tvg-name="LAT*NU MUSIC" tvg-logo="" group-title="MUSICA",LAT*NU MUSIC
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35124
+#EXTINF:-1 tvg-id="" tvg-name="LAT*RHEMA TV" tvg-logo="" group-title="",LAT*RHEMA TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35129
+#EXTINF:-1 tvg-id="" tvg-name="CINE: SyFy SD" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.syfy.png.pagespeed.ic.HEaEjd3wrS.png" group-title="CINE FAMILIAR",CINE: SyFy SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35136
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PANAMA",LAT*TV  Max - PAN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35140
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="EL SALVADOR",LAT*TVM25 -  ESA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35143
+#EXTINF:-1 tvg-id="" tvg-name="TeleMicro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",TeleMicro - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35145
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telecentro - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35146
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telesistema RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35149
+#EXTINF:-1 tvg-id="" tvg-name="Teleunion - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleunion - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35150
+#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleuniverso - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35151
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",LAT*Televida RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35152
+#EXTINF:-1 tvg-id="Warner Channel (Warner Col IPTV)" tvg-name="CINE: WARNER HD" tvg-logo="https://www.freepnglogos.com/uploads/warner-animation-group-logo-png/warner-animation-group-intro-icon-looney-tunes-sykonist-25.png" group-title="CINE FAMILIAR",CINE: WARNER HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35159
+#EXTINF:-1 tvg-id="Canal TNT" tvg-name="CINE: HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE FAMILIAR",CINE: HBO FAMILY HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35162
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES |  LA LIGA TV BAR HD" tvg-logo="" group-title="(DEPORTES)",DEPORTES |  LA LIGA TV BAR HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35169
+#EXTINF:-1 tvg-id="" tvg-name="PY | TIGO SPORTS PLUS" tvg-logo="" group-title="PARAGUAY",PY | TIGO SPORTS PLUS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35232
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA: MAGAZINE TV" tvg-logo="" group-title="ARGENTINA",ARGENTINA: MAGAZINE TV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35234
+#EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CR: | CANAL 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="COSTA RICA",CR: | CANAL 6 SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35476
+#EXTINF:-1 tvg-id="" tvg-name="CR: | CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Repretel_11_actual.png" group-title="COSTA RICA",CR: | CANAL 11
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35477
+#EXTINF:-1 tvg-id="" tvg-name="CR: | TELETICA 7" tvg-logo="" group-title="COSTA RICA",CR: | TELETICA 7
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35480
+#EXTINF:-1 tvg-id="" tvg-name="DEP | M. Liga Campeones  FHD (SOLO EVENTOS)" tvg-logo="" group-title="",DEP | M. Liga Campeones  FHD (SOLO EVENTOS)
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/35551
+#EXTINF:-1 tvg-id="FOX Action (Fox Action HD)" tvg-name="CINE: FOX ACTION SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINE FAMILIAR",CINE: FOX ACTION SD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/55864
+#EXTINF:-1 tvg-id="" tvg-name="Canal_de_las_estrellas" tvg-logo="" group-title="ENTRETENIMIENTO",Canal_de_las_estrellas
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58255
+#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*A&E HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58321
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*AMC HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58322
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*AXN HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58323
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*AZ click HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58324
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Animal Planet HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58325
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Antena 7- RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58326
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CARTOON NT HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CARTOON NT HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58327
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CCN
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58328
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CERTV
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58329
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CNN Internacional
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58331
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CNNE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58332
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal Claro HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58333
+#EXTINF:-1 tvg-id="Canal Claro Sports" tvg-name="LAT*Claro Sports HD" tvg-logo="" group-title="(DEPORTES)",LAT*Claro Sports HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58334
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Comedy Central HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58335
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE" tvg-logo="" group-title="LATINOS PREMIUM",LAT*DHE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58336
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*DHE HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58337
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*DISCOVERY THEATHER HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58338
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Digital 15 - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58339
+#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*E! Entertairment HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58340
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Europa HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58341
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Action HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58342
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Family HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58343
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58344
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Movies HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58345
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Series HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58346
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FX HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58347
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FX Movies HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58348
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Film & arts HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58349
+#EXTINF:-1 tvg-id="" tvg-name="LAT*France24" tvg-logo="" group-title="LATINOS PREMIUM",LAT*France24
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58350
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Golf Channel HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58351
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*HBO Family HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58352
+#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*History HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58353
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Max Prime HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58354
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Nick 2 HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58355
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Nick SIM HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58356
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*SONY HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58358
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*SPACE HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58359
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Studio Universal HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58360
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TNT HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58361
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TVChile
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58362
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Azteca Corazon*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Azteca Corazon*
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58519
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Distrito Comedi*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Distrito Comedi*
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58524
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Telenovelas*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Telenovelas*
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58528
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS -2" tvg-logo="" group-title="LATINOS PREMIUM",LAS ESTRELLAS -2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58584
+#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="LATINOS PREMIUM",LAT*11 - Repretel
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58585
+#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="LATINOS PREMIUM",LAT*13-Sinart
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58586
+#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="LATINOS PREMIUM",LAT*29 - VM Latino
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58587
+#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="LATINOS PREMIUM",LAT*42 - Extra TV 42
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58588
+#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="LATINOS PREMIUM",LAT*6 - Repretel
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58589
+#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="LATINOS PREMIUM",LAT*7-Teletica
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58590
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 11 - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58591
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 13-GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58592
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 3 - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58593
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 7 - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58594
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal Antigua - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58595
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal Azteca - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58596
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CDN2- RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58597
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CDN37 - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58598
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Color Vision 9 - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Color Vision 9 - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58599
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Guatevision - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Guatevision - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58600
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*HOLA! TV HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58601
+#EXTINF:-1 tvg-id="" tvg-name="LAT*La voz de Maria" tvg-logo="" group-title="LATINOS PREMIUM",LAT*La voz de Maria
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58602
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*MTV HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58603
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*MTV SIM HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58604
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Nick 2 HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58605
+#EXTINF:-1 tvg-id="" tvg-name="LAT*RCN - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*RCN - GUA
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58607
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Sembrador" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Sembrador
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58608
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TBN Enlace" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TBN Enlace
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58609
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Tele Antillas - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58610
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Telecentro - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58611
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TeleMicro - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58612
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Telemundo HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58613
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Telesistema RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58614
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Teleunion - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58615
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Teleuniverso - RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58616
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Televida RD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58617
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TVE
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58618
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*VH1 HD
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58619
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CORRE CAMINOS" tvg-logo="https://images.clarin.com/2019/12/19/el-correcaminos-y-el-coyote___gxYV70fy_720x0__1.jpg" group-title="24/7",24/7 EL CORRE CAMINOS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58686
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOCOS ADAMS" tvg-logo="https://cdn.colombia.com/sdi/2019/08/08/los-locos-addams-lanzan-primer-trailer-oficial-de-la-pelicula-animada-759478.jpg" group-title="24/7",24/7 LOCOS ADAMS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58689
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5163KwhxYrL._SY445_.jpg" group-title="24/7",24/7 La Risa en Vacaciones
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58690
+#EXTINF:-1 tvg-id="" tvg-name="MLB 2" tvg-logo="" group-title="MLB 2020",MLB 2
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58695
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ANGELS" tvg-logo="" group-title="MLB 2020",MLB | ANGELS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58696
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ASTROS" tvg-logo="" group-title="MLB 2020",MLB | ASTROS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58697
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ATHLETICS" tvg-logo="" group-title="MLB 2020",MLB | ATHLETICS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58698
+#EXTINF:-1 tvg-id="" tvg-name="MLB | BLUE JAYS" tvg-logo="" group-title="MLB 2020",MLB | BLUE JAYS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58699
+#EXTINF:-1 tvg-id="" tvg-name="MLB | BRAVES" tvg-logo="" group-title="MLB 2020",MLB | BRAVES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58700
+#EXTINF:-1 tvg-id="" tvg-name="MLB | BREWERS" tvg-logo="" group-title="MLB 2020",MLB | BREWERS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58701
+#EXTINF:-1 tvg-id="" tvg-name="MLB | CARDINALS" tvg-logo="" group-title="MLB 2020",MLB | CARDINALS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58702
+#EXTINF:-1 tvg-id="" tvg-name="MLB | CUBS" tvg-logo="" group-title="MLB 2020",MLB | CUBS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58703
+#EXTINF:-1 tvg-id="" tvg-name="MLB | D-BACKS" tvg-logo="" group-title="MLB 2020",MLB | D-BACKS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58704
+#EXTINF:-1 tvg-id="" tvg-name="MLB | DODGERS" tvg-logo="" group-title="MLB 2020",MLB | DODGERS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58705
+#EXTINF:-1 tvg-id="" tvg-name="MLB | GIANTS" tvg-logo="" group-title="MLB 2020",MLB | GIANTS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58706
+#EXTINF:-1 tvg-id="" tvg-name="MLB | MARINERS" tvg-logo="" group-title="MLB 2020",MLB | MARINERS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58707
+#EXTINF:-1 tvg-id="" tvg-name="MLB | Marlins" tvg-logo="" group-title="MLB 2020",MLB | Marlins
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58708
+#EXTINF:-1 tvg-id="" tvg-name="MLB | METS" tvg-logo="" group-title="MLB 2020",MLB | METS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58709
+#EXTINF:-1 tvg-id="" tvg-name="MLB | NATIONALS" tvg-logo="" group-title="MLB 2020",MLB | NATIONALS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58710
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ORIOLES" tvg-logo="" group-title="MLB 2020",MLB | ORIOLES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58711
+#EXTINF:-1 tvg-id="" tvg-name="MLB | PADRES" tvg-logo="" group-title="MLB 2020",MLB | PADRES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58712
+#EXTINF:-1 tvg-id="" tvg-name="MLB | PHILLIES" tvg-logo="" group-title="MLB 2020",MLB | PHILLIES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58713
+#EXTINF:-1 tvg-id="" tvg-name="MLB | PIRATES" tvg-logo="" group-title="MLB 2020",MLB | PIRATES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58714
+#EXTINF:-1 tvg-id="" tvg-name="MLB | RANGERS" tvg-logo="" group-title="MLB 2020",MLB | RANGERS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58715
+#EXTINF:-1 tvg-id="" tvg-name="MLB | RAYS" tvg-logo="" group-title="MLB 2020",MLB | RAYS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58716
+#EXTINF:-1 tvg-id="" tvg-name="MLB | RED SOX" tvg-logo="" group-title="MLB 2020",MLB | RED SOX
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58717
+#EXTINF:-1 tvg-id="" tvg-name="MLB | REDS" tvg-logo="" group-title="MLB 2020",MLB | REDS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58718
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ROCKIES" tvg-logo="" group-title="MLB 2020",MLB | ROCKIES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58719
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ROYALS" tvg-logo="" group-title="MLB 2020",MLB | ROYALS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58720
+#EXTINF:-1 tvg-id="" tvg-name="MLB | TWINS" tvg-logo="" group-title="MLB 2020",MLB | TWINS
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58721
+#EXTINF:-1 tvg-id="" tvg-name="MLB | WHITE SOX" tvg-logo="" group-title="MLB 2020",MLB | WHITE SOX
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58722
+#EXTINF:-1 tvg-id="" tvg-name="MLB | YANKEES" tvg-logo="" group-title="MLB 2020",MLB | YANKEES
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58723
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO: Canal 5 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO PREMIUM",MEXICO: Canal 5 *
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/58907
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSOSN TEMP1-5" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSOSN TEMP1-5
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60091
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 6-11" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSON TEMP 6-11
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60092
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 12-17" tvg-logo="https://i.pinimg.com/originals/b1/6b/84/b16b8448d63014810c2aefbc93b11e52.png" group-title="24/7",LOS SIMPSONS 12-17
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60093
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 18-21" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS 18-21
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60094
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS TEM 22-26" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS TEM 22-26
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60095
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 27-30" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS 27-30
+http://experiencetv.zapto.org:8080/wintres/canalsoloevento/60096
