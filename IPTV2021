@@ -583,64 +583,7 @@ http://high.zapto.org:8080/highquality/highquality/58686
 http://high.zapto.org:8080/highquality/highquality/58689
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="http://relaxplease.xyz:8080/images/08cd7b9dc85fa0b038bd7c394cad8567.jpg" group-title="24/7",24/7 La Risa en Vacaciones
 http://high.zapto.org:8080/highquality/highquality/58690
-#EXTINF:-1 tvg-id="" tvg-name="MLB 2" tvg-logo="" group-title="MLB 2020",MLB 2
-http://high.zapto.org:8080/highquality/highquality/58695
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ANGELS" tvg-logo="" group-title="MLB 2020",MLB | ANGELS
-http://high.zapto.org:8080/highquality/highquality/58696
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ASTROS" tvg-logo="" group-title="MLB 2020",MLB | ASTROS
-http://high.zapto.org:8080/highquality/highquality/58697
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ATHLETICS" tvg-logo="" group-title="MLB 2020",MLB | ATHLETICS
-http://high.zapto.org:8080/highquality/highquality/58698
-#EXTINF:-1 tvg-id="" tvg-name="MLB | BLUE JAYS" tvg-logo="" group-title="MLB 2020",MLB | BLUE JAYS
-http://high.zapto.org:8080/highquality/highquality/58699
-#EXTINF:-1 tvg-id="" tvg-name="MLB | BRAVES" tvg-logo="" group-title="MLB 2020",MLB | BRAVES
-http://high.zapto.org:8080/highquality/highquality/58700
-#EXTINF:-1 tvg-id="" tvg-name="MLB | BREWERS" tvg-logo="" group-title="MLB 2020",MLB | BREWERS
-http://high.zapto.org:8080/highquality/highquality/58701
-#EXTINF:-1 tvg-id="" tvg-name="MLB | CARDINALS" tvg-logo="" group-title="MLB 2020",MLB | CARDINALS
-http://high.zapto.org:8080/highquality/highquality/58702
-#EXTINF:-1 tvg-id="" tvg-name="MLB | CUBS" tvg-logo="" group-title="MLB 2020",MLB | CUBS
-http://high.zapto.org:8080/highquality/highquality/58703
-#EXTINF:-1 tvg-id="" tvg-name="MLB | D-BACKS" tvg-logo="" group-title="MLB 2020",MLB | D-BACKS
-http://high.zapto.org:8080/highquality/highquality/58704
-#EXTINF:-1 tvg-id="" tvg-name="MLB | DODGERS" tvg-logo="" group-title="MLB 2020",MLB | DODGERS
-http://high.zapto.org:8080/highquality/highquality/58705
-#EXTINF:-1 tvg-id="" tvg-name="MLB | GIANTS" tvg-logo="" group-title="MLB 2020",MLB | GIANTS
-http://high.zapto.org:8080/highquality/highquality/58706
-#EXTINF:-1 tvg-id="" tvg-name="MLB | MARINERS" tvg-logo="" group-title="MLB 2020",MLB | MARINERS
-http://high.zapto.org:8080/highquality/highquality/58707
-#EXTINF:-1 tvg-id="" tvg-name="MLB | Marlins" tvg-logo="" group-title="MLB 2020",MLB | Marlins
-http://high.zapto.org:8080/highquality/highquality/58708
-#EXTINF:-1 tvg-id="" tvg-name="MLB | METS" tvg-logo="" group-title="MLB 2020",MLB | METS
-http://high.zapto.org:8080/highquality/highquality/58709
-#EXTINF:-1 tvg-id="" tvg-name="MLB | NATIONALS" tvg-logo="" group-title="MLB 2020",MLB | NATIONALS
-http://high.zapto.org:8080/highquality/highquality/58710
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ORIOLES" tvg-logo="" group-title="MLB 2020",MLB | ORIOLES
-http://high.zapto.org:8080/highquality/highquality/58711
-#EXTINF:-1 tvg-id="" tvg-name="MLB | PADRES" tvg-logo="" group-title="MLB 2020",MLB | PADRES
-http://high.zapto.org:8080/highquality/highquality/58712
-#EXTINF:-1 tvg-id="" tvg-name="MLB | PHILLIES" tvg-logo="" group-title="MLB 2020",MLB | PHILLIES
-http://high.zapto.org:8080/highquality/highquality/58713
-#EXTINF:-1 tvg-id="" tvg-name="MLB | PIRATES" tvg-logo="" group-title="MLB 2020",MLB | PIRATES
-http://high.zapto.org:8080/highquality/highquality/58714
-#EXTINF:-1 tvg-id="" tvg-name="MLB | RANGERS" tvg-logo="" group-title="MLB 2020",MLB | RANGERS
-http://high.zapto.org:8080/highquality/highquality/58715
-#EXTINF:-1 tvg-id="" tvg-name="MLB | RAYS" tvg-logo="" group-title="MLB 2020",MLB | RAYS
-http://high.zapto.org:8080/highquality/highquality/58716
-#EXTINF:-1 tvg-id="" tvg-name="MLB | RED SOX" tvg-logo="" group-title="MLB 2020",MLB | RED SOX
-http://high.zapto.org:8080/highquality/highquality/58717
-#EXTINF:-1 tvg-id="" tvg-name="MLB | REDS" tvg-logo="" group-title="MLB 2020",MLB | REDS
-http://high.zapto.org:8080/highquality/highquality/58718
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ROCKIES" tvg-logo="" group-title="MLB 2020",MLB | ROCKIES
-http://high.zapto.org:8080/highquality/highquality/58719
-#EXTINF:-1 tvg-id="" tvg-name="MLB | ROYALS" tvg-logo="" group-title="MLB 2020",MLB | ROYALS
-http://high.zapto.org:8080/highquality/highquality/58720
-#EXTINF:-1 tvg-id="" tvg-name="MLB | TWINS" tvg-logo="" group-title="MLB 2020",MLB | TWINS
-http://high.zapto.org:8080/highquality/highquality/58721
-#EXTINF:-1 tvg-id="" tvg-name="MLB | WHITE SOX" tvg-logo="" group-title="MLB 2020",MLB | WHITE SOX
-http://high.zapto.org:8080/highquality/highquality/58722
-#EXTINF:-1 tvg-id="" tvg-name="MLB | YANKEES" tvg-logo="" group-title="MLB 2020",MLB | YANKEES
-http://high.zapto.org:8080/highquality/highquality/58723
+
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO: Canal 5 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO PREMIUM",MEXICO: Canal 5 *
 http://high.zapto.org:8080/highquality/highquality/58907
 
