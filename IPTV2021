@@ -1,591 +1,501 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
-http://high.zapto.org:8080/highquality/highquality/2
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="https://pbs.twimg.com/profile_images/986698932926468096/Dck2pa4b_400x400.jpg" group-title="ECUADOR",TELEAMAZONAS
-http://high.zapto.org:8080/highquality/highquality/4
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/4
 #EXTINF:-1 tvg-id="" tvg-name="ECU: CANAL UNO" tvg-logo="" group-title="ECUADOR",ECU: CANAL UNO
-http://high.zapto.org:8080/highquality/highquality/10
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10
 #EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="ECUADOR",ECU: OROMAR TV
-http://high.zapto.org:8080/highquality/highquality/13
-#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-name="INFANTIL | BOOMERANG" tvg-logo="http://158.69.24.110/posters/1502829251219.jpg" group-title="(INFANTIL)",INFANTIL | BOOMERANG
-http://high.zapto.org:8080/highquality/highquality/37
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/13
+#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-name="INFANTIL | BOOMERANG" tvg-logo="http://relaxplease.xyz:8080/images/2e571ae06a131a28d83e7e5e486223a7.jpg" group-title="(INFANTIL)",INFANTIL | BOOMERANG
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/37
 #EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-name="INFANTIL | CARTOON NETWORK" tvg-logo="http://relaxplease.xyz:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="(INFANTIL)",INFANTIL | CARTOON NETWORK
-http://high.zapto.org:8080/highquality/highquality/39
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/39
 #EXTINF:-1 tvg-id="DISNEY CHANNEL SD" tvg-name="INFANTIL | DISNEY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502829290456.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY CHANNEL
-http://high.zapto.org:8080/highquality/highquality/43
-#EXTINF:-1 tvg-id="Canal Disney Junior SD" tvg-name="INFANTIL | DISNEY JUNIOR" tvg-logo="http://158.69.24.110/posters/1502829304423.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY JUNIOR
-http://high.zapto.org:8080/highquality/highquality/44
-#EXTINF:-1 tvg-id="DISNEY XD SD" tvg-name="INFANTIL | DISNEY XD" tvg-logo="http://158.69.24.110/posters/1502829321394.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY XD
-http://high.zapto.org:8080/highquality/highquality/45
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/43
+#EXTINF:-1 tvg-id="Canal Disney Junior SD" tvg-name="INFANTIL | DISNEY JUNIOR" tvg-logo="http://relaxplease.xyz:8080/images/9a0608e88f8c83a181563a0129e2773e.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY JUNIOR
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/44
+#EXTINF:-1 tvg-id="DISNEY XD HD" tvg-name="INFANTIL | DISNEY XD" tvg-logo="http://relaxplease.xyz:8080/images/28b37bb59469dd51e6627cba9e67ea6d.jpg" group-title="(INFANTIL)",INFANTIL | DISNEY XD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/45
 #EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="INFANTIL | NICKELODEON" tvg-logo="http://158.69.24.110/posters/1502829382339.jpg" group-title="(INFANTIL)",INFANTIL | NICKELODEON
-http://high.zapto.org:8080/highquality/highquality/48
-#EXTINF:-1 tvg-id="Canal Nick 2 SD" tvg-name="INFANTIL | NICK 2" tvg-logo="http://158.69.24.110/posters/1527121519146.jpg" group-title="(INFANTIL)",INFANTIL | NICK 2
-http://high.zapto.org:8080/highquality/highquality/51
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/48
+#EXTINF:-1 tvg-id="Canal Nick 2 HD" tvg-name="INFANTIL | NICK 2" tvg-logo="http://relaxplease.xyz:8080/images/7cd470c06575f765602b2145bdb8d866.jpg" group-title="(INFANTIL)",INFANTIL | NICK 2
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/51
 #EXTINF:-1 tvg-id="" tvg-name="INFANTIL | NICKTOONS" tvg-logo="http://158.69.24.110/posters/1502829371377.jpg" group-title="(INFANTIL)",INFANTIL | NICKTOONS
-http://high.zapto.org:8080/highquality/highquality/53
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/53
 #EXTINF:-1 tvg-id="TOONCAST SD" tvg-name="INFANTIL | TOONCAST" tvg-logo="http://158.69.24.110/posters/1502829416567.jpg" group-title="(INFANTIL)",INFANTIL | TOONCAST
-http://high.zapto.org:8080/highquality/highquality/55
-#EXTINF:-1 tvg-id="Cinecanal Este SD" tvg-name="CINE: CINECANAL HD" tvg-logo="http://158.69.24.110/posters/1527114495213.jpg" group-title="CINE FAMILIAR",CINE: CINECANAL HD
-http://high.zapto.org:8080/highquality/highquality/60
-#EXTINF:-1 tvg-id="Canal De Película SD" tvg-name="CINE: DE PELICULA" tvg-logo="http://158.69.24.110/posters/1502829551251.jpg" group-title="CINE FAMILIAR",CINE: DE PELICULA
-http://high.zapto.org:8080/highquality/highquality/63
-#EXTINF:-1 tvg-id="FOX CINEMA (Fox Cinema SD)" tvg-name="CINE: FOX CINEMA" tvg-logo="http://158.69.24.110/posters/1502829582401.jpg" group-title="CINE FAMILIAR",CINE: FOX CINEMA
-http://high.zapto.org:8080/highquality/highquality/68
-#EXTINF:-1 tvg-id="FOX CLASSIC (Fox Classic SD)" tvg-name="CINE: FOX CLASSICS" tvg-logo="http://158.69.24.110/posters/1502829596198.jpg" group-title="CINE FAMILIAR",CINE: FOX CLASSICS
-http://high.zapto.org:8080/highquality/highquality/69
-#EXTINF:-1 tvg-id="" tvg-name="CINE: FXM" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="CINE FAMILIAR",CINE: FXM
-http://high.zapto.org:8080/highquality/highquality/73
-#EXTINF:-1 tvg-id="Golden Edge SD" tvg-name="CINE: GOLDEN EDGE" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="CINE FAMILIAR",CINE: GOLDEN EDGE
-http://high.zapto.org:8080/highquality/highquality/77
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="CINE: STUDIO UNIVERSAL" tvg-logo="https://4.bp.blogspot.com/-GWYPDztrmio/TmcVUzOhRZI/AAAAAAAAMag/8SAtw20RYnc/s1600/Studio+Universal+MultiChoice+DStv.png" group-title="CINE FAMILIAR",CINE: STUDIO UNIVERSAL
-http://high.zapto.org:8080/highquality/highquality/90
-#EXTINF:-1 tvg-id="TCM SD" tvg-name="CINE: TCM SD" tvg-logo="https://d14smv89t73oqm.cloudfront.net/dynamic/section/00000000/37/9904952f96100b8cf10c5c25e4c3459057f3c44d_1564649003.jpg" group-title="CINE FAMILIAR",CINE: TCM SD
-http://high.zapto.org:8080/highquality/highquality/96
-#EXTINF:-1 tvg-id="TNT SD" tvg-name="CINE: TNT" tvg-logo="https://img1.pnghut.com/16/12/10/rWWBR9N4S6/paper-tnt-bon-scott-logo-tshirt.jpg" group-title="CINE FAMILIAR",CINE: TNT
-http://high.zapto.org:8080/highquality/highquality/97
-#EXTINF:-1 tvg-id="Fox Sports 3 (Fox Sports 3 HD)" tvg-name="DEPORTES | FOX SPORTS 3 opc 2" tvg-logo="https://pbs.twimg.com/profile_images/1212793409972428802/GOVO09Xq_400x400.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 opc 2
-http://high.zapto.org:8080/highquality/highquality/133
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/55
+#EXTINF:-1 tvg-id="CINECANAL OESTE SD" tvg-name="CINE: CINECANAL HD" tvg-logo="http://relaxplease.xyz:8080/images/5f7b1eeab685a88a3925f93245bdf16b.jpg" group-title="CINE VARIADO",CINE: CINECANAL HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60
+#EXTINF:-1 tvg-id="Canal De Película SD" tvg-name="CINE: DE PELICULA" tvg-logo="http://158.69.24.110/posters/1502829551251.jpg" group-title="CINE VARIADO",CINE: DE PELICULA
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/63
+#EXTINF:-1 tvg-id="FOX CINEMA (Fox Cinema SD)" tvg-name="CINE: FOX CINEMA" tvg-logo="http://relaxplease.xyz:8080/images/6810c42af69df65cae8cf7afce676d8c.jpg" group-title="CINE VARIADO",CINE: FOX CINEMA
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/68
+#EXTINF:-1 tvg-id="FOX CLASSIC (Fox Classic SD)" tvg-name="CINE: FOX CLASSICS" tvg-logo="http://relaxplease.xyz:8080/images/f2b311d9c0a86bb8b0ce5dc9b3a5a9de.jpg" group-title="CINE VARIADO",CINE: FOX CLASSICS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/69
+#EXTINF:-1 tvg-id="" tvg-name="CINE: FXM" tvg-logo="http://relaxplease.xyz:8080/images/ef473bf4bbb8992a41ca4c3555c8a01e.png" group-title="CINE VARIADO",CINE: FXM
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/73
+#EXTINF:-1 tvg-id="Golden Edge SD" tvg-name="CINE: GOLDEN EDGE" tvg-logo="http://relaxplease.xyz:8080/images/c907e34d15777c7cb7858db86cb311fa.png" group-title="CINE VARIADO",CINE: GOLDEN EDGE
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/77
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="CINE: STUDIO UNIVERSAL" tvg-logo="http://relaxplease.xyz:8080/images/845a385048e9888f4b1aebdcee337492.png" group-title="CINE VARIADO",CINE: STUDIO UNIVERSAL
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/90
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="CINE: TCM SD" tvg-logo="http://relaxplease.xyz:8080/images/4460eb39067e18df629ecf1f6d0ccdc2.jpg" group-title="CINE VARIADO",CINE: TCM SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/96
+#EXTINF:-1 tvg-id="TNT SD" tvg-name="CINE: TNT" tvg-logo="http://relaxplease.xyz:8080/images/35fae07191b44f24c95594746e261d8b.jpg" group-title="CINE VARIADO",CINE: TNT
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/97
 #EXTINF:-1 tvg-id="Canal TyC Sports" tvg-name="DEPORTES | TyC SPORTS" tvg-logo="https://img.utdstc.com/icons/tyc-sports-android.png:225" group-title="(DEPORTES)",DEPORTES | TyC SPORTS
-http://high.zapto.org:8080/highquality/highquality/137
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/137
 #EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="DEPORTES | FOX SPORTS PREMIUM " tvg-logo="https://sport-tv-guide.live/images/stations/a1695.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS PREMIUM 
-http://high.zapto.org:8080/highquality/highquality/138
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV ECUADOR" tvg-logo="https://4.bp.blogspot.com/-5xoi8pfZP48/XcRZ8LQ1FWI/AAAAAAAAg78/rzBz_CO0z-8EqTF04eEUOSi80vx2Q3xVgCLcBGAsYHQ/s640/GolTV%2BEcuador%2B%255BEN%2BVIVO%255D.jpg" group-title="(DEPORTES)",DEPORTES | GOL TV ECUADOR
-http://high.zapto.org:8080/highquality/highquality/139
-#EXTINF:-1 tvg-id="ESPN 3 (Norte)" tvg-name="DEPORTES | ESPN 3 Mx " tvg-logo="https://latelegratis.com/logos/espn3mx.png" group-title="(DEPORTES)",DEPORTES | ESPN 3 Mx 
-http://high.zapto.org:8080/highquality/highquality/141
-#EXTINF:-1 tvg-id="ESPN 2 México" tvg-name="DEPORTES | ESPN 2 Mx " tvg-logo="https://latelegratis.com/logos/espn2mx.png" group-title="(DEPORTES)",DEPORTES | ESPN 2 Mx 
-http://high.zapto.org:8080/highquality/highquality/142
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/138
+#EXTINF:-1 tvg-id="ESPN 3 (Norte)" tvg-name="DEPORTES | ESPN 3 Mx " tvg-logo="http://relaxplease.xyz:8080/images/0616ecdecf81e62f161a8a478538b03e.png" group-title="(DEPORTES)",DEPORTES | ESPN 3 Mx 
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/141
+#EXTINF:-1 tvg-id="ESPN 2 México" tvg-name="DEPORTES | ESPN 2 Mx " tvg-logo="http://relaxplease.xyz:8080/images/83c5b5a91678d6d458491421c4e93896.png" group-title="(DEPORTES)",DEPORTES | ESPN 2 Mx 
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/142
 #EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 1 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 1 MX
-http://high.zapto.org:8080/highquality/highquality/148
-#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 2 MX" tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.logo-fox-sports-2.png.ec5abfdfb4cd61b79a1b2eedb0d5af09.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 2 MX
-http://high.zapto.org:8080/highquality/highquality/149
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/148
+#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 2 MX" tvg-logo="http://relaxplease.xyz:8080/images/7a847ef2440238f5cb927866f05d7369.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 2 MX
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/149
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://158.69.24.110/posters/1527119903183.jpg" group-title="ENTRETENIMIENTO",LIFETIME
-http://high.zapto.org:8080/highquality/highquality/328
-#EXTINF:-1 tvg-id="AMC East SD" tvg-name="CINE: AMC SD" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg" group-title="CINE FAMILIAR",CINE: AMC SD
-http://high.zapto.org:8080/highquality/highquality/336
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/328
+#EXTINF:-1 tvg-id="AMC East SD" tvg-name="CINE: AMC SD" tvg-logo="http://relaxplease.xyz:8080/images/f870b497bd49a422c3b0980458f78e00.jpg" group-title="CINE VARIADO",CINE: AMC SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/336
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://158.69.24.110/posters/1508426614157.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 HD
-http://high.zapto.org:8080/highquality/highquality/338
-#EXTINF:-1 tvg-id="" tvg-name="MX-AZTECA 7 HD*" tvg-logo="http://158.69.24.110/posters/1503359114130.jpg" group-title="MEXICO PREMIUM",MX-AZTECA 7 HD*
-http://high.zapto.org:8080/highquality/highquality/342
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/338
+#EXTINF:-1 tvg-id="" tvg-name="MX-AZTECA 7 HD*" tvg-logo="http://relaxplease.xyz:8080/images/20d65ef7352601abba700073981c23eb.jpg" group-title="MEXICO PREMIUM",MX-AZTECA 7 HD*
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/342
 #EXTINF:-1 tvg-id="Canal Unicable (México) SD" tvg-name="UNICABLE" tvg-logo="http://158.69.24.110/posters/1502828403504.jpg" group-title="ENTRETENIMIENTO",UNICABLE
-http://high.zapto.org:8080/highquality/highquality/361
-#EXTINF:-1 tvg-id="" tvg-name="CINE: A3 SERIES INTERNATIONAL" tvg-logo="http://158.69.24.110/posters/1527112686131.jpg" group-title="CINE FAMILIAR",CINE: A3 SERIES INTERNATIONAL
-http://high.zapto.org:8080/highquality/highquality/401
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="http://158.69.24.110/posters/1517080529348.jpg" group-title="COLOMBIA",CARACOL
-http://high.zapto.org:8080/highquality/highquality/415
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/361
+#EXTINF:-1 tvg-id="" tvg-name="CINE: A3 SERIES INTERNATIONAL" tvg-logo="http://relaxplease.xyz:8080/images/649389e68577f3974856d3f127a595ed.jpg" group-title="CINE VARIADO",CINE: A3 SERIES INTERNATIONAL
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/401
+#EXTINF:-1 tvg-id="CANAL CARACOL SD" tvg-name="CARACOL" tvg-logo="http://relaxplease.xyz:8080/images/ccb2a562e7d9d44b04720df1ccec3446.jpg" group-title="COLOMBIA",CARACOL
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/415
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://158.69.24.110/posters/1502828069321.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://high.zapto.org:8080/highquality/highquality/416
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/416
 #EXTINF:-1 tvg-id="Discovery H&H (Home Health HD)" tvg-name="CULTURA | DISCOVERY Home and Health" tvg-logo="https://www.saenzpeñavision.com.ar/images/canales/50.png" group-title="(CULTURA)",CULTURA | DISCOVERY Home and Health
-http://high.zapto.org:8080/highquality/highquality/535
-#EXTINF:-1 tvg-id="TLC (TLC)" tvg-name="CULTURA | DISCOVERY TLC" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/d6/d8/6fd6d8c4-7e7f-b036-9fb7-41ca7e404bdb/source/256x256bb.jpg" group-title="(CULTURA)",CULTURA | DISCOVERY TLC
-http://high.zapto.org:8080/highquality/highquality/539
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="CULTURA | DISCOVERY TURBO " tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="(CULTURA)",CULTURA | DISCOVERY TURBO 
-http://high.zapto.org:8080/highquality/highquality/540
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/535
+#EXTINF:-1 tvg-id="TLC (TLC)" tvg-name="CULTURA | DISCOVERY TLC" tvg-logo="http://relaxplease.xyz:8080/images/4d9d690b07eb288707b5154423fe1dcf.jpg" group-title="(CULTURA)",CULTURA | DISCOVERY TLC
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/539
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="CULTURA | DISCOVERY TURBO " tvg-logo="http://relaxplease.xyz:8080/images/e970314a268b25cd6e488a3d15fb4688.png" group-title="(CULTURA)",CULTURA | DISCOVERY TURBO 
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/540
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="CULTURA | DISCOVERY SCIENCE" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-science.jpg" group-title="(CULTURA)",CULTURA | DISCOVERY SCIENCE
-http://high.zapto.org:8080/highquality/highquality/551
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="CULTURA | DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png" group-title="(CULTURA)",CULTURA | DISCOVERY THEATER
-http://high.zapto.org:8080/highquality/highquality/552
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/551
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="CULTURA | DISCOVERY THEATER" tvg-logo="http://relaxplease.xyz:8080/images/59f32628505b0d6194e701565f803fc3.png" group-title="(CULTURA)",CULTURA | DISCOVERY THEATER
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/552
 #EXTINF:-1 tvg-id="NAT GEO WILD (Nat Geo Wild)" tvg-name="CULTURA | NATGEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="(CULTURA)",CULTURA | NATGEO WILD HD
-http://high.zapto.org:8080/highquality/highquality/558
-#EXTINF:-1 tvg-id="Fox Sports (Fox Sports Col)" tvg-name="DEPORTES | FOX SPORTS 1 SUR" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 1 SUR
-http://high.zapto.org:8080/highquality/highquality/561
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/558
+#EXTINF:-1 tvg-id="Fox Sports (Fox Sports Col)" tvg-name="DEPORTES | FOX SPORTS 1 SUR" tvg-logo="http://relaxplease.xyz:8080/images/6d7402ff98e7872ed7e4ab52ee7f3de8.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 1 SUR
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/561
 #EXTINF:-1 tvg-id="Fox Sports 3 (Fox Sports 3 HD)" tvg-name="DEPORTES | FOX SPORTS 3 Sur" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 Sur
-http://high.zapto.org:8080/highquality/highquality/563
-#EXTINF:-1 tvg-id="ESPN Sur" tvg-name="DEPORTES | ESPN 1 SUR " tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="(DEPORTES)",DEPORTES | ESPN 1 SUR 
-http://high.zapto.org:8080/highquality/highquality/569
-#EXTINF:-1 tvg-id="A&E SD" tvg-name="CINE: A&E" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/ae-logo-png-transparent.png" group-title="CINE FAMILIAR",CINE: A&E
-http://high.zapto.org:8080/highquality/highquality/601
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/563
+#EXTINF:-1 tvg-id="ESPN Sur" tvg-name="DEPORTES | ESPN 1 SUR " tvg-logo="http://relaxplease.xyz:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="(DEPORTES)",DEPORTES | ESPN 1 SUR 
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/569
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="CINE: A&E" tvg-logo="http://relaxplease.xyz:8080/images/6738b4beb6b98f6e0f69afd35a219deb.png" group-title="ENTRETENIMIENTO",CINE: A&E
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/601
 #EXTINF:-1 tvg-id="ESPN 3 Sur" tvg-name="DEPORTES | ESPN 3 Sur" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="(DEPORTES)",DEPORTES | ESPN 3 Sur
-http://high.zapto.org:8080/highquality/highquality/618
-#EXTINF:-1 tvg-id="Canal ESPN Deportes" tvg-name="DEPORTES | ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="(DEPORTES)",DEPORTES | ESPN DEPORTES
-http://high.zapto.org:8080/highquality/highquality/619
-#EXTINF:-1 tvg-id="HBO PLUS(HBO Plus SD)" tvg-name="CINE: HBO PLUS" tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="CINE FAMILIAR",CINE: HBO PLUS
-http://high.zapto.org:8080/highquality/highquality/634
-#EXTINF:-1 tvg-id="HBO SIGNATURE (HBO Signature SD)" tvg-name="CINE: HBO SIGNATURE" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-SIGNATURE-NUEVO.jpg" group-title="CINE FAMILIAR",CINE: HBO SIGNATURE
-http://high.zapto.org:8080/highquality/highquality/635
-#EXTINF:-1 tvg-id="" tvg-name="COL| Caracol Internacional" tvg-logo="" group-title="COLOMBIA",COL| Caracol Internacional
-http://high.zapto.org:8080/highquality/highquality/870
-#EXTINF:-1 tvg-id="" tvg-name="COL| NTN 24" tvg-logo="" group-title="COLOMBIA",COL| NTN 24
-http://high.zapto.org:8080/highquality/highquality/873
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA* RCN Internacional" tvg-logo="https://i.ibb.co/Z1ktGXG/rcn-nove.png" group-title="COLOMBIA",COLOMBIA* RCN Internacional
-http://high.zapto.org:8080/highquality/highquality/874
-#EXTINF:-1 tvg-id="Win Sports HD)" tvg-name="DEPORTES | WIN SPORTS" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/semana/PRAETH6SORGA3E5ZMEBR4Z65KE.jpg" group-title="(DEPORTES)",DEPORTES | WIN SPORTS
-http://high.zapto.org:8080/highquality/highquality/879
-#EXTINF:-1 tvg-id="CNN Español (CNN Espanol)" tvg-name="NOTICIAS: CNN EN ESPAÑOL S" tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/cnn-espanol.png" group-title="NOTICIAS",NOTICIAS: CNN EN ESPAÑOL S
-http://high.zapto.org:8080/highquality/highquality/1045
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/618
+#EXTINF:-1 tvg-id="Canal ESPN Deportes" tvg-name="DEPORTES | ESPN DEPORTES" tvg-logo="http://relaxplease.xyz:8080/images/a1b61af2f7ab691a94013723a96770b5.PNG" group-title="(DEPORTES)",DEPORTES | ESPN DEPORTES
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/619
+#EXTINF:-1 tvg-id="HBO PLUS(HBO Plus SD)" tvg-name="CINE: HBO PLUS" tvg-logo="http://relaxplease.xyz:8080/images/b186270f01ff1f6dbde9a9565b471928.png" group-title="CINE VARIADO",CINE: HBO PLUS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/634
+#EXTINF:-1 tvg-id="HBO SIGNATURE (HBO Signature SD)" tvg-name="CINE: HBO SIGNATURE" tvg-logo="http://relaxplease.xyz:8080/images/6e9fc83f6ec4663a14e97c5264df13df.jpg" group-title="CINE VARIADO",CINE: HBO SIGNATURE
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/635
+#EXTINF:-1 tvg-id="CARACOL INTERNACIONAL SD" tvg-name="COL| Caracol Internacional" tvg-logo="" group-title="COLOMBIA",COL| Caracol Internacional
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/870
+#EXTINF:-1 tvg-id="" tvg-name="COL| NTN 24" tvg-logo="http://relaxplease.xyz:8080/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png" group-title="COLOMBIA",COL| NTN 24
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/873
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA* RCN Internacional" tvg-logo="http://relaxplease.xyz:8080/images/a72fc703a1f84aad5dc241970e8e46e2.png" group-title="COLOMBIA",COLOMBIA* RCN Internacional
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/874
+#EXTINF:-1 tvg-id="Win Sports HD)" tvg-name="DEPORTES | WIN SPORTS" tvg-logo="http://relaxplease.xyz:8080/images/bb9d256c3a510d2616a91689b534146d.jpg" group-title="(DEPORTES)",DEPORTES | WIN SPORTS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/879
+#EXTINF:-1 tvg-id="CNN Español (CNN Espanol)" tvg-name="NOTICIAS: CNN EN ESPAÑOL S" tvg-logo="http://relaxplease.xyz:8080/images/35516e4b91b92f161107131b1522e321.png" group-title="NOTICIAS",NOTICIAS: CNN EN ESPAÑOL S
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1045
 #EXTINF:-1 tvg-id="AMERICA" tvg-name="ARG| America TV" tvg-logo="" group-title="ARGENTINA",ARG| America TV
-http://high.zapto.org:8080/highquality/highquality/1057
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1057
 #EXTINF:-1 tvg-id="CANAL 9" tvg-name="ARG| Canal 9" tvg-logo="" group-title="ARGENTINA",ARG| Canal 9
-http://high.zapto.org:8080/highquality/highquality/1058
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1058
 #EXTINF:-1 tvg-id="ARG: CANAL 13" tvg-name="CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="ARGENTINA",CANAL 13
-http://high.zapto.org:8080/highquality/highquality/1059
-#EXTINF:-1 tvg-id="" tvg-name="Deportes- Fox Sports Premium 2" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="(DEPORTES)",Deportes- Fox Sports Premium 2
-http://high.zapto.org:8080/highquality/highquality/1069
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1059
+#EXTINF:-1 tvg-id="" tvg-name="Deportes- Fox Sports Premium 2" tvg-logo="http://relaxplease.xyz:8080/images/b716225181751ddebbd638fe891759ed.png" group-title="(DEPORTES)",Deportes- Fox Sports Premium 2
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1069
 #EXTINF:-1 tvg-id="MAS CHIC" tvg-name="ARG| Garage TV" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",ARG| Garage TV
-http://high.zapto.org:8080/highquality/highquality/1070
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1070
 #EXTINF:-1 tvg-id="TN" tvg-name="ARG| TN" tvg-logo="" group-title="ARGENTINA",ARG| TN
-http://high.zapto.org:8080/highquality/highquality/1074
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1074
 #EXTINF:-1 tvg-id="TV PUBLICA" tvg-name="ARG| TV Publica" tvg-logo="" group-title="ARGENTINA",ARG| TV Publica
-http://high.zapto.org:8080/highquality/highquality/1075
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1075
 #EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="" group-title="REPUBLICA DOMINICANA",Color Vision 9
-http://high.zapto.org:8080/highquality/highquality/1094
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1094
 #EXTINF:-1 tvg-id="" tvg-name="Fuego TV" tvg-logo="" group-title="REPUBLICA DOMINICANA",Fuego TV
-http://high.zapto.org:8080/highquality/highquality/1100
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1100
 #EXTINF:-1 tvg-id="" tvg-name="Super TV 55 Santiago" tvg-logo="" group-title="REPUBLICA DOMINICANA",Super TV 55 Santiago
-http://high.zapto.org:8080/highquality/highquality/1107
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1107
 #EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleantillas Canal 2
-http://high.zapto.org:8080/highquality/highquality/1108
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1108
 #EXTINF:-1 tvg-id="" tvg-name="Telecanal 28" tvg-logo="" group-title="ENTRETENIMIENTO",Telecanal 28
-http://high.zapto.org:8080/highquality/highquality/1110
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1110
 #EXTINF:-1 tvg-id="" tvg-name="Telever Canal 12" tvg-logo="" group-title="ENTRETENIMIENTO",Telever Canal 12
-http://high.zapto.org:8080/highquality/highquality/1113
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/1113
 #EXTINF:-1 tvg-id="" tvg-name="PER| AMERICATV" tvg-logo="" group-title="PERU",PER| AMERICATV
-http://high.zapto.org:8080/highquality/highquality/10776
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10776
 #EXTINF:-1 tvg-id="" tvg-name="PER| Panamericana Ultra HD" tvg-logo="" group-title="PERU",PER| Panamericana Ultra HD
-http://high.zapto.org:8080/highquality/highquality/10787
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10787
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) PEPPA PIG" tvg-logo="https://www.peppapig.com/wp-content/uploads/sites/3/2019/03/paintbox_app_icon.png" group-title="24/7",(24/7) PEPPA PIG
-http://high.zapto.org:8080/highquality/highquality/10866
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10866
 #EXTINF:-1 tvg-id="" tvg-name="24/7 POKÉMON" tvg-logo="http://pngriver.com/wp-content/uploads/2018/03/Download-Pokemon-PNG-Pic-For-Designing-Purpose.png" group-title="24/7",24/7 POKÉMON
-http://high.zapto.org:8080/highquality/highquality/10885
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10885
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) PINKY Y CEREBRO" tvg-logo="https://i.ya-webdesign.com/images/cerebro-vector-3.png" group-title="24/7",(24/7) PINKY Y CEREBRO
-http://high.zapto.org:8080/highquality/highquality/10886
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10886
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24/7",24/7 BOB ESPONJA
-http://high.zapto.org:8080/highquality/highquality/10887
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10887
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL SUPER" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="24/7",(24/7) DRAGON BALL SUPER
-http://high.zapto.org:8080/highquality/highquality/10895
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10895
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL" tvg-logo="https://pngriver.com/wp-content/uploads/2018/04/Download-Dragon-Ball-Logo-PNG-File.png" group-title="24/7",(24/7) DRAGON BALL
-http://high.zapto.org:8080/highquality/highquality/10901
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10901
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL GT" tvg-logo="https://fanart.tv/fanart/tv/79275/hdclearart/dragon-ball-gt-56868eb879e3a.png" group-title="24/7",(24/7) DRAGON BALL GT
-http://high.zapto.org:8080/highquality/highquality/10903
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10903
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) CHAPULIN COLORADO" tvg-logo="https://files.gamebanana.com/img/ico/sprays/el_chapulin_colorado.png" group-title="24/7",(24/7) CHAPULIN COLORADO
-http://high.zapto.org:8080/highquality/highquality/10904
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10904
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) FUTURAMA" tvg-logo="http://pngimg.com/uploads/futurama/futurama_PNG4.png" group-title="24/7",(24/7) FUTURAMA
-http://high.zapto.org:8080/highquality/highquality/10905
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 12 Melo" tvg-logo="https://pbs.twimg.com/profile_images/702229243741216773/PPmLWRSE_400x400.png" group-title="URUGUAY",UY | Canal 12 Melo
-http://high.zapto.org:8080/highquality/highquality/10906
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 2 Lascano" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-lascano.png" group-title="URUGUAY",UY | Canal 2 Lascano
-http://high.zapto.org:8080/highquality/highquality/10907
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 2 San Carlos" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="URUGUAY",UY | Canal 2 San Carlos
-http://high.zapto.org:8080/highquality/highquality/10908
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 4 Paysandu" tvg-logo="https://pbs.twimg.com/profile_images/623905507414278144/m2Olr7dp_400x400.png" group-title="URUGUAY",UY | Canal 4 Paysandu
-http://high.zapto.org:8080/highquality/highquality/10909
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10905
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal 4 Salto" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="URUGUAY",UY | Canal 4 Salto
-http://high.zapto.org:8080/highquality/highquality/10910
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10910
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal 6 Durazno" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal6uruguay-324x160.png" group-title="URUGUAY",UY | Canal 6 Durazno
-http://high.zapto.org:8080/highquality/highquality/10911
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10911
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal 7 Punta" tvg-logo="http://canal7punta.tv/images/logo.png" group-title="URUGUAY",UY | Canal 7 Punta
-http://high.zapto.org:8080/highquality/highquality/10912
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10912
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal-M" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg" group-title="URUGUAY",UY | Canal-M
-http://high.zapto.org:8080/highquality/highquality/10913
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10913
 #EXTINF:-1 tvg-id="" tvg-name="UY | Cardinal TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg" group-title="URUGUAY",UY | Cardinal TV
-http://high.zapto.org:8080/highquality/highquality/10914
-#EXTINF:-1 tvg-id="" tvg-name="UY | Charrua TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URUGUAY",UY | Charrua TV
-http://high.zapto.org:8080/highquality/highquality/10915
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10914
 #EXTINF:-1 tvg-id="" tvg-name="UY | Pantalla IMPO" tvg-logo="https://www.impo.com.uy/wp_impo/wp-content/uploads/2015/12/Eventos-1.jpg" group-title="URUGUAY",UY | Pantalla IMPO
-http://high.zapto.org:8080/highquality/highquality/10919
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10919
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal 10 HD" tvg-logo="https://i.pinimg.com/originals/66/e9/06/66e906d27abd2a8378e43c95efabce3b.png" group-title="URUGUAY",UY | Canal 10 HD
-http://high.zapto.org:8080/highquality/highquality/10923
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10923
 #EXTINF:-1 tvg-id="" tvg-name="PE | Peru Magico" tvg-logo="" group-title="PERU",PE | Peru Magico
-http://high.zapto.org:8080/highquality/highquality/10929
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10929
 #EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru HD" tvg-logo="" group-title="PERU",PE | TV Peru HD
-http://high.zapto.org:8080/highquality/highquality/10930
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10930
 #EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru Noticias" tvg-logo="" group-title="PERU",PE | TV Peru Noticias
-http://high.zapto.org:8080/highquality/highquality/10931
-#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="Deportes | WIN SPORT +" tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg" group-title="(DEPORTES)",Deportes | WIN SPORT +
-http://high.zapto.org:8080/highquality/highquality/10932
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: FUTV CR OPC 1" tvg-logo="http://relaxplease.xyz:8080/images/0e9b21a12b7cc91decc0c3c764df2186.png" group-title="COSTA RICA",DEPORTES: FUTV CR OPC 1
-http://high.zapto.org:8080/highquality/highquality/10933
-#EXTINF:-1 tvg-id="" tvg-name="Deportes-Tigo Sports CR" tvg-logo="https://1.bp.blogspot.com/-QRuz83v6g6k/XSOXjKK4TzI/AAAAAAAA72w/55Qp6dz2vQ0E4wbOpMbdPgUbTRS_1-40QCLcBGAs/s1600/TIGOSPORTSCR.png" group-title="COSTA RICA",Deportes-Tigo Sports CR
-http://high.zapto.org:8080/highquality/highquality/10940
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10931
+#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="DEPORTES | WIN SPORT +" tvg-logo="http://relaxplease.xyz:8080/images/91cdc5cd764e11ca77f2b1a2cf9b6937.jpg" group-title="(DEPORTES)",DEPORTES | WIN SPORT +
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10932
+#EXTINF:-1 tvg-id="" tvg-name="CR | FUTV OP 1" tvg-logo="http://relaxplease.xyz:8080/images/0e9b21a12b7cc91decc0c3c764df2186.png" group-title="COSTA RICA",CR | FUTV OP 1
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10933
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA*NEXT 21" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pa-nex-tv-canal-21-3964.jpg" group-title="PANAMA",PANAMA*NEXT 21
-http://high.zapto.org:8080/highquality/highquality/10955
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10955
 #EXTINF:-1 tvg-id="" tvg-name="PAN| OYE TV PANAMA" tvg-logo="" group-title="PANAMA",PAN| OYE TV PANAMA
-http://high.zapto.org:8080/highquality/highquality/10956
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10956
 #EXTINF:-1 tvg-id="" tvg-name="PAN| RPC PANAMA" tvg-logo="" group-title="PANAMA",PAN| RPC PANAMA
-http://high.zapto.org:8080/highquality/highquality/10957
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10957
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA*SER TV PANAMA" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMA",PANAMA*SER TV PANAMA
-http://high.zapto.org:8080/highquality/highquality/10958
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10958
 #EXTINF:-1 tvg-id="" tvg-name="PAN| TVN PANAMA" tvg-logo="" group-title="PANAMA",PAN| TVN PANAMA
-http://high.zapto.org:8080/highquality/highquality/10959
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10959
 #EXTINF:-1 tvg-id="" tvg-name="PAN| TV MAX PANAMA" tvg-logo="" group-title="PANAMA",PAN| TV MAX PANAMA
-http://high.zapto.org:8080/highquality/highquality/10960
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10960
 #EXTINF:-1 tvg-id="" tvg-name="PR | Wipr Canal 6" tvg-logo="" group-title="PUERTO RICO",PR | Wipr Canal 6
-http://high.zapto.org:8080/highquality/highquality/10962
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10962
 #EXTINF:-1 tvg-id="" tvg-name="PR | Mega TV" tvg-logo="" group-title="PUERTO RICO",PR | Mega TV
-http://high.zapto.org:8080/highquality/highquality/10963
-#EXTINF:-1 tvg-id="" tvg-name="PR | UNIVISION" tvg-logo="" group-title="PUERTO RICO",PR | UNIVISION
-http://high.zapto.org:8080/highquality/highquality/10964
-#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA" tvg-logo="" group-title="PUERTO RICO",PR | WAPA
-http://high.zapto.org:8080/highquality/highquality/10966
-#EXTINF:-1 tvg-id="" tvg-name="PR | Wapa 2" tvg-logo="" group-title="PUERTO RICO",PR | Wapa 2
-http://high.zapto.org:8080/highquality/highquality/10967
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10963
 #EXTINF:-1 tvg-id="" tvg-name="PR | Wapa America" tvg-logo="" group-title="PUERTO RICO",PR | Wapa America
-http://high.zapto.org:8080/highquality/highquality/10968
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10968
 #EXTINF:-1 tvg-id="" tvg-name="PR | Teleoro Canal 13" tvg-logo="" group-title="PUERTO RICO",PR | Teleoro Canal 13
-http://high.zapto.org:8080/highquality/highquality/10969
-#EXTINF:-1 tvg-id="HBO POP (HBOPOP SD)" tvg-name="CINE: HBO POP" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="CINE FAMILIAR",CINE: HBO POP
-http://high.zapto.org:8080/highquality/highquality/11004
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/10969
+#EXTINF:-1 tvg-id="HBO POP (HBOPOP SD)" tvg-name="CINE: HBO POP" tvg-logo="http://relaxplease.xyz:8080/images/0301e0440428df9e978dddde77a0ac1e.png" group-title="CINE VARIADO",CINE: HBO POP
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11004
 #EXTINF:-1 tvg-id="CALI TV SD" tvg-name="Cali TV" tvg-logo="" group-title="ENTRETENIMIENTO",Cali TV
-http://high.zapto.org:8080/highquality/highquality/11007
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11007
 #EXTINF:-1 tvg-id="" tvg-name="Canal CNC Medellin" tvg-logo="" group-title="ENTRETENIMIENTO",Canal CNC Medellin
-http://high.zapto.org:8080/highquality/highquality/11009
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11009
 #EXTINF:-1 tvg-id="" tvg-name="Melody Channel TV" tvg-logo="" group-title="ENTRETENIMIENTO",Melody Channel TV
-http://high.zapto.org:8080/highquality/highquality/11010
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11010
 #EXTINF:-1 tvg-id="Telecaribe SD" tvg-name="Telecaribe" tvg-logo="" group-title="ENTRETENIMIENTO",Telecaribe
-http://high.zapto.org:8080/highquality/highquality/11012
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11012
 #EXTINF:-1 tvg-id="" tvg-name="Telecaribe Deportes" tvg-logo="" group-title="(DEPORTES)",Telecaribe Deportes
-http://high.zapto.org:8080/highquality/highquality/11013
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11013
 #EXTINF:-1 tvg-id="" tvg-name="PE: FRECUENCIA LATINA" tvg-logo="" group-title="PERU",PE: FRECUENCIA LATINA
-http://high.zapto.org:8080/highquality/highquality/11016
-#EXTINF:-1 tvg-id="CNN INTERNACIONAL (CNN)" tvg-name="NOTICIAS: CNN INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/698975622274494464/_WS109jD_400x400.png" group-title="NOTICIAS",NOTICIAS: CNN INTERNACIONAL
-http://high.zapto.org:8080/highquality/highquality/11023
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CABLE NOTICIAS" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",NOTICIAS: CABLE NOTICIAS
-http://high.zapto.org:8080/highquality/highquality/11024
-#EXTINF:-1 tvg-id="Universal Channel East SD" tvg-name="CINE: UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CINE FAMILIAR",CINE: UNIVERSAL SD
-http://high.zapto.org:8080/highquality/highquality/28469
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11016
+#EXTINF:-1 tvg-id="CNN INTERNACIONAL (CNN)" tvg-name="NOTICIAS: CNN INTERNACIONAL" tvg-logo="http://relaxplease.xyz:8080/images/345348354b6688cc9a865c2b3460853a.png" group-title="NOTICIAS",NOTICIAS: CNN INTERNACIONAL
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11023
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CABLE NOTICIAS" tvg-logo="http://relaxplease.xyz:8080/images/8b21e2ffb7a3189a4aa9537bce62d657.png" group-title="NOTICIAS",NOTICIAS: CABLE NOTICIAS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/11024
+#EXTINF:-1 tvg-id="Universal Channel East SD" tvg-name="CINE: UNIVERSAL SD" tvg-logo="http://relaxplease.xyz:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="CINE VARIADO",CINE: UNIVERSAL SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28469
 #EXTINF:-1 tvg-id="" tvg-name="DOMINICANA*Telesistema" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2013/07/telesistema.png" group-title="REPUBLICA DOMINICANA",DOMINICANA*Telesistema
-http://high.zapto.org:8080/highquality/highquality/28474
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28474
 #EXTINF:-1 tvg-id="" tvg-name="Tele Antillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas2.png" group-title="REPUBLICA DOMINICANA",Tele Antillas
-http://high.zapto.org:8080/highquality/highquality/28478
-#EXTINF:-1 tvg-id="Space (Space HD)" tvg-name="CINE: SPACE 1" tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png" group-title="CINE FAMILIAR",CINE: SPACE 1
-http://high.zapto.org:8080/highquality/highquality/28497
-#EXTINF:-1 tvg-id="SONY SD" tvg-name="CINE: SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE FAMILIAR",CINE: SONY
-http://high.zapto.org:8080/highquality/highquality/28499
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28478
+#EXTINF:-1 tvg-id="Space (Space HD)" tvg-name="CINE: SPACE 1" tvg-logo="http://relaxplease.xyz:8080/images/1545de4168def65781aa57a6f8abf10d.png" group-title="CINE VARIADO",CINE: SPACE 1
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28497
+#EXTINF:-1 tvg-id="SONY SD" tvg-name="CINE: SONY" tvg-logo="http://relaxplease.xyz:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE VARIADO",CINE: SONY
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28499
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*RETRO TV" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="GUATEMALA",GUATEMALA*RETRO TV
-http://high.zapto.org:8080/highquality/highquality/28503
-#EXTINF:-1 tvg-id="PARAMOUNT Channel SD" tvg-name="CINE: PARAMOUNT" tvg-logo="https://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png" group-title="CINE FAMILIAR",CINE: PARAMOUNT
-http://high.zapto.org:8080/highquality/highquality/28507
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28503
+#EXTINF:-1 tvg-id="PARAMOUNT Channel SD" tvg-name="CINE: PARAMOUNT" tvg-logo="http://relaxplease.xyz:8080/images/789952c7762fcf647e136dd05e064a1d.png" group-title="CINE VARIADO",CINE: PARAMOUNT
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28507
 #EXTINF:-1 tvg-id="NICK JR SD" tvg-name="INFANTIL | NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="(INFANTIL)",INFANTIL | NICK JR
-http://high.zapto.org:8080/highquality/highquality/28511
-#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREAM HD" tvg-logo="http://relaxplease.xyz:8080/images/f7110358e2313f9502406519fca394b2.png" group-title="CINE FAMILIAR",CINE: HBO XTREAM HD
-http://high.zapto.org:8080/highquality/highquality/28523
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28511
+#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREAM HD" tvg-logo="http://relaxplease.xyz:8080/images/f7110358e2313f9502406519fca394b2.png" group-title="CINE VARIADO",CINE: HBO XTREAM HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28523
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MUSICA | MTV LIVE
-http://high.zapto.org:8080/highquality/highquality/28526
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28526
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MUSICA | MTV hit" tvg-logo="https://pbs.twimg.com/profile_images/1191732709787422722/t8WYVddw_400x400.jpg" group-title="MUSICA",MUSICA | MTV hit
-http://high.zapto.org:8080/highquality/highquality/28528
-#EXTINF:-1 tvg-id="ID - Investigation Discovery (Invest.DiscoveryHD)" tvg-name="CULTURA | ID SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="(CULTURA)",CULTURA | ID SD
-http://high.zapto.org:8080/highquality/highquality/28532
-#EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name="CULTURA | HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="(CULTURA)",CULTURA | HISTORY 2
-http://high.zapto.org:8080/highquality/highquality/28535
-#EXTINF:-1 tvg-id="HBO 2 (HBO 2 SD)" tvg-name="CINE: HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="CINE FAMILIAR",CINE: HBO 2
-http://high.zapto.org:8080/highquality/highquality/28540
-#EXTINF:-1 tvg-id="HBO (HBO SD)" tvg-name="CINE: HBO 1" tvg-logo="https://www.vocespremium.com/wp-content/uploads/2017/11/HBO-1.png" group-title="CINE FAMILIAR",CINE: HBO 1
-http://high.zapto.org:8080/highquality/highquality/28543
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28528
+#EXTINF:-1 tvg-id="ID - Investigation Discovery (Invest.DiscoveryHD)" tvg-name="CULTURA | ID SD" tvg-logo="http://relaxplease.xyz:8080/images/c99033f970a968286a3387c079426629.png" group-title="(CULTURA)",CULTURA | ID SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28532
+#EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name="CULTURA | HISTORY 2" tvg-logo="http://relaxplease.xyz:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="(CULTURA)",CULTURA | HISTORY 2
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28535
+#EXTINF:-1 tvg-id="HBO 2 (HBO 2 SD)" tvg-name="CINE: HBO 2" tvg-logo="http://relaxplease.xyz:8080/images/b41e54c57cf92db9c81071a7fca25982.jpg" group-title="CINE VARIADO",CINE: HBO 2
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28540
+#EXTINF:-1 tvg-id="HBO (HBO SD)" tvg-name="CINE: HBO 1" tvg-logo="http://relaxplease.xyz:8080/images/95d7d815dcdffd64569505d6b85e24a7.png" group-title="CINE VARIADO",CINE: HBO 1
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28543
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Guatevision - GUA" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png" group-title="GUATEMALA",GUATEMALA*Guatevision - GUA
-http://high.zapto.org:8080/highquality/highquality/28545
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="CINE: AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE FAMILIAR",CINE: AXN SD
-http://high.zapto.org:8080/highquality/highquality/28558
-#EXTINF:-1 tvg-id="Animal Planet (Animal Planet HD)" tvg-name="CULTURA | ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="(CULTURA)",CULTURA | ANIMAL PLANET
-http://high.zapto.org:8080/highquality/highquality/28560
-#EXTINF:-1 tvg-id="" tvg-name="DOMINICANA*Antena 7- RD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="REPUBLICA DOMINICANA",DOMINICANA*Antena 7- RD
-http://high.zapto.org:8080/highquality/highquality/28562
-#EXTINF:-1 tvg-id="BBC WORLD News SD" tvg-name="NOTICIA*BBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/635px-BBC_World_Service_red.svg.png" group-title="NOTICIAS",NOTICIA*BBC World
-http://high.zapto.org:8080/highquality/highquality/28566
-#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 10" tvg-logo="https://cdn.canal10.com.ni/files/2019/09/04/LOGO.png" group-title="NICARAGUA",NICARAGUA*Canal 10
-http://high.zapto.org:8080/highquality/highquality/28582
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28545
+#EXTINF:-1 tvg-id="AXN SD" tvg-name="CINE: AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE VARIADO",CINE: AXN SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28558
+#EXTINF:-1 tvg-id="Animal Planet (Animal Planet HD)" tvg-name="CULTURA | ANIMAL PLANET" tvg-logo="http://relaxplease.xyz:8080/images/b6be930b4208ec24e69c762ce02bdf64.png" group-title="(CULTURA)",CULTURA | ANIMAL PLANET
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28560
+#EXTINF:-1 tvg-id="" tvg-name="DOMINICANA*Antena 7- RD" tvg-logo="http://relaxplease.xyz:8080/images/a347878c00fc6101f756852e858c634c.png" group-title="REPUBLICA DOMINICANA",DOMINICANA*Antena 7- RD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28562
+#EXTINF:-1 tvg-id="BBC WORLD News SD" tvg-name="NOTICIA*BBC World" tvg-logo="http://relaxplease.xyz:8080/images/08e648bd57b536f3f98d8f91a0c9d260.png" group-title="NOTICIAS",NOTICIA*BBC World
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28566
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10" tvg-logo="https://seeklogo.com/images/C/canal-10-nicaragua-logo-397DD150B0-seeklogo.com.png" group-title="NICARAGUA",NIC | Canal 10
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28582
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal 11" tvg-logo="https://3.bp.blogspot.com/-Q_14fKfRfvw/UkI5gUhw-hI/AAAAAAAAA1w/K6ePWMa9FzU/s1600/teleonce.jpg" group-title="GUATEMALA",GUATEMALA*Canal 11
-http://high.zapto.org:8080/highquality/highquality/28583
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28583
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA: Canal 13-" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA",GUATEMALA: Canal 13-
-http://high.zapto.org:8080/highquality/highquality/28587
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28587
 #EXTINF:-1 tvg-id="" tvg-name="NICARAGUA:Canal 14" tvg-logo="https://www.vostv.com.ni/static/images/logo.png" group-title="NICARAGUA",NICARAGUA:Canal 14
-http://high.zapto.org:8080/highquality/highquality/28588
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28588
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR*Canal 2 - ESA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR",EL SALVADOR*Canal 2 - ESA
-http://high.zapto.org:8080/highquality/highquality/28590
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28590
 #EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 2" tvg-logo="https://canal2tv.com/wp-content/uploads/2016/11/LogoCanal2.png" group-title="NICARAGUA",NICARAGUA*Canal 2
-http://high.zapto.org:8080/highquality/highquality/28591
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28591
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal 3" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/40/Canal_3_Guatemala_1979-1987.png/revision/latest/scale-to-width-down/340?cb=20170629182404&path-prefix=es" group-title="GUATEMALA",GUATEMALA*Canal 3
-http://high.zapto.org:8080/highquality/highquality/28593
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28593
 #EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 4" tvg-logo="https://canal4.com.ni/images/LogoC42.png" group-title="NICARAGUA",NICARAGUA*Canal 4
-http://high.zapto.org:8080/highquality/highquality/28601
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28601
 #EXTINF:-1 tvg-id="" tvg-name="NICARAGUA*Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="NICARAGUA",NICARAGUA*Canal 8
-http://high.zapto.org:8080/highquality/highquality/28606
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28606
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA*Canal Antigua" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png" group-title="GUATEMALA",GUATEMALA*Canal Antigua
-http://high.zapto.org:8080/highquality/highquality/28607
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28607
 #EXTINF:-1 tvg-id="" tvg-name="CHI| 24 Horas" tvg-logo="" group-title="CHILE",CHI| 24 Horas
-http://high.zapto.org:8080/highquality/highquality/28610
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28610
 #EXTINF:-1 tvg-id="" tvg-name="CHI| CDO Premium" tvg-logo="https://tv.wurtlitzer.info/imagenes/canales/deportes/cdopremium.png" group-title="(DEPORTES)",CHI| CDO Premium
-http://high.zapto.org:8080/highquality/highquality/28612
-#EXTINF:-1 tvg-id="" tvg-name="CHILE* TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CHILE",CHILE* TV Chile
-http://high.zapto.org:8080/highquality/highquality/28617
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28612
+#EXTINF:-1 tvg-id="" tvg-name="CHILE* TV Chile" tvg-logo="http://relaxplease.xyz:8080/images/cc137aa973066cc64beaf703f0669b3c.PNG" group-title="CHILE",CHILE* TV Chile
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28617
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) ALF" tvg-logo="https://pbs.twimg.com/profile_images/378800000120793887/a5fddbffb9f8c700e5fddcda074348d9.png" group-title="24/7",(24/7) ALF
-http://high.zapto.org:8080/highquality/highquality/28622
-#EXTINF:-1 tvg-id="" tvg-name="CHILE: CANAL 13" tvg-logo="" group-title="CHILE",CHILE: CANAL 13
-http://high.zapto.org:8080/highquality/highquality/28623
-#EXTINF:-1 tvg-id="FOX Comedy (Fox Comedy HD)" tvg-name="CINE: FOX COMEDY HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" group-title="CINE FAMILIAR",CINE: FOX COMEDY HD
-http://high.zapto.org:8080/highquality/highquality/29413
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/28622
+#EXTINF:-1 tvg-id="FOX Comedy (Fox Comedy HD)" tvg-name="CINE: FOX COMEDY HD" tvg-logo="http://relaxplease.xyz:8080/images/dc171de97834dab813b91abd7c532a24.png" group-title="CINE VARIADO",CINE: FOX COMEDY HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/29413
 #EXTINF:-1 tvg-id="" tvg-name="PA: TELEMETRO 13" tvg-logo="https://img.utdstc.com/icons/telemetro-android.png:225" group-title="PANAMA",PA: TELEMETRO 13
-http://high.zapto.org:8080/highquality/highquality/30117
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/30117
 #EXTINF:-1 tvg-id="" tvg-name="peru: movistar plus" tvg-logo="" group-title="PERU",peru: movistar plus
-http://high.zapto.org:8080/highquality/highquality/30118
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/30118
 #EXTINF:-1 tvg-id="" tvg-name="RD DIGITAL 15" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD DIGITAL 15
-http://high.zapto.org:8080/highquality/highquality/30119
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/30119
 #EXTINF:-1 tvg-id="" tvg-name="(24/7) CANTINFLAS " tvg-logo="https://pbs.twimg.com/profile_images/2834612208/e64a24ad3c5159b1664a076e7f43aac4.jpeg" group-title="24/7",(24/7) CANTINFLAS 
-http://high.zapto.org:8080/highquality/highquality/30180
-#EXTINF:-1 tvg-id="" tvg-name="MLB BEISBOL" tvg-logo="https://pbs.twimg.com/profile_images/3659847571/3bd76f160bcb7b60e57c92f8f6bbf099.jpeg" group-title="(DEPORTES)",MLB BEISBOL
-http://high.zapto.org:8080/highquality/highquality/30502
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/30180
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES  NBA " tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/11/5dd34672a4521.png" group-title="(DEPORTES)",DEPORTES  NBA 
-http://high.zapto.org:8080/highquality/highquality/30622
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/30622
 #EXTINF:-1 tvg-id="DISCOVERY KIDS SD" tvg-name="INFANTIL - DISCOVERY KIDS" tvg-logo="" group-title="(INFANTIL)",INFANTIL - DISCOVERY KIDS
-http://high.zapto.org:8080/highquality/highquality/31306
-#EXTINF:-1 tvg-id="" tvg-name="CINE: WOW TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="CINE FAMILIAR",CINE: WOW TV
-http://high.zapto.org:8080/highquality/highquality/31466
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/31306
+#EXTINF:-1 tvg-id="" tvg-name="CINE: WOW TV" tvg-logo="http://relaxplease.xyz:8080/images/9a8e69c04376f502a13fa98809805148.png" group-title="CINE VARIADO",CINE: WOW TV
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/31466
 #EXTINF:-1 tvg-id="" tvg-name="CHILE: TVN" tvg-logo="" group-title="CHILE",CHILE: TVN
-http://high.zapto.org:8080/highquality/highquality/31473
-#EXTINF:-1 tvg-id="" tvg-name="CHILE: MEGA" tvg-logo="" group-title="CHILE",CHILE: MEGA
-http://high.zapto.org:8080/highquality/highquality/31474
-#EXTINF:-1 tvg-id="TNT SERIES SD" tvg-name="CINE: TNT SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt-series_m.png" group-title="CINE FAMILIAR",CINE: TNT SERIES
-http://high.zapto.org:8080/highquality/highquality/31490
-#EXTINF:-1 tvg-id="Cinemax Este SD" tvg-name="CINE: CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE FAMILIAR",CINE: CINEMAX
-http://high.zapto.org:8080/highquality/highquality/32014
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/31473
+#EXTINF:-1 tvg-id="TNT SERIES SD" tvg-name="CINE: TNT SERIES" tvg-logo="http://relaxplease.xyz:8080/images/97df19b7dd8f5510a493a17b6caa6d86.png" group-title="CINE VARIADO",CINE: TNT SERIES
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/31490
+#EXTINF:-1 tvg-id="Cinemax Este SD" tvg-name="CINE: CINEMAX" tvg-logo="http://relaxplease.xyz:8080/images/b6dd700080185b8e39ce62a85ea0e11f.png" group-title="CINE VARIADO",CINE: CINEMAX
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/32014
 #EXTINF:-1 tvg-id="" tvg-name="AMORDISCO TV" tvg-logo="" group-title="COLOMBIA",AMORDISCO TV
-http://high.zapto.org:8080/highquality/highquality/32425
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/32425
 #EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILEVISION
-http://high.zapto.org:8080/highquality/highquality/33016
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN " tvg-logo="https://i.ibb.co/Z1ktGXG/rcn-nove.png" group-title="COLOMBIA",CO: RCN 
-http://high.zapto.org:8080/highquality/highquality/33485
-#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREME" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg" group-title="CINE FAMILIAR",CINE: HBO XTREME
-http://high.zapto.org:8080/highquality/highquality/33916
-#EXTINF:-1 tvg-id="" tvg-name="CHILE: LA RED" tvg-logo="" group-title="CHILE",CHILE: LA RED
-http://high.zapto.org:8080/highquality/highquality/33917
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/33016
+#EXTINF:-1 tvg-id="CANAL RCN SD" tvg-name="CO: RCN " tvg-logo="http://relaxplease.xyz:8080/images/a72fc703a1f84aad5dc241970e8e46e2.png" group-title="COLOMBIA",CO: RCN 
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/33485
+#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREME" tvg-logo="http://relaxplease.xyz:8080/images/ca86129072ade826fe4a5636127b12a1.jpg" group-title="CINE VARIADO",CINE: HBO XTREME
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/33916
 #EXTINF:-1 tvg-id="" tvg-name="CDN 37 RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",CDN 37 RD
-http://high.zapto.org:8080/highquality/highquality/35042
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35042
 #EXTINF:-1 tvg-id="" tvg-name="LAT*CANAL 13 - NI" tvg-logo="" group-title="NICARAGUA",LAT*CANAL 13 - NI
-http://high.zapto.org:8080/highquality/highquality/35051
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35051
 #EXTINF:-1 tvg-id="" tvg-name="CDN2- RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",CDN2- RD
-http://high.zapto.org:8080/highquality/highquality/35054
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35054
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal  21 - ESA
-http://high.zapto.org:8080/highquality/highquality/35060
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35060
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 12 - ESA
-http://high.zapto.org:8080/highquality/highquality/35063
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35063
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="NICARAGUA",LAT*Canal 12 - NI
-http://high.zapto.org:8080/highquality/highquality/35064
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35064
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PANAMA",LAT*Canal 13 - PAN
-http://high.zapto.org:8080/highquality/highquality/35065
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35065
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 19  ESA
-http://high.zapto.org:8080/highquality/highquality/35068
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35068
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PANAMA",LAT*Canal 2 - PAN
-http://high.zapto.org:8080/highquality/highquality/35071
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35071
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 4 - ESA
-http://high.zapto.org:8080/highquality/highquality/35073
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35073
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PANAMA",LAT*Canal 4 - PAN
-http://high.zapto.org:8080/highquality/highquality/35075
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35075
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="EL SALVADOR",LAT*Canal 6 - ESA
-http://high.zapto.org:8080/highquality/highquality/35076
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35076
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="NICARAGUA",LAT*Canal 6 - NI
-http://high.zapto.org:8080/highquality/highquality/35077
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35077
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="GUATEMALA",LAT*Canal 7 - GUA
-http://high.zapto.org:8080/highquality/highquality/35078
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="GUATEMALA",LAT*Canal Azteca - GUA
-http://high.zapto.org:8080/highquality/highquality/35081
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35078
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca - GUA" tvg-logo="" group-title="GUATEMALA",Canal Azteca - GUA
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35081
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Guatevision - GUA" tvg-logo="" group-title="GUATEMALA",LAT*Guatevision - GUA
-http://high.zapto.org:8080/highquality/highquality/35105
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35105
 #EXTINF:-1 tvg-id="" tvg-name="LAT*MASTV - PAN" tvg-logo="" group-title="PANAMA",LAT*MASTV - PAN
-http://high.zapto.org:8080/highquality/highquality/35115
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35115
 #EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PANAMA",LAT*NEXT - PAN
-http://high.zapto.org:8080/highquality/highquality/35123
-#EXTINF:-1 tvg-id="" tvg-name="LAT*NU MUSIC" tvg-logo="" group-title="MUSICA",LAT*NU MUSIC
-http://high.zapto.org:8080/highquality/highquality/35124
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35123
 #EXTINF:-1 tvg-id="" tvg-name="LAT*RHEMA TV" tvg-logo="" group-title="",LAT*RHEMA TV
-http://high.zapto.org:8080/highquality/highquality/35129
-#EXTINF:-1 tvg-id="Canal SyFy SD" tvg-name="CINE: SyFy SD" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.syfy.png.pagespeed.ic.HEaEjd3wrS.png" group-title="CINE FAMILIAR",CINE: SyFy SD
-http://high.zapto.org:8080/highquality/highquality/35136
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35129
+#EXTINF:-1 tvg-id="Canal SyFy SD" tvg-name="CINE: SyFy SD" tvg-logo="http://relaxplease.xyz:8080/images/8e35d1e8a232c89ddbf71127ff4ed443.png" group-title="CINE VARIADO",CINE: SyFy SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35136
 #EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PANAMA",LAT*TV  Max - PAN
-http://high.zapto.org:8080/highquality/highquality/35140
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35140
 #EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="EL SALVADOR",LAT*TVM25 -  ESA
-http://high.zapto.org:8080/highquality/highquality/35143
-#EXTINF:-1 tvg-id="" tvg-name="TeleMicro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",TeleMicro - RD
-http://high.zapto.org:8080/highquality/highquality/35145
-#EXTINF:-1 tvg-id="" tvg-name="Telecentro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telecentro - RD
-http://high.zapto.org:8080/highquality/highquality/35146
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35143
 #EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telesistema RD
-http://high.zapto.org:8080/highquality/highquality/35149
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35149
 #EXTINF:-1 tvg-id="" tvg-name="Teleunion - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleunion - RD
-http://high.zapto.org:8080/highquality/highquality/35150
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35150
 #EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Teleuniverso - RD
-http://high.zapto.org:8080/highquality/highquality/35151
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",LAT*Televida RD
-http://high.zapto.org:8080/highquality/highquality/35152
-#EXTINF:-1 tvg-id="WARNER CHANNEL HD (Warner HD)" tvg-name="CINE: WARNER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE FAMILIAR",CINE: WARNER HD
-http://high.zapto.org:8080/highquality/highquality/35159
-#EXTINF:-1 tvg-id="HBO Family (HBO Family HD)" tvg-name="CINE: HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE FAMILIAR",CINE: HBO FAMILY HD
-http://high.zapto.org:8080/highquality/highquality/35162
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35151
+#EXTINF:-1 tvg-id="" tvg-name="Televida RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",Televida RD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35152
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD (Warner HD)" tvg-name="CINE: WARNER HD" tvg-logo="http://relaxplease.xyz:8080/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="CINE VARIADO",CINE: WARNER HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35159
+#EXTINF:-1 tvg-id="HBO Family (HBO Family HD)" tvg-name="CINE: HBO FAMILY HD" tvg-logo="http://relaxplease.xyz:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE VARIADO",CINE: HBO FAMILY HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35162
 #EXTINF:-1 tvg-id="Ciudad MAGAZINE" tvg-name="ARGENTINA: MAGAZINE TV" tvg-logo="" group-title="ARGENTINA",ARGENTINA: MAGAZINE TV
-http://high.zapto.org:8080/highquality/highquality/35234
-#EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CR: | CANAL 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="COSTA RICA",CR: | CANAL 6 SD
-http://high.zapto.org:8080/highquality/highquality/35476
-#EXTINF:-1 tvg-id="" tvg-name="CR: | CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Repretel_11_actual.png" group-title="COSTA RICA",CR: | CANAL 11
-http://high.zapto.org:8080/highquality/highquality/35477
-#EXTINF:-1 tvg-id="" tvg-name="CR: | TELETICA 7 HD" tvg-logo="" group-title="COSTA RICA",CR: | TELETICA 7 HD
-http://high.zapto.org:8080/highquality/highquality/35480
-#EXTINF:-1 tvg-id="" tvg-name="DEP | M. Liga Campeones  FHD (SOLO EVENTOS)" tvg-logo="" group-title="",DEP | M. Liga Campeones  FHD (SOLO EVENTOS)
-http://high.zapto.org:8080/highquality/highquality/35551
-#EXTINF:-1 tvg-id="FOX Action (Fox Action SD)" tvg-name="CINE: FOX ACTION SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINE FAMILIAR",CINE: FOX ACTION SD
-http://high.zapto.org:8080/highquality/highquality/55864
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35234
+#EXTINF:-1 tvg-id="CINE: CINECANAL HD" tvg-name="CR: | CANAL 6 SD" tvg-logo="http://relaxplease.xyz:8080/images/9259de147958da4f0b740efb95a3059b.png" group-title="COSTA RICA",CR: | CANAL 6 SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35476
+#EXTINF:-1 tvg-id="" tvg-name="CR: | CANAL 11" tvg-logo="http://relaxplease.xyz:8080/images/db21866620b4988d7572ca46e9f7afd8.png" group-title="COSTA RICA",CR: | CANAL 11
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/35477
+#EXTINF:-1 tvg-id="FOX Action (Fox Action SD)" tvg-name="CINE: FOX ACTION SD" tvg-logo="http://relaxplease.xyz:8080/images/29298c813d4f5fbae1c57c084282bbf0.png" group-title="CINE VARIADO",CINE: FOX ACTION SD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/55864
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="Canal_de_las_estrellas" tvg-logo="" group-title="ENTRETENIMIENTO",Canal_de_las_estrellas
-http://high.zapto.org:8080/highquality/highquality/58255
-#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*A&E HD
-http://high.zapto.org:8080/highquality/highquality/58321
-#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*AMC HD
-http://high.zapto.org:8080/highquality/highquality/58322
-#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*AXN HD
-http://high.zapto.org:8080/highquality/highquality/58323
-#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*AZ click HD
-http://high.zapto.org:8080/highquality/highquality/58324
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Animal Planet HD
-http://high.zapto.org:8080/highquality/highquality/58325
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Antena 7- RD
-http://high.zapto.org:8080/highquality/highquality/58326
-#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="INFANTIL| CARTOON NETWORK" tvg-logo="" group-title="(INFANTIL)",INFANTIL| CARTOON NETWORK
-http://high.zapto.org:8080/highquality/highquality/58327
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CCN
-http://high.zapto.org:8080/highquality/highquality/58328
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CERTV
-http://high.zapto.org:8080/highquality/highquality/58329
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CNN Internacional
-http://high.zapto.org:8080/highquality/highquality/58331
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CNNE
-http://high.zapto.org:8080/highquality/highquality/58332
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal Claro HD
-http://high.zapto.org:8080/highquality/highquality/58333
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Comedy Central HD
-http://high.zapto.org:8080/highquality/highquality/58335
-#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE" tvg-logo="" group-title="LATINOS PREMIUM",LAT*DHE
-http://high.zapto.org:8080/highquality/highquality/58336
-#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*DHE HD
-http://high.zapto.org:8080/highquality/highquality/58337
-#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*DISCOVERY THEATHER HD
-http://high.zapto.org:8080/highquality/highquality/58338
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Digital 15 - RD
-http://high.zapto.org:8080/highquality/highquality/58339
-#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*E! Entertairment HD
-http://high.zapto.org:8080/highquality/highquality/58340
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Europa HD
-http://high.zapto.org:8080/highquality/highquality/58341
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Action HD
-http://high.zapto.org:8080/highquality/highquality/58342
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Family HD
-http://high.zapto.org:8080/highquality/highquality/58343
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX HD
-http://high.zapto.org:8080/highquality/highquality/58344
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Movies HD
-http://high.zapto.org:8080/highquality/highquality/58345
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FOX Series HD
-http://high.zapto.org:8080/highquality/highquality/58346
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FX HD
-http://high.zapto.org:8080/highquality/highquality/58347
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*FX Movies HD
-http://high.zapto.org:8080/highquality/highquality/58348
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Film & arts HD
-http://high.zapto.org:8080/highquality/highquality/58349
-#EXTINF:-1 tvg-id="" tvg-name="LAT*France24" tvg-logo="" group-title="LATINOS PREMIUM",LAT*France24
-http://high.zapto.org:8080/highquality/highquality/58350
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Golf Channel HD
-http://high.zapto.org:8080/highquality/highquality/58351
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*HBO Family HD
-http://high.zapto.org:8080/highquality/highquality/58352
-#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*History HD
-http://high.zapto.org:8080/highquality/highquality/58353
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Max Prime HD
-http://high.zapto.org:8080/highquality/highquality/58354
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Nick 2 HD
-http://high.zapto.org:8080/highquality/highquality/58355
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Nick SIM HD
-http://high.zapto.org:8080/highquality/highquality/58356
-#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*SONY HD
-http://high.zapto.org:8080/highquality/highquality/58358
-#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*SPACE HD
-http://high.zapto.org:8080/highquality/highquality/58359
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Studio Universal HD
-http://high.zapto.org:8080/highquality/highquality/58360
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TNT HD
-http://high.zapto.org:8080/highquality/highquality/58361
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TVChile
-http://high.zapto.org:8080/highquality/highquality/58362
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58255
+#EXTINF:-1 tvg-id="AZ Clic!" tvg-name="MX | AZ CLIC HD" tvg-logo="" group-title="MEXICO PREMIUM",MX | AZ CLIC HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58324
+#EXTINF:-1 tvg-id="" tvg-name="CCN" tvg-logo="" group-title="NICARAGUA",CCN
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58328
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD" tvg-logo="" group-title="ENTRETENIMIENTO",Canal Claro HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58333
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="E! Entertairment HD" tvg-logo="https://th.bing.com/th/id/Re4c824d5350a8ece55437a72e56346b5?rik=obwVVv8%2fPEuQVg&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f05%2fE-Entertainment-Logo.png&ehk=aaXoVypzY%2b6MWxy100sXlRn0alkvka9MXgJsZ3HjKss%3d&risl=&pid=ImgRaw" group-title="ENTRETENIMIENTO",E! Entertairment HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58340
+#EXTINF:-1 tvg-id="FOX Family (Fox Family HD)" tvg-name="CINE: FOX FAMILY" tvg-logo="http://relaxplease.xyz:8080/images/26b4209d7303ea65e000f1f69b159bbc.png" group-title="CINE VARIADO",CINE: FOX FAMILY
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58343
+#EXTINF:-1 tvg-id="FOX Movies (Fox Movies HD)" tvg-name="CINE: FOX MOVIE" tvg-logo="http://relaxplease.xyz:8080/images/ccb943c550a0136f09c08b94c4795f95.png" group-title="CINE VARIADO",CINE: FOX MOVIE
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58345
+#EXTINF:-1 tvg-id="FOX Movies (Fox Movies HD)" tvg-name="CINE: FOX SERIES" tvg-logo="http://relaxplease.xyz:8080/images/ad0ff4319bde4671a15dbdee9addf41e.png" group-title="CINE VARIADO",CINE: FOX SERIES
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58346
+#EXTINF:-1 tvg-id="Canal Film & Arts" tvg-name="CULTURA | Film & Arts HD" tvg-logo="" group-title="(CULTURA)",CULTURA | Film & Arts HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58349
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: France24" tvg-logo="" group-title="NOTICIAS",NOTICIAS: France24
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58350
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Golf Channel HD" tvg-logo="" group-title="(DEPORTES)",DEPORTES | Golf Channel HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58351
+#EXTINF:-1 tvg-id="NICK HD" tvg-name="Nick " tvg-logo="" group-title="(INFANTIL)",Nick 
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58356
 #EXTINF:-1 tvg-id="" tvg-name="MEX| Azteca Corazon*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Azteca Corazon*
-http://high.zapto.org:8080/highquality/highquality/58519
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58519
 #EXTINF:-1 tvg-id="" tvg-name="MEX| Distrito Comedi*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Distrito Comedi*
-http://high.zapto.org:8080/highquality/highquality/58524
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58524
 #EXTINF:-1 tvg-id="" tvg-name="MEX| Telenovelas*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Telenovelas*
-http://high.zapto.org:8080/highquality/highquality/58528
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS -2" tvg-logo="" group-title="LATINOS PREMIUM",LAS ESTRELLAS -2
-http://high.zapto.org:8080/highquality/highquality/58584
-#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="LATINOS PREMIUM",LAT*11 - Repretel
-http://high.zapto.org:8080/highquality/highquality/58585
-#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="LATINOS PREMIUM",LAT*13-Sinart
-http://high.zapto.org:8080/highquality/highquality/58586
-#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="LATINOS PREMIUM",LAT*29 - VM Latino
-http://high.zapto.org:8080/highquality/highquality/58587
-#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="LATINOS PREMIUM",LAT*42 - Extra TV 42
-http://high.zapto.org:8080/highquality/highquality/58588
-#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="LATINOS PREMIUM",LAT*6 - Repretel
-http://high.zapto.org:8080/highquality/highquality/58589
-#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="LATINOS PREMIUM",LAT*7-Teletica
-http://high.zapto.org:8080/highquality/highquality/58590
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 11 - GUA
-http://high.zapto.org:8080/highquality/highquality/58591
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 13-GUA
-http://high.zapto.org:8080/highquality/highquality/58592
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 3 - GUA
-http://high.zapto.org:8080/highquality/highquality/58593
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal 7 - GUA
-http://high.zapto.org:8080/highquality/highquality/58594
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal Antigua - GUA
-http://high.zapto.org:8080/highquality/highquality/58595
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Canal Azteca - GUA
-http://high.zapto.org:8080/highquality/highquality/58596
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CDN2- RD
-http://high.zapto.org:8080/highquality/highquality/58597
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*CDN37 - RD
-http://high.zapto.org:8080/highquality/highquality/58598
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Color Vision 9 - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Color Vision 9 - RD
-http://high.zapto.org:8080/highquality/highquality/58599
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Guatevision - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Guatevision - GUA
-http://high.zapto.org:8080/highquality/highquality/58600
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*HOLA! TV HD
-http://high.zapto.org:8080/highquality/highquality/58601
-#EXTINF:-1 tvg-id="" tvg-name="LAT*La voz de Maria" tvg-logo="" group-title="LATINOS PREMIUM",LAT*La voz de Maria
-http://high.zapto.org:8080/highquality/highquality/58602
-#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*MTV HD
-http://high.zapto.org:8080/highquality/highquality/58603
-#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*MTV SIM HD
-http://high.zapto.org:8080/highquality/highquality/58604
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Nick 2 HD
-http://high.zapto.org:8080/highquality/highquality/58605
-#EXTINF:-1 tvg-id="" tvg-name="LAT*RCN - GUA" tvg-logo="" group-title="LATINOS PREMIUM",LAT*RCN - GUA
-http://high.zapto.org:8080/highquality/highquality/58607
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Sembrador" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Sembrador
-http://high.zapto.org:8080/highquality/highquality/58608
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TBN Enlace" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TBN Enlace
-http://high.zapto.org:8080/highquality/highquality/58609
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Tele Antillas - RD
-http://high.zapto.org:8080/highquality/highquality/58610
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Telecentro - RD
-http://high.zapto.org:8080/highquality/highquality/58611
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58528
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS HD" tvg-name="CANAL DE LAS ESTRELLAS HD" tvg-logo="http://relaxplease.xyz:8080/images/3b7a1282c84581a8e9ffc41beaf3c71c.png" group-title="ENTRETENIMIENTO",CANAL DE LAS ESTRELLAS HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58584
+#EXTINF:-1 tvg-id="¡HOLA! TV SD (HOLATV)" tvg-name="HOLA! TV" tvg-logo="" group-title="ENTRETENIMIENTO",HOLA! TV
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58601
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" tvg-logo="" group-title="RELIGIOSOS",La voz de Maria
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58602
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICA",MTV HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58603
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICA",MTV HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58604
+#EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="" group-title="GUATEMALA",RCN - GUA
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58607
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Sembrador" tvg-logo="" group-title="RELIGIOSOS",LAT*Sembrador
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58608
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TBN Enlace" tvg-logo="" group-title="RELIGIOSOS",LAT*TBN Enlace
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58609
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",LAT*Tele Antillas - RD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58610
 #EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="REPUBLICA DOMINICANA",LAT*TeleMicro - RD
-http://high.zapto.org:8080/highquality/highquality/58612
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Telemundo HD
-http://high.zapto.org:8080/highquality/highquality/58613
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Telesistema RD
-http://high.zapto.org:8080/highquality/highquality/58614
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Teleunion - RD
-http://high.zapto.org:8080/highquality/highquality/58615
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Teleuniverso - RD
-http://high.zapto.org:8080/highquality/highquality/58616
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*Televida RD
-http://high.zapto.org:8080/highquality/highquality/58617
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="LATINOS PREMIUM",LAT*TVE
-http://high.zapto.org:8080/highquality/highquality/58618
-#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="LATINOS PREMIUM",LAT*VH1 HD
-http://high.zapto.org:8080/highquality/highquality/58619
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58612
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58613
+#EXTINF:-1 tvg-id="" tvg-name="ENT: TVE" tvg-logo="" group-title="ENTRETENIMIENTO",ENT: TVE
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58618
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="MUSICA",LAT*VH1 HD
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58619
 #EXTINF:-1 tvg-id="" tvg-name="24/7 EL CORRE CAMINOS" tvg-logo="http://relaxplease.xyz:8080/images/aea92ee16cf61440555cdaf719408a8f.jpg" group-title="24/7",24/7 EL CORRE CAMINOS
-http://high.zapto.org:8080/highquality/highquality/58686
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58686
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOCOS ADAMS" tvg-logo="https://cdn.colombia.com/sdi/2019/08/08/los-locos-addams-lanzan-primer-trailer-oficial-de-la-pelicula-animada-759478.jpg" group-title="24/7",24/7 LOCOS ADAMS
-http://high.zapto.org:8080/highquality/highquality/58689
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58689
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="http://relaxplease.xyz:8080/images/08cd7b9dc85fa0b038bd7c394cad8567.jpg" group-title="24/7",24/7 La Risa en Vacaciones
-http://high.zapto.org:8080/highquality/highquality/58690
-
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58690
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ANGELS" tvg-logo="" group-title="MLB 2020",MLB | ANGELS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58696
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ASTROS" tvg-logo="" group-title="MLB 2020",MLB | ASTROS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58697
+#EXTINF:-1 tvg-id="" tvg-name="MLB | ATHLETICS" tvg-logo="" group-title="MLB 2020",MLB | ATHLETICS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58698
+#EXTINF:-1 tvg-id="" tvg-name="MLB | BLUE JAYS" tvg-logo="" group-title="MLB 2020",MLB | BLUE JAYS
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58699
+#EXTINF:-1 tvg-id="" tvg-name="MLB | BRAVES" tvg-logo="" group-title="MLB 2020",MLB | BRAVES
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58700
+#EXTINF:-1 tvg-id="" tvg-name="MLB | Marlins" tvg-logo="" group-title="MLB 2020",MLB | Marlins
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58708
+#EXTINF:-1 tvg-id="" tvg-name="MLB | PHILLIES" tvg-logo="" group-title="MLB 2020",MLB | PHILLIES
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58713
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO: Canal 5 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO PREMIUM",MEXICO: Canal 5 *
-http://high.zapto.org:8080/highquality/highquality/58907
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/58907
+#EXTINF:-1 tvg-id="" tvg-name="Capitana Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg" group-title="⭐️ACCION",Capitana Marvel (2019)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/59351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Rey León (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBhcbMndqz9aVComPtfDib2mBfW.jpg" group-title="⭐️PELICULAS INFANTIL",El Rey León (2019)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/59414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSOSN TEMP1-5" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSOSN TEMP1-5
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60091
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 6-11" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSON TEMP 6-11
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60092
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 12-17" tvg-logo="https://i.pinimg.com/originals/b1/6b/84/b16b8448d63014810c2aefbc93b11e52.png" group-title="24/7",LOS SIMPSONS 12-17
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60093
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 18-21" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS 18-21
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60094
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS TEM 22-26" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS TEM 22-26
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60095
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 27-30" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS 27-30
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/60096
+#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49z88ri8gToqfVodW3GYQJCDmPx.jpg" group-title="⭐️ACCION",6 en la sombra (2019)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/60097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ad astra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg" group-title="⭐️ACCION",Ad astra (2019)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/60098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo: Washington D.C. (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCfKCVrBs2r2gb5hz9E0Oysc9i9.jpg" group-title="⭐️ACCION",Objetivo: Washington D.C. (2019)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/60099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybizg6RSYX3yvOQ2iLYucTrHGw2.jpg" group-title="⭐️ACCION",Anna (2019)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/60100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods 2: Una Nueva Era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fmufY8h0SirNKt37yprZdf7xi.jpg" group-title="⭐️ESTRENOS 2020",Los Croods 2: Una Nueva Era (2020)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/68131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl8rZYy7JmbWlBlvDCfwvDmGO0g.jpg" group-title="⭐️ESTRENOS 2020",Soul (2020)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/68170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvCsNbIaYo96GrM2IuQiiVOkq5O.jpg" group-title="⭐️ESTRENOS 2020",Wonder Woman 1984 (2020)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/68171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las brujas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1y92244iBlKW04rEnaEK8i8tPY.jpg" group-title="⭐️ESTRENOS 2020",Las brujas (2020)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/68256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" group-title="⭐️DRAMA",El secreto de Adaline (2015)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/68410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg" group-title="⭐️ESTRENOS 2020",Tenet (2020)
+http://high.zapto.org:8080/movie/highquality/kN7ZdgTsjY/68411.mp4
+#EXTINF:-1 tvg-id="Canal GolTV Latinoamérica" tvg-name="DEPORTES: GOL TV EC opcion 2" tvg-logo="http://relaxplease.xyz:8080/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="(DEPORTES)",DEPORTES: GOL TV EC opcion 2
+http://high.zapto.org:8080/highquality/kN7ZdgTsjY/65003
 
 #EXTINF:-1,DISTRITO COMEDIA group-title="+HD",DISTRITO COMEDIA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
