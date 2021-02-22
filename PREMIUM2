@@ -1,0 +1,573 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://kewlstreams.com/logos/BOE.png" group-title="MOVIES",HBO
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25217
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="http://kewlstreams.com/logos/BO2HD.png" group-title="MOVIES",HBO 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12180
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="HBO LATINO" tvg-logo="http://xtream-coders.com/x0/movie/HBOLATINO.png" group-title="MOVIES",HBO LATINO
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133492
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" tvg-logo="http://kewlstreams.com/logos/BOCOM.png" group-title="MOVIES",HBO COMEDY
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10728
+#EXTINF:-1 tvg-id="I507.59357.schedulesdirect.org" tvg-name="HBO FAMILY " tvg-logo="http://kewlstreams.com/logos/BOFAM.png" group-title="MOVIES",HBO FAMILY 
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10726
+#EXTINF:-1 tvg-id="● Latino | HBO Plus HD 1080P-" tvg-name="HBO PLUS" tvg-logo="https://kewlstreams.com/logos/BOPLUS.png" group-title="▼ COMING SOON ▼",HBO PLUS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133352
+#EXTINF:-1 tvg-id="Xtra 1" tvg-name="HBO SIGNATURE" tvg-logo="http://kewlstreams.com/logos/BOSIGN.png" group-title="MOVIES",HBO SIGNATURE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10725
+#EXTINF:-1 tvg-id="Xtra 1" tvg-name="HBO ZONE" tvg-logo="http://kewlstreams.com/logos/BOZO.png" group-title="MOVIES",HBO ZONE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10724
+#EXTINF:-1 tvg-id="US: SHOWTIME EAST" tvg-name="SHOWTIME (E)" tvg-logo="https://kewlstreams.com/logos/showtime_east.png" group-title="MOVIES",SHOWTIME (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10723
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME (W)" tvg-logo="https://kewlstreams.com/logos/showtime_west.png" group-title="MOVIES",SHOWTIME (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/19653
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="https://kewlstreams.com/logos/showtime_2.png" group-title="MOVIES",SHOWTIME 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10722
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME X BET" tvg-logo="http://xtream-coders.com/x0/movie/showtime_bet.png" group-title="MOVIES",SHOWTIME X BET
+http://011011011.com:8080/cuent930/4dM5WDNUUt/162866
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME  NEXT" tvg-logo="https://kewlstreams.com/logos/showtime_next.png" group-title="MOVIES",SHOWTIME  NEXT
+http://011011011.com:8080/cuent930/4dM5WDNUUt/70917
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="SHOWTIME BEYOND" tvg-logo="https://kewlstreams.com/logos/showtime_beyond.png" group-title="MOVIES",SHOWTIME BEYOND
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25211
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="https://kewlstreams.com/logos/showtime_extreme.png" group-title="MOVIES",SHOWTIME EXTREME
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10718
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://kewlstreams.com/logos/showtime_familyzone.png" group-title="MOVIES",SHOWTIME FAMILY ZONE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/70916
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE" tvg-logo="https://kewlstreams.com/logos/showtime_showcase.png" group-title="MOVIES",SHOWTIME SHOWCASE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10719
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="https://kewlstreams.com/logos/showtime_women.png" group-title="MOVIES",SHOWTIME WOMEN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133354
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="http://kewlstreams.com/logos/CM.png" group-title="MOVIES",CINEMAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10730
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5 STAR MAX" tvg-logo="http://kewlstreams.com/logos/CM%205%20STAR.png" group-title="MOVIES",CINEMAX 5 STAR MAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10734
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="CINEMAX ACTION MAX" tvg-logo="https://kewlstreams.com/logos/CM%20ACTION.png" group-title="MOVIES",CINEMAX ACTION MAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/112264
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MORE MAX" tvg-logo="https://kewlstreams.com/logos/CMAX.png" group-title="MOVIES",CINEMAX MORE MAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111920
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="CINEMAX MOVIE MAX" tvg-logo="http://kewlstreams.com/logos/CM%20MOVIE.png" group-title="MOVIES",CINEMAX MOVIE MAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10716
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="CINEMAX OUTERMAX" tvg-logo="https://kewlstreams.com/logos/CM%20OUTER.png" group-title="MOVIES",CINEMAX OUTERMAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/112265
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLER MAX" tvg-logo="http://kewlstreams.com/logos/CM%20THRILLER.png" group-title="MOVIES",CINEMAX THRILLER MAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10706
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ (E)" tvg-logo="http://kewlstreams.com/logos/tar.png" group-title="MOVIES",STARZ (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10709
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="STARZ (W)" tvg-logo="http://kewlstreams.com/logos/tarwest.png" group-title="MOVIES",STARZ (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10710
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="https://kewlstreams.com/logos/taredge.png" group-title="MOVIES",STARZ EDGE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133355
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK" tvg-logo="http://kewlstreams.com/logos/coreinblack.png" group-title="MOVIES",STARZ IN BLACK
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10708
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" tvg-logo="http://kewlstreams.com/logos/tarcinema.png" group-title="MOVIES",STARZ CINEMA
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10715
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY" tvg-logo="https://kewlstreams.com/logos/tarcomedy.png" group-title="MOVIES",STARZ COMEDY
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111923
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="STARZ WEST" tvg-logo="https://kewlstreams.com/logos/corewest.png" group-title="MOVIES",STARZ WEST
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141767
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE (E)" tvg-logo="http://kewlstreams.com/logos/core.png" group-title="MOVIES",STARZ ENCORE (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10712
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="http://kewlstreams.com/logos/coraction.png" group-title="MOVIES",STARZ ENCORE ACTION
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10711
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://kewlstreams.com/logos/corblack.png" group-title="MOVIES",STARZ ENCORE BLACK
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111924
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://kewlstreams.com/logos/coreclassic.png" group-title="MOVIES",STARZ ENCORE CLASSIC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111921
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE ESPANOL" tvg-logo="https://kewlstreams.com/logos/coreespanol.png" group-title="MOVIES",STARZ ENCORE ESPANOL
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111925
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY" tvg-logo="http://kewlstreams.com/logos/corefamily.png" group-title="MOVIES",STARZ ENCORE FAMILY
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10707
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENCE" tvg-logo="https://kewlstreams.com/logos/coresuspence.png" group-title="MOVIES",STARZ ENCORE SUSPENCE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111922
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="http://kewlstreams.com/logos/corewesterns.png" group-title="MOVIES",STARZ ENCORE WESTERNS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25208
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="INDIE PLEX" tvg-logo="https://kewlstreams.com/logos/plexindie.png" group-title="MOVIES",INDIE PLEX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111926
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MOVIE PLEX" tvg-logo="https://kewlstreams.com/logos/plexmovie.png" group-title="MOVIES",MOVIE PLEX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111927
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RETRO PLEX" tvg-logo="https://kewlstreams.com/logos/plexretro.png" group-title="MOVIES",RETRO PLEX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/111928
+#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="https://kewlstreams.com/logos/epix.png" group-title="MOVIES",EPIX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10896
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2" tvg-logo="https://kewlstreams.com/logos/epix2.png" group-title="MOVIES",EPIX 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25218
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="http://xtream-coders.com/x0/movie/epix_hits.png" group-title="MOVIES",EPIX HITS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/162865
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="EPIX DRIVE IN" tvg-logo="https://kewlstreams.com/logos/epixdrivein.png" group-title="MOVIES",EPIX DRIVE IN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/114435
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIES",SONY MOVIE CHANNEL
+http://011011011.com:8080/cuent930/4dM5WDNUUt/19651
+#EXTINF:-1 tvg-id="crave1.east.ca" tvg-name="CRAVE 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/419IZ3FNHqL.png" group-title="MOVIES",CRAVE 1
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141768
+#EXTINF:-1 tvg-id="crave2.east.ca" tvg-name="CRAVE 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/419IZ3FNHqL.png" group-title="MOVIES",CRAVE 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141769
+#EXTINF:-1 tvg-id="crave3.east.ca" tvg-name="CRAVE 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/419IZ3FNHqL.png" group-title="MOVIES",CRAVE 3
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141770
+#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CRAVE 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/419IZ3FNHqL.png" group-title="MOVIES",CRAVE 4
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141771
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION ONE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_one.png" group-title="MOVIES",NETFLIX ACTION ONE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164415
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION TWO" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_two.png" group-title="MOVIES",NETFLIX ACTION TWO
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164416
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION THREE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_three.png" group-title="MOVIES",NETFLIX ACTION THREE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164417
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION FOUR" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_four.png" group-title="MOVIES",NETFLIX ACTION FOUR
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164418
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION FIVE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_five.png" group-title="MOVIES",NETFLIX ACTION FIVE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164419
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION SIX" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_six.png" group-title="MOVIES",NETFLIX ACTION SIX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164420
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA ONE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_drama_one.png" group-title="▼ COMING SOON ▼",NETFLIX DRAMA ONE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164421
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA TWO" tvg-logo="http://xtream-coders.com/x0/movie/netflix_drama_two.png" group-title="MOVIES",NETFLIX DRAMA TWO
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164422
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR ONE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_one.png" group-title="MOVIES",NETFLIX HORROR ONE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164423
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR TWO" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_two.png" group-title="MOVIES",NETFLIX HORROR TWO
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164424
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR THREE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_three.png" group-title="MOVIES",NETFLIX HORROR THREE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164425
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR FOUR" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_four.png" group-title="MOVIES",NETFLIX HORROR FOUR
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164426
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR FIVE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_five.png" group-title="MOVIES",NETFLIX HORROR FIVE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164427
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="BOX OFFICE 1" tvg-logo="http://011011011.com:8080/images/89b96404bb37af2f7d763031a2ad85ab.png" group-title="MOVIES",BOX OFFICE 1
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141772
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="BOX OFFICE 2" tvg-logo="http://011011011.com:8080/images/89b96404bb37af2f7d763031a2ad85ab.png" group-title="MOVIES",BOX OFFICE 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141773
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="BOX OFFICE 3" tvg-logo="http://011011011.com:8080/images/89b96404bb37af2f7d763031a2ad85ab.png" group-title="MOVIES",BOX OFFICE 3
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141774
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="BOX OFFICE 4" tvg-logo="http://011011011.com:8080/images/89b96404bb37af2f7d763031a2ad85ab.png" group-title="MOVIES",BOX OFFICE 4
+http://011011011.com:8080/cuent930/4dM5WDNUUt/141775
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E" tvg-logo="http://xtream-coders.com/x0/entertainment/ae_east.png" group-title="ENTERTAINMENT",A&E
+http://011011011.com:8080/cuent930/4dM5WDNUUt/84606
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="http://xtream-coders.com/x0/entertainment/amc.png" group-title="ENTERTAINMENT",AMC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10927
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="AHC" tvg-logo="http://xtream-coders.com/x0/entertainment/ahc.png" group-title="ENTERTAINMENT",AHC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10926
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="http://xtream-coders.com/x0/entertainment/animalplanet.png" group-title="ENTERTAINMENT",Animal Planet
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10925
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet (W)" tvg-logo="http://xtream-coders.com/x0/entertainment/animalplanet_west.png" group-title="ENTERTAINMENT",Animal Planet (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136502
+#EXTINF:-1 tvg-id="cornerstonetelevision.us" tvg-name="AKC" tvg-logo="http://xtream-coders.com/x0/entertainment/akctv.png" group-title="ENTERTAINMENT",AKC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/119022
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="Antenna TV" tvg-logo="http://xtream-coders.com/x0/entertainment/antennatv.png" group-title="ENTERTAINMENT",Antenna TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133330
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="Aspire" tvg-logo="http://xtream-coders.com/x0/entertainment/aspiretv.png" group-title="ENTERTAINMENT",Aspire
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132962
+#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE" tvg-logo="http://xtream-coders.com/x0/entertainment/awe.png" group-title="ENTERTAINMENT",AWE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133331
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="AXS TV" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png" group-title="ENTERTAINMENT",AXS TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133332
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="http://xtream-coders.com/x0/entertainment/bbcnewsamerica.png" group-title="ENTERTAINMENT",BBC America
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12175
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="http://xtream-coders.com/x0/entertainment/bet.png" group-title="ENTERTAINMENT",BET
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10921
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET (W)" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_west.png" group-title="ENTERTAINMENT",BET (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/112260
+#EXTINF:-1 tvg-id="bether.us" tvg-name="BET Her" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_her.png" group-title="ENTERTAINMENT",BET Her
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82601
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="BET Jams" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png" group-title="ENTERTAINMENT",BET Jams
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82037
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET Soul" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png" group-title="ENTERTAINMENT",BET Soul
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82036
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="Bounce" tvg-logo="http://xtream-coders.com/x0/entertainment/bounce.png" group-title="ENTERTAINMENT",Bounce
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64986
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo" tvg-logo="http://xtream-coders.com/x0/entertainment/bravo_east.png" group-title="ENTERTAINMENT",Bravo
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133329
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo (W)" tvg-logo="http://011011011.com:8080/images/2563f4b981f0313d6e510bfd9ad4396b.png" group-title="ENTERTAINMENT",Bravo (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136504
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="Buzzr" tvg-logo="http://xtream-coders.com/x0/entertainment/buzzr.png" group-title="ENTERTAINMENT",Buzzr
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132856
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT" tvg-logo="http://xtream-coders.com/x0/entertainment/cmt.png" group-title="ENTERTAINMENT",CMT
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10917
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central" tvg-logo="http://xtream-coders.com/x0/entertainment/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10913
+#EXTINF:-1 tvg-id="CCHDP" tvg-name="Comedy Central (W)" tvg-logo="http://011011011.com:8080/images/6f602cea0526028026497a1036e7a732.png" group-title="ENTERTAINMENT",Comedy Central (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136505
+#EXTINF:-1 tvg-id="comet.us" tvg-name="Comet TV" tvg-logo="http://xtream-coders.com/x0/entertainment/comet.png" group-title="ENTERTAINMENT",Comet TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64983
+#EXTINF:-1 tvg-id="connecticutnetwork.us" tvg-name="Connecticut Network" tvg-logo="http://xtream-coders.com/x0/entertainment/connecticut_network.png" group-title="ENTERTAINMENT",Connecticut Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132859
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel" tvg-logo="http://xtream-coders.com/x0/entertainment/cooking_channel.png" group-title="ENTERTAINMENT",Cooking Channel
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10912
+#EXTINF:-1 tvg-id="court.us" tvg-name="Court TV" tvg-logo="http://xtream-coders.com/x0/entertainment/courttv.png" group-title="ENTERTAINMENT",Court TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132858
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="Cowboy Channel" tvg-logo="http://xtream-coders.com/x0/entertainment/cowboy_channel.png" group-title="ENTERTAINMENT",Cowboy Channel
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133333
+#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="Cozi" tvg-logo="http://xtream-coders.com/x0/entertainment/cozy.png" group-title="ENTERTAINMENT",Cozi
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25344
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="Crime + Investigation" tvg-logo="http://xtream-coders.com/x0/entertainment/crime_investigation.png" group-title="ENTERTAINMENT",Crime + Investigation
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10910
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW" tvg-logo="http://xtream-coders.com/x0/entertainment/theCW.png" group-title="ENTERTAINMENT",CW
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10909
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America" tvg-logo="http://xtream-coders.com/x0/entertainment/destination_america.png" group-title="ENTERTAINMENT",Destination America
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10908
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery" tvg-logo="http://xtream-coders.com/x0/entertainment/discovery_channel_east.png" group-title="ENTERTAINMENT",Discovery
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10907
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery (W)" tvg-logo="http://011011011.com:8080/images/1ff72b779d96f76bc8549a97848246f8.png" group-title="ENTERTAINMENT",Discovery (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136506
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="Discovery ID" tvg-logo="http://xtream-coders.com/x0/entertainment/investigation_discovery.png" group-title="ENTERTAINMENT",Discovery ID
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10875
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="Discovery Life" tvg-logo="http://xtream-coders.com/x0/entertainment/discovery_life.png" group-title="ENTERTAINMENT",Discovery Life
+http://011011011.com:8080/cuent930/4dM5WDNUUt/112258
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="Discovery Family" tvg-logo="http://xtream-coders.com/x0/entertainment/discovery_family.png" group-title="ENTERTAINMENT",Discovery Family
+http://011011011.com:8080/cuent930/4dM5WDNUUt/112257
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Discovery Science" tvg-logo="http://xtream-coders.com/x0/entertainment/discovery_science.png" group-title="ENTERTAINMENT",Discovery Science
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10906
+#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-name="Discovery Shed " tvg-logo="http://xtream-coders.com/x0/entertainment/Discovery_Shed.png" group-title="ENTERTAINMENT",Discovery Shed 
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133335
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="Discovery Velocity" tvg-logo="http://xtream-coders.com/x0/entertainment/discovery_velocity.png" group-title="ENTERTAINMENT",Discovery Velocity
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10841
+#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="DIY Network" tvg-logo="http://xtream-coders.com/x0/entertainment/diy_network.png" group-title="ENTERTAINMENT",DIY Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10901
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX " tvg-logo="http://xtream-coders.com/x0/entertainment/dmax.png" group-title="ENTERTAINMENT",DMAX 
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133337
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment" tvg-logo="http://xtream-coders.com/x0/entertainment/e!_entertainment.png" group-title="ENTERTAINMENT",E! Entertainment
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10899
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment (W)" tvg-logo="http://011011011.com:8080/images/9de8ac8a25c56c7e2886befa1bdbef2f.png" group-title="ENTERTAINMENT",E! Entertainment (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136507
+#EXTINF:-1 tvg-id="Eden" tvg-name="Eden " tvg-logo="http://xtream-coders.com/x0/entertainment/eden.png" group-title="ENTERTAINMENT",Eden 
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133338
+#EXTINF:-1 tvg-id="elrey.us" tvg-name="El Rey" tvg-logo="http://xtream-coders.com/x0/entertainment/El-Rey-Network.png" group-title="ENTERTAINMENT",El Rey
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12182
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network" tvg-logo="http://xtream-coders.com/x0/entertainment/food_network.png" group-title="ENTERTAINMENT",Food Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10893
+#EXTINF:-1 tvg-id="FOODHD" tvg-name="Food Network (W)" tvg-logo="http://011011011.com:8080/images/84058e9ae4b5f6e4fd93eabb17b2e8fa.png" group-title="ENTERTAINMENT",Food Network (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136508
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform" tvg-logo="http://xtream-coders.com/x0/entertainment/freeform.png" group-title="ENTERTAINMENT",Freeform
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10890
+#EXTINF:-1 tvg-id="fusion.us" tvg-name="Fusion" tvg-logo="http://xtream-coders.com/x0/entertainment/fusion.png" group-title="ENTERTAINMENT",Fusion
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10888
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX" tvg-logo="http://xtream-coders.com/x0/entertainment/fx_networks.png" group-title="ENTERTAINMENT",FX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10887
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="http://xtream-coders.com/x0/entertainment/fxx.png" group-title="ENTERTAINMENT",FXX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10885
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="FXM" tvg-logo="http://xtream-coders.com/x0/entertainment/fxm.png" group-title="ENTERTAINMENT",FXM
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10886
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="http://xtream-coders.com/x0/entertainment/fyi.png" group-title="ENTERTAINMENT",FYI
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12181
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="Get TV" tvg-logo="http://xtream-coders.com/x0/entertainment/gettv.png" group-title="ENTERTAINMENT",Get TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133339
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="Gone Fishing" tvg-logo="http://xtream-coders.com/x0/entertainment/gone_fishing.png" group-title="ENTERTAINMENT",Gone Fishing
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132873
+#EXTINF:-1 tvg-id="grit.us" tvg-name="GRIT" tvg-logo="http://011011011.com:8080/images/7d8a8bf5c6076266ec70b2bbdfd10c61.png" group-title="ENTERTAINMENT",GRIT
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133340
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="H2" tvg-logo="http://xtream-coders.com/x0/entertainment/history2.png" group-title="ENTERTAINMENT",H2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/65008
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark" tvg-logo="http://xtream-coders.com/x0/entertainment/hallmark_channel.png" group-title="ENTERTAINMENT",Hallmark
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25284
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="Hallmark Drama" tvg-logo="http://xtream-coders.com/x0/entertainment/hallmark_drama.png" group-title="ENTERTAINMENT",Hallmark Drama
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12033
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://xtream-coders.com/x0/entertainment/hallmark_movies_mysteries.png" group-title="ENTERTAINMENT",Hallmark Movies & Mysteries
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25283
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="http://xtream-coders.com/x0/entertainment/hgtv.png" group-title="ENTERTAINMENT",HGTV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10879
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV (W)" tvg-logo="http://011011011.com:8080/images/d74d9aa1c445b9a3e01844befc878c67.png" group-title="ENTERTAINMENT",HGTV (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136509
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="History Channel" tvg-logo="http://xtream-coders.com/x0/entertainment/history.png" group-title="ENTERTAINMENT",History Channel
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10878
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="http://xtream-coders.com/x0/entertainment/hln.png" group-title="ENTERTAINMENT",HLN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133341
+#EXTINF:-1 tvg-id="hsn2.us" tvg-name="HSN" tvg-logo="http://xtream-coders.com/x0/entertainment/hsn_1.png" group-title="ENTERTAINMENT",HSN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132868
+#EXTINF:-1 tvg-id="hsn2.us" tvg-name="HSN 2" tvg-logo="http://xtream-coders.com/x0/entertainment/hsn_2.png" group-title="ENTERTAINMENT",HSN 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132870
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="IFC" tvg-logo="http://xtream-coders.com/x0/entertainment/ifc.png" group-title="ENTERTAINMENT",IFC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10877
+#EXTINF:-1 tvg-id="ion.us" tvg-name="ION" tvg-logo="http://xtream-coders.com/x0/entertainment/ion.png" group-title="ENTERTAINMENT",ION
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64980
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="Law & Crime Network" tvg-logo="http://011011011.com:8080/images/01abc17122f6eea06849c9f03b334632.png" group-title="ENTERTAINMENT",Law & Crime Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132860
+#EXTINF:-1 tvg-id="lifetimemvies.us" tvg-name="Lifetime Movie Network" tvg-logo="http://xtream-coders.com/x0/entertainment/lifetime_movies.png" group-title="ENTERTAINMENT",Lifetime Movie Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25278
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime Network" tvg-logo="http://xtream-coders.com/x0/entertainment/lifetime.png" group-title="ENTERTAINMENT",Lifetime Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10872
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="MAV TV" tvg-logo="http://xtream-coders.com/x0/sports/mav_tv.png" group-title="ENTERTAINMENT",MAV TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25277
+#EXTINF:-1 tvg-id="metvwjlp.us" tvg-name="ME TV" tvg-logo="http://xtream-coders.com/x0/entertainment/me_tv.png" group-title="ENTERTAINMENT",ME TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133343
+#EXTINF:-1 tvg-id="MGM HDTV" tvg-name="MGM Sci-Fi" tvg-logo="https://pbs.twimg.com/profile_images/1148355812949028864/5tRnHZRq_400x400.png" group-title="▼ COMING SOON ▼",MGM Sci-Fi
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132861
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Motor Trend" tvg-logo="http://xtream-coders.com/x0/entertainment/motor_trend.png" group-title="ENTERTAINMENT",Motor Trend
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64981
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv.png" group-title="ENTERTAINMENT",MTV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12029
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV2" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv2.png" group-title="ENTERTAINMENT",MTV2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64896
+#EXTINF:-1 tvg-id="MTV2HD" tvg-name="MTV2 (W)" tvg-logo="http://011011011.com:8080/images/3b7c61a77ac98316525a0e4e4900d46a.png" group-title="ENTERTAINMENT",MTV2 (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136510
+#EXTINF:-1 tvg-id="mtvu.us" tvg-name="MTV U" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_u.png" group-title="ENTERTAINMENT",MTV U
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136501
+#EXTINF:-1 tvg-id="mtvtr3s.us" tvg-name="MTV Hits" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_hits.png" group-title="ENTERTAINMENT",MTV Hits
+http://011011011.com:8080/cuent930/4dM5WDNUUt/45590
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classics" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_classic.png" group-title="ENTERTAINMENT",MTV Classics
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136500
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="http://xtream-coders.com/x0/entertainment/natgeo.png" group-title="ENTERTAINMENT",National Geographic
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10864
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="National Geographic Wild" tvg-logo="http://xtream-coders.com/x0/entertainment/natgeo_wild.png" group-title="ENTERTAINMENT",National Geographic Wild
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10863
+#EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" tvg-logo="https://store-images.microsoft.com/image/apps.25409.9007199267039353.36d908c9-9ba7-4ea4-8e0c-27ae1a552190.427ec1bf-bd29-465d-8382-70fb7645e4da?mode=scale&q=90&h=200&w=200&background=%230078D7" group-title="ENTERTAINMENT",NASA TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/163893
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor" tvg-logo="http://xtream-coders.com/x0/entertainment/outdoor_channel.png" group-title="ENTERTAINMENT",Outdoor
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10860
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="Outdoor Cooking" tvg-logo="http://xtream-coders.com/x0/entertainment/Outdoor_Cooking_Channel.png" group-title="ENTERTAINMENT",Outdoor Cooking
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133026
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="Outside TV" tvg-logo="http://xtream-coders.com/x0/entertainment/outside_tv.png" group-title="ENTERTAINMENT",Outside TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132863
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="OWN" tvg-logo="http://xtream-coders.com/x0/entertainment/own.png" group-title="ENTERTAINMENT",OWN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10858
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen" tvg-logo="http://xtream-coders.com/x0/entertainment/oxygen.png" group-title="ENTERTAINMENT",Oxygen
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10857
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen (W)" tvg-logo="http://011011011.com:8080/images/fb53b8c161b3e171f3696dcdefc83f2e.png" group-title="ENTERTAINMENT",Oxygen (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136511
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="Paramount Network" tvg-logo="http://xtream-coders.com/x0/entertainment/paramount_channel.png" group-title="ENTERTAINMENT",Paramount Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25210
+#EXTINF:-1 tvg-id="pbswgcu.us" tvg-name="PBS " tvg-logo="http://xtream-coders.com/x0/entertainment/PBS.png" group-title="ENTERTAINMENT",PBS 
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82171
+#EXTINF:-1 tvg-id="People TV" tvg-name="People TV" tvg-logo="http://xtream-coders.com/x0/entertainment/people_tv.png" group-title="ENTERTAINMENT",People TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132864
+#EXTINF:-1 tvg-id="pixltv.us" tvg-name="PIXL" tvg-logo="http://011011011.com:8080/images/a3138fb2ce0613e05ffec4a8951ad0a7.png" group-title="ENTERTAINMENT",PIXL
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133344
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="POP" tvg-logo="http://xtream-coders.com/x0/entertainment/pop_tv.png" group-title="ENTERTAINMENT",POP
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133345
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="http://xtream-coders.com/x0/entertainment/QVC.png" group-title="ENTERTAINMENT",QVC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132865
+#EXTINF:-1 tvg-id="qvc2.us" tvg-name="QVC 2" tvg-logo="http://xtream-coders.com/x0/entertainment/QVC.png" group-title="ENTERTAINMENT",QVC 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/132867
+#EXTINF:-1 tvg-id="Pluto TV Kids" tvg-name="Redbull TV" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51OvgIyfLDL.png" group-title="ENTERTAINMENT",Redbull TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82609
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="Reelz Channel" tvg-logo="http://xtream-coders.com/x0/entertainment/reelz.png" group-title="ENTERTAINMENT",Reelz Channel
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10854
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="Revolt" tvg-logo="http://xtream-coders.com/x0/entertainment/revolt.png" group-title="ENTERTAINMENT",Revolt
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10853
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="Ride TV" tvg-logo="http://xtream-coders.com/x0/entertainment/ride_tv.png" group-title="ENTERTAINMENT",Ride TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133346
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithonian" tvg-logo="http://xtream-coders.com/x0/entertainment/smithonian.png" group-title="ENTERTAINMENT",Smithonian
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133349
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="Sundance" tvg-logo="http://xtream-coders.com/x0/entertainment/sundance.png" group-title="ENTERTAINMENT",Sundance
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10852
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY" tvg-logo="http://xtream-coders.com/x0/entertainment/syfy.png" group-title="ENTERTAINMENT",SYFY
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10851
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY (W)" tvg-logo="http://011011011.com:8080/images/e4f0b9ddf7b58aaafd7c07da6f7d0aac.png" group-title="ENTERTAINMENT",SYFY (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136512
+#EXTINF:-1 tvg-id="tbspacific.us" tvg-name="TBS" tvg-logo="http://011011011.com:8080/images/ed074662f78f87e64f4bbe44769fc03a.png" group-title="ENTERTAINMENT",TBS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136513
+#EXTINF:-1 tvg-id="tmc.us" tvg-name="TCM" tvg-logo="http://xtream-coders.com/x0/entertainment/tcm.png" group-title="ENTERTAINMENT",TCM
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12030
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="TMZ" tvg-logo="http://xtream-coders.com/x0/entertainment/tmz.png" group-title="ENTERTAINMENT",TMZ
+http://011011011.com:8080/cuent930/4dM5WDNUUt/92670
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="http://xtream-coders.com/x0/entertainment/tlc.png" group-title="ENTERTAINMENT",TLC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10849
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC (W)" tvg-logo="http://011011011.com:8080/images/be46b6040be959db9c7a5f353342f0c0.png" group-title="ENTERTAINMENT",TLC (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136514
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT" tvg-logo="http://xtream-coders.com/x0/entertainment/tnt.png" group-title="ENTERTAINMENT",TNT
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10848
+#EXTINF:-1 tvg-id="US: TNT WEST" tvg-name="TNT (W)" tvg-logo="http://xtream-coders.com/x0/entertainment/tnt_west.png" group-title="ENTERTAINMENT",TNT (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136516
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="TRU TV" tvg-logo="http://xtream-coders.com/x0/entertainment/tru_tv.png" group-title="ENTERTAINMENT",TRU TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10846
+#EXTINF:-1 tvg-id="amc.us" tvg-name="TRU TV (W)" tvg-logo="http://011011011.com:8080/images/b0b97b32833c13abf1d95d1c31635596.png" group-title="ENTERTAINMENT",TRU TV (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136518
+#EXTINF:-1 tvg-id="travel.us" tvg-name="Trvl (E)" tvg-logo="http://xtream-coders.com/x0/entertainment/travel_channel.png" group-title="ENTERTAINMENT",Trvl (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10847
+#EXTINF:-1 tvg-id="TRAVHD" tvg-name="Trvl (W)" tvg-logo="http://xtream-coders.com/x0/entertainment/travel_channel.png" group-title="ENTERTAINMENT",Trvl (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136517
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="TV Land" tvg-logo="http://xtream-coders.com/x0/entertainment/tv_land.png" group-title="ENTERTAINMENT",TV Land
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10845
+#EXTINF:-1 tvg-id="tvlandwest.us" tvg-name="TV Land (W)" tvg-logo="http://011011011.com:8080/images/58f41482afbdbd391343805ceff700ca.png" group-title="ENTERTAINMENT",TV Land (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136519
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV ONE" tvg-logo="http://xtream-coders.com/x0/entertainment/tv_one.png" group-title="ENTERTAINMENT",TV ONE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10844
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA Network" tvg-logo="http://xtream-coders.com/x0/entertainment/usa_network.png" group-title="ENTERTAINMENT",USA Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10842
+#EXTINF:-1 tvg-id="US: USA NETWORK WEST" tvg-name="USA Network (W)" tvg-logo="http://011011011.com:8080/images/eb0f493d99516a3757e5254cf9dd612c.png" group-title="ENTERTAINMENT",USA Network (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136520
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://xtream-coders.com/x0/entertainment/vh1.png" group-title="ENTERTAINMENT",VH1
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12024
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 (W)" tvg-logo="http://011011011.com:8080/images/a1fa46eb823ea1528dcf9919604b351e.png" group-title="ENTERTAINMENT",VH1 (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136521
+#EXTINF:-1 tvg-id="VH1 HDTV [East]" tvg-name="VH1 Classic" tvg-logo="http://xtream-coders.com/x0/entertainment/vh1_classic.png" group-title="ENTERTAINMENT",VH1 Classic
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133348
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="Viceland" tvg-logo="http://xtream-coders.com/x0/entertainment/vice_land.png" group-title="ENTERTAINMENT",Viceland
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10840
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="WE TV" tvg-logo="http://xtream-coders.com/x0/entertainment/we_tv.png" group-title="ENTERTAINMENT",WE TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10839
+#EXTINF:-1 tvg-id="Sky News" tvg-name="World Fishing Network" tvg-logo="http://xtream-coders.com/x0/entertainment/world_fishing.png" group-title="ENTERTAINMENT",World Fishing Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133350
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png" group-title="ENTERTAINMENT",WWE Network
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82631
+#EXTINF:-1 tvg-id="Anime All Day" tvg-name="ALL DAY ANIME" tvg-logo="http://xtream-coders.com/x0/kids/anime_tv.png" group-title="KIDS",ALL DAY ANIME
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164429
+#EXTINF:-1 tvg-id="After School Cartoons" tvg-name="AFTER SCHOOL CARTOONS" tvg-logo="http://xtream-coders.com/x0/kids/after_school_cartoons.png" group-title="KIDS",AFTER SCHOOL CARTOONS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164430
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="BABY FIRST" tvg-logo="http://xtream-coders.com/x0/kids/baby_first.png" group-title="KIDS",BABY FIRST
+http://011011011.com:8080/cuent930/4dM5WDNUUt/112262
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="BABY TV" tvg-logo="http://xtream-coders.com/x0/kids/baby_TV.png" group-title="KIDS",BABY TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25366
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG" tvg-logo="https://pbs.twimg.com/profile_images/687481099849723904/lPrBt-D7.png" group-title="KIDS",BOOMERANG
+http://011011011.com:8080/cuent930/4dM5WDNUUt/12032
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK (E)" tvg-logo="http://xtream-coders.com/x0/kids/cartoonn.png" group-title="KIDS",CARTOON NETWORK (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10918
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="CARTOON NETWORK (W)" tvg-logo="http://xtream-coders.com/x0/kids/cartoonn_west.png" group-title="KIDS",CARTOON NETWORK (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/136522
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://xtream-coders.com/x0/kids/disney_channel.png" group-title="KIDS",DISNEY CHANNEL
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10905
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-name="DISNEY CINEMA" tvg-logo="http://xtream-coders.com/x0/kids/sky_disney.png" group-title="KIDS",DISNEY CINEMA
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64948
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR" tvg-logo="http://xtream-coders.com/x0/kids/disneyjr.png" group-title="KIDS",DISNEY JR
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10904
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="DISNEY XD" tvg-logo="http://xtream-coders.com/x0/kids/disney_xd.png" group-title="KIDS",DISNEY XD
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10903
+#EXTINF:-1 tvg-id="deajunior.it" tvg-name="EBS KIDS" tvg-logo="http://xtream-coders.com/x0/kids/ebskids.png" group-title="KIDS",EBS KIDS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161968
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="KIDS CENTRAL" tvg-logo="http://xtream-coders.com/x0/kids/kidscentral.png" group-title="KIDS",KIDS CENTRAL
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161966
+#EXTINF:-1 tvg-id="MinecrafTV" tvg-name="Minecraft" tvg-logo="http://xtream-coders.com/x0/kids/minecraft.png" group-title="KIDS",Minecraft
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164428
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK JR (E)" tvg-logo="http://xtream-coders.com/x0/kids/nick_jr.png" group-title="KIDS",NICK JR (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25212
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON (E)" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="KIDS",NICKELODEON (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10861
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS" tvg-logo="https://pbs.twimg.com/profile_images/3613528375/913bd8ec9faa239cc95243ac5fdb627e_400x400.png" group-title="KIDS",PBS KIDS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/69674
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS (E)" tvg-logo="http://xtream-coders.com/x0/kids/pbskids.png" group-title="KIDS",PBS KIDS (E)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161964
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS (W)" tvg-logo="http://xtream-coders.com/x0/kids/pbskids_west.png" group-title="KIDS",PBS KIDS (W)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161965
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="TEEN NICK" tvg-logo="http://xtream-coders.com/x0/kids/teen_nick.png" group-title="KIDS",TEEN NICK
+http://011011011.com:8080/cuent930/4dM5WDNUUt/133309
+#EXTINF:-1 tvg-id="ekids.bg" tvg-name="TVO KIDS" tvg-logo="http://xtream-coders.com/x0/kids/tvokids.png" group-title="KIDS",TVO KIDS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161967
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="UNIVERSAL KIDS" tvg-logo="http://xtream-coders.com/x0/kids/universal_kids.png" group-title="KIDS",UNIVERSAL KIDS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25234
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="[LIVE] EBS1" tvg-logo="https://ems-solutionsinc.com/wp-content/uploads/2011/10/eas.jpg" group-title="NEWS",[LIVE] EBS1
+http://011011011.com:8080/cuent930/4dM5WDNUUt/130433
+#EXTINF:-1 tvg-id="" tvg-name="[Live] EBS2" tvg-logo="https://ems-solutionsinc.com/wp-content/uploads/2011/10/eas.jpg" group-title="NEWS",[Live] EBS2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164834
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="[LIVE] EBS3" tvg-logo="https://ems-solutionsinc.com/wp-content/uploads/2011/10/eas.jpg" group-title="NEWS",[LIVE] EBS3
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160558
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="[LIVE] EBS4" tvg-logo="https://ems-solutionsinc.com/wp-content/uploads/2011/10/eas.jpg" group-title="NEWS",[LIVE] EBS4
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160559
+#EXTINF:-1 tvg-id="" tvg-name="[Live] EBS5" tvg-logo="https://ems-solutionsinc.com/wp-content/uploads/2011/10/eas.jpg" group-title="NEWS",[Live] EBS5
+http://011011011.com:8080/cuent930/4dM5WDNUUt/164833
+#EXTINF:-1 tvg-id="KVOA" tvg-name="Voice Of America" tvg-logo="http://xtream-coders.com/x0/news/voice_of_america.png" group-title="NEWS",Voice Of America
+http://011011011.com:8080/cuent930/4dM5WDNUUt/91551
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="ONE AMERICA NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DqyTKou1L.png" group-title="NEWS",ONE AMERICA NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/156082
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="NEWSMAX" tvg-logo="http://xtream-coders.com/x0/news/newsmax.png" group-title="NEWS",NEWSMAX
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123281
+#EXTINF:-1 tvg-id="" tvg-name="INFO WARS" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmluZm93YXJzLm9mZmljaWFsX2ljb25fMTU0NjQyMTgyMF8wMDY/icon.png?w=170&fakeurl=1" group-title="NEWS",INFO WARS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/166584
+#EXTINF:-1 tvg-id="infowars.us" tvg-name="PT NEWS NETWORK" tvg-logo="https://static.infowars.com/images/bil/IW_Stacked.jpg" group-title="▼ COMING SOON ▼",PT NEWS NETWORK
+http://011011011.com:8080/cuent930/4dM5WDNUUt/166587
+#EXTINF:-1 tvg-id="infowars.us" tvg-name="INFO WARS: OWEN" tvg-logo="https://static.infowars.com/images/bil/IW_Stacked.jpg" group-title="▼ COMING SOON ▼",INFO WARS: OWEN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123291
+#EXTINF:-1 tvg-id="infowars.us" tvg-name="PORTLAND ANDY" tvg-logo="https://static.infowars.com/images/bil/IW_Stacked.jpg" group-title="▼ COMING SOON ▼",PORTLAND ANDY
+http://011011011.com:8080/cuent930/4dM5WDNUUt/166586
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png" group-title="NEWS",CNN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82082
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://pbs.twimg.com/profile_images/551686316115492864/oEmg_d6e.png" group-title="NEWS",CNN INTERNATIONAL
+http://011011011.com:8080/cuent930/4dM5WDNUUt/165879
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS" tvg-logo="http://xtream-coders.com/x0/news/fox_news.png" group-title="NEWS",FOX NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/130436
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS" tvg-logo="http://xtream-coders.com/x0/news/fox_business.png" group-title="NEWS",FOX BUSINESS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10891
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC NEWS" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c2ce7355cfd792a157fbee9/1548970184965-BJVLIEMU39NUN9HX6YX7/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/tumblr_static_cc3rlxsm6rk0gwwgckogk4sgg.png" group-title="NEWS",ABC NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161328
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="ABC NEWS LIVE" tvg-logo="http://xtream-coders.com/x0/news/abc_news_live.png" group-title="NEWS",ABC NEWS LIVE
+http://011011011.com:8080/cuent930/4dM5WDNUUt/115067
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="CBS NEWS" tvg-logo="http://xtream-coders.com/x0/news/cbs_news.png" group-title="NEWS",CBS NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82080
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://xtream-coders.com/x0/news/cnbc.png" group-title="NEWS",CNBC
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25346
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC (HD)" tvg-logo="https://cdn-profiles.tunein.com/p999742/images/logog.png" group-title="NEWS",MSNBC (HD)
+http://011011011.com:8080/cuent930/4dM5WDNUUt/161332
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS" tvg-logo="https://cdn.one.accedo.tv/files/5a1f3405a0e845000d605f4d" group-title="NEWS",SKY NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160560
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="BBC WORLD NEWS" tvg-logo="http://xtream-coders.com/x0/news/bbc_world_news.png" group-title="NEWS",BBC WORLD NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25365
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="AccuWeather" tvg-logo="https://cerebral-overload.com/wp-content/uploads/2018/01/Accuweather-Logo.png" group-title="▼ COMING SOON ▼",AccuWeather
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123292
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV" tvg-logo="http://xtream-coders.com/x0/news/bloomberg.png" group-title="NEWS",BLOOMBERG TV
+http://011011011.com:8080/cuent930/4dM5WDNUUt/10920
+#EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar Big News" tvg-logo="https://cdn-images-1.medium.com/max/1200/1*O1SgeZ9lDvislZ545jJzIg.png" group-title="NEWS",Cheddar Big News
+http://011011011.com:8080/cuent930/4dM5WDNUUt/25204
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="http://xtream-coders.com/x0/news/hln.png" group-title="NEWS",HLN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/64982
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="C-SPAN" tvg-logo="http://xtream-coders.com/x0/news/c_span_1.png" group-title="NEWS",C-SPAN
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82613
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="C-SPAN 2" tvg-logo="http://xtream-coders.com/x0/news/c_span_2.png" group-title="NEWS",C-SPAN 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82614
+#EXTINF:-1 tvg-id="cspan3.us" tvg-name="C-SPAN 3" tvg-logo="http://xtream-coders.com/x0/news/c_span_3.png" group-title="NEWS",C-SPAN 3
+http://011011011.com:8080/cuent930/4dM5WDNUUt/82615
+#EXTINF:-1 tvg-id="Top Stories by Newsy" tvg-name="Newsy" tvg-logo="https://cdn.newsy.com/images/settings/orig/1584113020.png" group-title="NEWS",Newsy
+http://011011011.com:8080/cuent930/4dM5WDNUUt/163892
+#EXTINF:-1 tvg-id="news12brooklyn.us" tvg-name="NEWS 12: Brooklyn" tvg-logo="http://xtream-coders.com/x0/news/news12_bronx.png" group-title="NEWS",NEWS 12: Brooklyn
+http://011011011.com:8080/cuent930/4dM5WDNUUt/19843
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NEWS 12: Connecticut" tvg-logo="http://xtream-coders.com/x0/news/news12_connecticut.png" group-title="NEWS",NEWS 12: Connecticut
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123276
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NEWS 12: Hudson Valley" tvg-logo="http://xtream-coders.com/x0/news/news12_hudson_valley.png" group-title="NEWS",NEWS 12: Hudson Valley
+http://011011011.com:8080/cuent930/4dM5WDNUUt/19842
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NEWS 12: Long Island" tvg-logo="http://xtream-coders.com/x0/news/news12_long_island.png" group-title="NEWS",NEWS 12: Long Island
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123278
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NEWS 12: New Jersey" tvg-logo="http://xtream-coders.com/x0/news/news12_new_jersey.png" group-title="NEWS",NEWS 12: New Jersey
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123277
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NEWS 12: The Bronx" tvg-logo="http://xtream-coders.com/x0/news/news12_bronx.png" group-title="NEWS",NEWS 12: The Bronx
+http://011011011.com:8080/cuent930/4dM5WDNUUt/19841
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NEWS 12: Westchester" tvg-logo="http://xtream-coders.com/x0/news/news12_westchester.png" group-title="NEWS",NEWS 12: Westchester
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123279
+#EXTINF:-1 tvg-id="TRT World HD" tvg-name="TRT World NEWS" tvg-logo="https://www.asiasat.com/sites/default/files/trtworldai_0.png" group-title="▼ COMING SOON ▼",TRT World NEWS
+http://011011011.com:8080/cuent930/4dM5WDNUUt/14481
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="Weather Channel" tvg-logo="http://xtream-coders.com/x0/news/the_weather_channel.png" group-title="NEWS",Weather Channel
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123280
+#EXTINF:-1 tvg-id="weathernation.us" tvg-name="Weather Nation" tvg-logo="http://xtream-coders.com/x0/news/weather_nation.png" group-title="NEWS",Weather Nation
+http://011011011.com:8080/cuent930/4dM5WDNUUt/14480
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NEWS",France 24
+http://011011011.com:8080/cuent930/4dM5WDNUUt/123284
+#EXTINF:-1 tvg-id="" tvg-name="New York Times" tvg-logo="https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR.png" group-title="NEWS",New York Times
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160651
+#EXTINF:-1 tvg-id="" tvg-name="TIMES" tvg-logo="https://pbs.twimg.com/profile_images/1700796190/Picture_24.png" group-title="NEWS",TIMES
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160653
+#EXTINF:-1 tvg-id="" tvg-name="WASHINGTON POST" tvg-logo="https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2.jpg" group-title="NEWS",WASHINGTON POST
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160654
+#EXTINF:-1 tvg-id="" tvg-name="WSJ Live" tvg-logo="https://www.holehike.com/wp-content/uploads/2018/03/WSJ-Logo-square.jpg" group-title="NEWS",WSJ Live
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160655
+#EXTINF:-1 tvg-id="abc.eastern.us" tvg-name="ABC News Digital 01" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 01
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160636
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 02" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 02
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160637
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 03" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 03
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160638
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 04" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 04
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160639
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 05" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 05
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160640
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 06" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 06
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160641
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 07" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 07
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160642
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 08" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 08
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160643
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 09" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 09
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160644
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Digital 10" tvg-logo="https://disneyadsales.com/wp-content/uploads/ewpt_cache/415x415_95_1_c_FFFFFF_204b2a01783d811e8b3f0b1f8f589772.png" group-title="NEWS",ABC News Digital 10
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160645
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now Live Event" tvg-logo="https://media3.s-nbcnews.com/j/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p_a825965ad2cb0241e9122dd748c05482.social_share_1024x768_scale.jpg" group-title="NEWS",NBC News Now Live Event
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160646
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now Live Event 11" tvg-logo="https://media3.s-nbcnews.com/j/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p_a825965ad2cb0241e9122dd748c05482.social_share_1024x768_scale.jpg" group-title="NEWS",NBC News Now Live Event 11
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160647
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now Live Event 12" tvg-logo="https://media3.s-nbcnews.com/j/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p_a825965ad2cb0241e9122dd748c05482.social_share_1024x768_scale.jpg" group-title="NEWS",NBC News Now Live Event 12
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160648
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now Live Event 13" tvg-logo="https://media3.s-nbcnews.com/j/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p_a825965ad2cb0241e9122dd748c05482.social_share_1024x768_scale.jpg" group-title="NEWS",NBC News Now Live Event 13
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160649
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now Live Event 14" tvg-logo="https://media3.s-nbcnews.com/j/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p_a825965ad2cb0241e9122dd748c05482.social_share_1024x768_scale.jpg" group-title="NEWS",NBC News Now Live Event 14
+http://011011011.com:8080/cuent930/4dM5WDNUUt/160650
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy.jpg" group-title="NEWS",SKY NEWS EXTRA 1
+http://011011011.com:8080/cuent930/4dM5WDNUUt/165887
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS EXTRA 2" tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy.jpg" group-title="NEWS",SKY NEWS EXTRA 2
+http://011011011.com:8080/cuent930/4dM5WDNUUt/165888
+#EXTINF:-1 tvg-id="ASP" tvg-name="SKY NEWS EXTRA 3" tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy.jpg" group-title="NEWS",SKY NEWS EXTRA 3
+http://011011011.com:8080/cuent930/4dM5WDNUUt/165889
+#EXTINF:-1 tvg-id="" tvg-name="RT AMERICA" tvg-logo="https://yt3.ggpht.com/a/AATXAJz6VbJji-HmfyJTpg0M6soEU2g3cGog9osbIgzFxg=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",RT AMERICA
+http://011011011.com:8080/cuent930/4dM5WDNUUt/165890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sanford and Son" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg" group-title="● CLASSICS",24/7 Sanford and Son
+http://011011011.com:8080/cuent930/4dM5WDNUUt/166974
