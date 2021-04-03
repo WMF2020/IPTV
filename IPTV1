@@ -1,0 +1,339 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal De Película SD" tvg-name="CINE: DE PELICULA" tvg-logo="http://relaxplease.xyz:8080/images/2254342becceafbd04538e0a38696791.png" group-title="CINE ",CINE: DE PELICULA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/63
+#EXTINF:-1 tvg-id="FOX CLASSIC (Fox Classic SD)" tvg-name="CINE: STAR CLASSICS" tvg-logo="http://relaxplease.xyz:8080/images/5a50f3e30ddd90fde606b15898e69616.png" group-title="CINE ",CINE: STAR CLASSICS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/69
+#EXTINF:-1 tvg-id="" tvg-name="CINE: FXM" tvg-logo="http://relaxplease.xyz:8080/images/ef473bf4bbb8992a41ca4c3555c8a01e.png" group-title="CINE ",CINE: FXM
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/73
+#EXTINF:-1 tvg-id="Golden Edge SD" tvg-name="CINE: GOLDEN EDGE" tvg-logo="http://relaxplease.xyz:8080/images/c907e34d15777c7cb7858db86cb311fa.png" group-title="CINE ",CINE: GOLDEN EDGE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/77
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="CINE: STUDIO UNIVERSAL" tvg-logo="http://relaxplease.xyz:8080/images/845a385048e9888f4b1aebdcee337492.png" group-title="CINE ",CINE: STUDIO UNIVERSAL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/90
+#EXTINF:-1 tvg-id="" tvg-name="CINE: A3 SERIES INTERNATIONAL" tvg-logo="http://relaxplease.xyz:8080/images/649389e68577f3974856d3f127a595ed.jpg" group-title="CINE ",CINE: A3 SERIES INTERNATIONAL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/401
+#EXTINF:-1 tvg-id="FOX Action (Fox Action SD)" tvg-name="CINE: STAR ACTION SD" tvg-logo="http://relaxplease.xyz:8080/images/b12a78d4f493de068ec0dd71d3296404.png" group-title="CINE ",CINE: STAR ACTION SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/55864
+#EXTINF:-1 tvg-id="HBO 2 (HBO 2 SD)" tvg-name="CINE: HBO 2" tvg-logo="http://relaxplease.xyz:8080/images/b41e54c57cf92db9c81071a7fca25982.jpg" group-title="CINE ",CINE: HBO 2
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28540
+#EXTINF:-1 tvg-id="HBO POP (HBOPOP SD)" tvg-name="CINE: HBO POP" tvg-logo="http://relaxplease.xyz:8080/images/efdb39a4c7286afcecf0e8a7435fce6a.png" group-title="CINE ",CINE: HBO POP
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/11004
+#EXTINF:-1 tvg-id="Universal Channel East SD" tvg-name="CINE: UNIVERSAL SD" tvg-logo="http://relaxplease.xyz:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="CINE ",CINE: UNIVERSAL SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28469
+#EXTINF:-1 tvg-id="DHE SD" tvg-name="CINE:DHE" tvg-logo="http://relaxplease.xyz:8080/images/28d116b217702a0b367c5795a59068e5.png" group-title="CINE ",CINE:DHE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58336
+#EXTINF:-1 tvg-id="Space (Space HD)" tvg-name="CINE: SPACE " tvg-logo="http://relaxplease.xyz:8080/images/1545de4168def65781aa57a6f8abf10d.png" group-title="CINE ",CINE: SPACE 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28497
+#EXTINF:-1 tvg-id="SONY SD" tvg-name="CINE: SONY" tvg-logo="http://relaxplease.xyz:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE ",CINE: SONY
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28499
+#EXTINF:-1 tvg-id="PARAMOUNT Channel SD" tvg-name="CINE: PARAMOUNT" tvg-logo="http://relaxplease.xyz:8080/images/789952c7762fcf647e136dd05e064a1d.png" group-title="CINE ",CINE: PARAMOUNT
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28507
+#EXTINF:-1 tvg-id="AXN SD" tvg-name="CINE: AXN SD" tvg-logo="http://relaxplease.xyz:8080/images/afeda469188fbc964d949faa482b7b57.png" group-title="CINE ",CINE: AXN SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28558
+#EXTINF:-1 tvg-id="" tvg-name="CINE: WOW TV" tvg-logo="http://relaxplease.xyz:8080/images/9a8e69c04376f502a13fa98809805148.png" group-title="CINE ",CINE: WOW TV
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/31466
+#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="DEPORTES | WIN SPORT +" tvg-logo="http://relaxplease.xyz:8080/images/91cdc5cd764e11ca77f2b1a2cf9b6937.jpg" group-title="DEPORTES",DEPORTES | WIN SPORT +
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10932
+#EXTINF:-1 tvg-id="Win Sports HD)" tvg-name="DEPORTES | WIN SPORTS" tvg-logo="http://relaxplease.xyz:8080/images/bb9d256c3a510d2616a91689b534146d.jpg" group-title="DEPORTES",DEPORTES | WIN SPORTS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/879
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CDF FHD PREMIUM" tvg-logo="http://relaxplease.xyz:8080/images/f59197961d54b374339ccee0b1bc8ebf.jpg" group-title="DEPORTES",DEPORTES | CDF FHD PREMIUM
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/33912
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 1 MX" tvg-logo="http://relaxplease.xyz:8080/images/7ce03ba06ad7b86f2b4b30ee24a89a1c.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 1 MX
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/148
+#EXTINF:-1 tvg-id="Canal Fox Sports 2 (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 2 MX" tvg-logo="http://relaxplease.xyz:8080/images/7a847ef2440238f5cb927866f05d7369.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 2 MX
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/149
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="https://static-s.aa-cdn.net/img/ios/289679193/564e707c7f7c0a39dbc4cb381429fe34?v=1" group-title="DEPORTES",DEPORTES | TUDN
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/531
+#EXTINF:-1 tvg-id="" tvg-name="PY | Tigo Sports" tvg-logo="" group-title="PARAGUAY",PY | Tigo Sports
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68487
+#EXTINF:-1 tvg-id="Discovery H&H (Home Health HD)" tvg-name="HOME & HEALTH" tvg-logo="http://relaxplease.xyz:8080/images/5b1d7e18ead904c36b0477e20cb65a18.png" group-title="DOCUMENTALES ",HOME & HEALTH
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/535
+#EXTINF:-1 tvg-id="TLC (TLC)" tvg-name="TLC SD" tvg-logo="http://relaxplease.xyz:8080/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="DOCUMENTALES ",TLC SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/539
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO " tvg-logo="http://relaxplease.xyz:8080/images/e970314a268b25cd6e488a3d15fb4688.png" group-title="DOCUMENTALES ",DISCOVERY TURBO 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/540
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://relaxplease.xyz:8080/images/91e0bf69f50d6a2fbcdd9e2743391e6c.png" group-title="DOCUMENTALES ",DISCOVERY SCIENCE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/551
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="http://relaxplease.xyz:8080/images/59f32628505b0d6194e701565f803fc3.png" group-title="DOCUMENTALES ",DISCOVERY THEATER
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/552
+#EXTINF:-1 tvg-id="NAT GEO WILD (Nat Geo Wild)" tvg-name="NATGEO WILD HD" tvg-logo="http://relaxplease.xyz:8080/images/7d5e2d8a9f079219fc5fa6ea184d2327.png" group-title="DOCUMENTALES ",NATGEO WILD HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/558
+#EXTINF:-1 tvg-id="ID - Investigation Discovery (Invest.DiscoveryHD)" tvg-name="ID " tvg-logo="http://relaxplease.xyz:8080/images/c99033f970a968286a3387c079426629.png" group-title="DOCUMENTALES ",ID 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28532
+#EXTINF:-1 tvg-id="Animal Planet (Animal Planet HD)" tvg-name="ANIMAL PLANET" tvg-logo="http://relaxplease.xyz:8080/images/b6be930b4208ec24e69c762ce02bdf64.png" group-title="DOCUMENTALES ",ANIMAL PLANET
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28560
+#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-name="BOOMERANG" tvg-logo="http://relaxplease.xyz:8080/images/65079b006e85a7e798abecb99e47c154.png" group-title="INFANTILES",BOOMERANG
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/37
+#EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-name="CARTOON NETWORK" tvg-logo="http://relaxplease.xyz:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="INFANTILES",CARTOON NETWORK
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/39
+#EXTINF:-1 tvg-id="DISNEY CHANNEL SD" tvg-name="DISNEY CHANNEL" tvg-logo="http://relaxplease.xyz:8080/images/aef70f8f79be94785d0439acf5bad0ef.png" group-title="INFANTILES",DISNEY CHANNEL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/43
+#EXTINF:-1 tvg-id="Canal Disney Junior SD" tvg-name="DISNEY JUNIOR" tvg-logo="http://relaxplease.xyz:8080/images/66aa49445c81b1b766e022d1be8b51b1.png" group-title="INFANTILES",DISNEY JUNIOR
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/44
+#EXTINF:-1 tvg-id="DISNEY XD SD" tvg-name="DISNEY XD" tvg-logo="http://relaxplease.xyz:8080/images/5ff64bccdd09d2c6a66149191d20d6a0.png" group-title="INFANTILES",DISNEY XD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/45
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="http://relaxplease.xyz:8080/images/74243d8f2a60c072dee87450ee49425a.png" group-title="INFANTILES",NICKELODEON
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/48
+#EXTINF:-1 tvg-id="Canal Nick 2 HD" tvg-name="NICK 2" tvg-logo="http://relaxplease.xyz:8080/images/fa2975cbf7a46822bae9077c4b024080.png" group-title="INFANTILES",NICK 2
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/51
+#EXTINF:-1 tvg-id="NICK JR SD" tvg-name="NICK JR" tvg-logo="http://relaxplease.xyz:8080/images/53a027a0798e6d3f3f70b0307f6e38fc.png" group-title="INFANTILES",NICK JR
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28511
+#EXTINF:-1 tvg-id="" tvg-name="MEX SD: DISTRITO COMEDIA*" tvg-logo="http://relaxplease.xyz:8080/images/9704c78cc0e70224f1891d0c6534ce7a.png" group-title="MEXICO PREMIUM",MEX SD: DISTRITO COMEDIA*
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68158
+#EXTINF:-1 tvg-id="" tvg-name="MX-AZTECA 7 HD*" tvg-logo="http://relaxplease.xyz:8080/images/20d65ef7352601abba700073981c23eb.jpg" group-title="MEXICO PREMIUM",MX-AZTECA 7 HD*
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/342
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES  NBA " tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/11/5dd34672a4521.png" group-title="DEPORTES",DEPORTES  NBA 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/30622
+#EXTINF:-1 tvg-id="CANAL CARACOL SD" tvg-name="CARACOL" tvg-logo="http://relaxplease.xyz:8080/images/ccb2a562e7d9d44b04720df1ccec3446.jpg" group-title="COLOMBIA",CARACOL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/415
+#EXTINF:-1 tvg-id="" tvg-name="COL| NTN 24" tvg-logo="http://relaxplease.xyz:8080/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png" group-title="COLOMBIA",COL| NTN 24
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/873
+#EXTINF:-1 tvg-id="PASIONES SD" tvg-name="COL SD: PASIONES" tvg-logo="http://relaxplease.xyz:8080/images/db93db8e39c9a0e4c022d46db3ef2c2b.png" group-title="COLOMBIA",COL SD: PASIONES
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68094
+#EXTINF:-1 tvg-id="CableNoticias SD" tvg-name="COL SD: CABLE NOTICIAS" tvg-logo="http://relaxplease.xyz:8080/images/855923325fa23283dda6da090d10fdf2.png" group-title="COLOMBIA",COL SD: CABLE NOTICIAS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68103
+#EXTINF:-1 tvg-id="CALI TV HD" tvg-name="COL HD: CALI TV" tvg-logo="http://relaxplease.xyz:8080/images/d517a05ab418280030659fc2e5aee524.png" group-title="COLOMBIA",COL HD: CALI TV
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68118
+#EXTINF:-1 tvg-id="" tvg-name="CHILE: MEGA" tvg-logo="" group-title="CHILE",CHILE: MEGA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/31474
+#EXTINF:-1 tvg-id="" tvg-name="VTV URUGUAY DEPORTE" tvg-logo="http://relaxplease.xyz:8080/images/75429fff825371c2baaea8ac982f1553.png" group-title="DEPORTES",VTV URUGUAY DEPORTE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/29772
+#EXTINF:-1 tvg-id="" tvg-name="EC:EL CANAL DE FUTBOL HD" tvg-logo="http://relaxplease.xyz:8080/images/474067e1dae978bd15bb6ad4deba2474.png" group-title="ECUADOR",EC:EL CANAL DE FUTBOL HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68172
+#EXTINF:-1 tvg-id="" tvg-name="ECU: CANAL UNO" tvg-logo="" group-title="ECUADOR",ECU: CANAL UNO
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10
+#EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="ECUADOR",ECU: OROMAR TV
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/13
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="https://pbs.twimg.com/profile_images/986698932926468096/Dck2pa4b_400x400.jpg" group-title="ECUADOR",TELEAMAZONAS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/4
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) PEPPA PIG" tvg-logo="https://www.peppapig.com/wp-content/uploads/sites/3/2019/03/paintbox_app_icon.png" group-title="24/7",(24/7) PEPPA PIG
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKÉMON" tvg-logo="http://pngriver.com/wp-content/uploads/2018/03/Download-Pokemon-PNG-Pic-For-Designing-Purpose.png" group-title="24/7",24/7 POKÉMON
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10885
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) PINKY Y CEREBRO" tvg-logo="https://i.ya-webdesign.com/images/cerebro-vector-3.png" group-title="24/7",(24/7) PINKY Y CEREBRO
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24/7",24/7 BOB ESPONJA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10887
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL SUPER" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="24/7",(24/7) DRAGON BALL SUPER
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10895
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL" tvg-logo="https://pngriver.com/wp-content/uploads/2018/04/Download-Dragon-Ball-Logo-PNG-File.png" group-title="24/7",(24/7) DRAGON BALL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10901
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) DRAGON BALL GT" tvg-logo="https://fanart.tv/fanart/tv/79275/hdclearart/dragon-ball-gt-56868eb879e3a.png" group-title="24/7",(24/7) DRAGON BALL GT
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10903
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) CHAPULIN COLORADO" tvg-logo="https://files.gamebanana.com/img/ico/sprays/el_chapulin_colorado.png" group-title="24/7",(24/7) CHAPULIN COLORADO
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10904
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) FUTURAMA" tvg-logo="http://pngimg.com/uploads/futurama/futurama_PNG4.png" group-title="24/7",(24/7) FUTURAMA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10905
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) ALF" tvg-logo="http://relaxplease.xyz:8080/images/ef28f840b5cd96fc4aa712e2b65aaf18.png" group-title="24/7",(24/7) ALF
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28622
+#EXTINF:-1 tvg-id="" tvg-name="(24/7) CANTINFLAS " tvg-logo="http://relaxplease.xyz:8080/images/d09fbad4b58e41f28ec612ad3838b409.jpeg" group-title="24/7",(24/7) CANTINFLAS 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/30180
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CORRE CAMINOS" tvg-logo="http://relaxplease.xyz:8080/images/aea92ee16cf61440555cdaf719408a8f.jpg" group-title="24/7",24/7 EL CORRE CAMINOS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58686
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOCOS ADAMS" tvg-logo="https://cdn.colombia.com/sdi/2019/08/08/los-locos-addams-lanzan-primer-trailer-oficial-de-la-pelicula-animada-759478.jpg" group-title="24/7",24/7 LOCOS ADAMS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58689
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSOSN TEMP1-5" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSOSN TEMP1-5
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60091
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 6-11" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSON TEMP 6-11
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60092
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 12-17" tvg-logo="https://i.pinimg.com/originals/b1/6b/84/b16b8448d63014810c2aefbc93b11e52.png" group-title="24/7",LOS SIMPSONS 12-17
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60093
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 18-21" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS 18-21
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60094
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS TEM 22-26" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS TEM 22-26
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60095
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 27-30" tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7",LOS SIMPSONS 27-30
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="http://relaxplease.xyz:8080/images/080226b6ffaf65afeba5f2242b87997c.png" group-title="24/7",24/7 EL CHAVO DEL 8
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68425
+#EXTINF:-1 tvg-id="" tvg-name="WAPA 2 PR" tvg-logo="http://relaxplease.xyz:8080/images/a5e47d3a616f50ce90b868f1073e348c.jpg" group-title="PUERTO RICO",WAPA 2 PR
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10967
+#EXTINF:-1 tvg-id="AMC East SD" tvg-name="CINE: AMC SD" tvg-logo="http://relaxplease.xyz:8080/images/f870b497bd49a422c3b0980458f78e00.jpg" group-title="CINE ",CINE: AMC SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/336
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="CINE: A&E" tvg-logo="http://relaxplease.xyz:8080/images/cae225005c906bd2add646a81468a376.png" group-title="CINE ",CINE: A&E
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/601
+#EXTINF:-1 tvg-id="HBO (HBO SD)" tvg-name="CINE: HBO 1" tvg-logo="http://relaxplease.xyz:8080/images/95d7d815dcdffd64569505d6b85e24a7.png" group-title="CINE ",CINE: HBO 1
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28543
+#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme SD)" tvg-name="CINE: HBO XTREAM HD" tvg-logo="http://relaxplease.xyz:8080/images/00de4d9d2b4a739210917e2511d10a31.png" group-title="CINE ",CINE: HBO XTREAM HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28523
+#EXTINF:-1 tvg-id="HBO Family (HBO Family HD)" tvg-name="CINE: HBO FAMILY" tvg-logo="http://relaxplease.xyz:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE ",CINE: HBO FAMILY
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/35162
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS 1" tvg-logo="http://relaxplease.xyz:8080/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="DEPORTES",DEPORTES | DIRECTV SPORTS 1
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/132
+#EXTINF:-1 tvg-id="Canal Fox Sports 3 (Cono Norte)" tvg-name="DEPORTES | FOX SPORTS 3 MX" tvg-logo="http://relaxplease.xyz:8080/images/b716225181751ddebbd638fe891759ed.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 3 MX
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/150
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS 2" tvg-logo="http://relaxplease.xyz:8080/images/040596a3205175654d40d98b90831cb7.png" group-title="DEPORTES",DEPORTES | DIRECTV SPORTS 2
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/165
+#EXTINF:-1 tvg-id="Movistar Fórmula 1" tvg-name="SPORTS SD: MOVISTAR FORMULA 1" tvg-logo="http://relaxplease.xyz:8080/images/d55669822f1a8cf72ec1911e462a54eb.png" group-title="DEPORTES",SPORTS SD: MOVISTAR FORMULA 1
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/67876
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: UFC " tvg-logo="http://relaxplease.xyz:8080/images/99b9afd688f63b1c65cbb799a56da96e.jpg" group-title="DEPORTES",DEPORTES: UFC 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68429
+#EXTINF:-1 tvg-id="ESPN Sur Arg" tvg-name="DEPORTES | ESPN 2 SUR" tvg-logo="http://relaxplease.xyz:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",DEPORTES | ESPN 2 SUR
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/570
+#EXTINF:-1 tvg-id="ESPN Sur Arg" tvg-name="DEPORTES | ESPN 1 SUR " tvg-logo="http://relaxplease.xyz:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",DEPORTES | ESPN 1 SUR 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/569
+#EXTINF:-1 tvg-id="HBO SIGNATURE (HBO Signature SD)" tvg-name="CINE: HBO SIGNATURE" tvg-logo="http://relaxplease.xyz:8080/images/6e9fc83f6ec4663a14e97c5264df13df.jpg" group-title="CINE ",CINE: HBO SIGNATURE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/635
+#EXTINF:-1 tvg-id="HBO PLUS(HBO Plus SD)" tvg-name="CINE: HBO PLUS" tvg-logo="http://relaxplease.xyz:8080/images/b186270f01ff1f6dbde9a9565b471928.png" group-title="CINE ",CINE: HBO PLUS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/634
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ZOMBIES" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7: CINE ZOMBIES
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72587
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE TERROR" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7: CINE TERROR
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72585
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE ROMANCE" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7: CINE ROMANCE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72583
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE FANTASIA SAGAS" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7: CINE FANTASIA SAGAS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72582
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CINE FANTASIA 2" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7: CINE FANTASIA 2
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72580
+#EXTINF:-1 tvg-id="" tvg-name="24/7 :CINE ACCION" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7 :CINE ACCION
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72575
+#EXTINF:-1 tvg-id="" tvg-name="24/7 :CINE INFANTIL" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7 :CINE INFANTIL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72572
+#EXTINF:-1 tvg-id="" tvg-name="24/7 :CINE SAGAS INFANTIL" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7 :CINE SAGAS INFANTIL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72571
+#EXTINF:-1 tvg-id="Canal GolTV Latinoamérica" tvg-name="DEPORTES: GOL TV EC " tvg-logo="http://relaxplease.xyz:8080/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="DEPORTES",DEPORTES: GOL TV EC 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/65003
+#EXTINF:-1 tvg-id="TNT SERIES SD" tvg-name="CINE: TNT SERIES" tvg-logo="http://relaxplease.xyz:8080/images/97df19b7dd8f5510a493a17b6caa6d86.png" group-title="CINE ",CINE: TNT SERIES
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/31490
+#EXTINF:-1 tvg-id="" tvg-name="24/7 :CINE ACCION SAGAS" tvg-logo="http://relaxplease.xyz:8080/images/7c7c704d16a864767fedcd9c7116957e.png" group-title="24/7 VIP",24/7 :CINE ACCION SAGAS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72570
+#EXTINF:-1 tvg-id="Canal TyC Sports" tvg-name="DEPORTES | TyC SPORTS Inter" tvg-logo="http://relaxplease.xyz:8080/images/dc07a1e3a1fa7efe899b705347fac983.jpg" group-title="DEPORTES",DEPORTES | TyC SPORTS Inter
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/130
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports CR" tvg-logo="http://relaxplease.xyz:8080/images/82be0ceb1e51847a4353448e53ab4841.png" group-title="COSTA RICA",CR | Tigo Sports CR
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/10940
+#EXTINF:-1 tvg-id="" tvg-name="FUTV OPCION 2" tvg-logo="http://relaxplease.xyz:8080/images/954dedd4c20f1a0de4c5bdd709de80db.jpg" group-title="COSTA RICA",FUTV OPCION 2
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/69167
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS MLB" tvg-logo="https://styles.redditmedia.com/t5_q9htu/styles/communityIcon_vq9wn4xzk0661.png?width=256&s=538912edcb01622977152843cced111f39f57a75" group-title="DEPORTES",ESPN PLUS MLB
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72742
+#EXTINF:-1 tvg-id="Canal TyC Sports" tvg-name="DEPORTES | TyC SPORTS HD" tvg-logo="http://relaxplease.xyz:8080/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="DEPORTES",DEPORTES | TyC SPORTS HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/137
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-name="DEPORTES |  MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://relaxplease.xyz:8080/images/b9288d51b50ece7125fb53a718743cf4.png" group-title="DEPORTES",DEPORTES |  MOVISTAR LIGA DE CAMPEONES
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/67880
+#EXTINF:-1 tvg-id="ESPN Sur Arg" tvg-name="DEPORTES |  LA LIGA TV BAR HD" tvg-logo="http://relaxplease.xyz:8080/images/49aa6e67c0ef943545be4817d847db2c.png" group-title="DEPORTES",DEPORTES |  LA LIGA TV BAR HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/35169
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="http://relaxplease.xyz:8080/images/0f96f0e4ebbd9c422104036ddb7cedd7.png" group-title="DOCUMENTALES ",EL GOURMET
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72815
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="E! Entertairment HD" tvg-logo="http://relaxplease.xyz:8080/images/3a3ea00cfc35332cedf6e5e9a32e94da.png" group-title="ENTRETENIMIENTO",E! Entertairment HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58340
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="http://relaxplease.xyz:8080/images/f257ee70f0da16e496e19a0bdde7e752.png" group-title="ENTRETENIMIENTO",MAS CHIC
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72816
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://relaxplease.xyz:8080/images/5ecda69de560d87396f0ba688675083a.png" group-title="ENTRETENIMIENTO",LIFETIME
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/328
+#EXTINF:-1 tvg-id="¡HOLA! TV SD (HOLATV)" tvg-name="HOLA! TV" tvg-logo="http://relaxplease.xyz:8080/images/1d571a2de32a6985d23617ddc847e8cd.png" group-title="ENTRETENIMIENTO",HOLA! TV
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58601
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="http://relaxplease.xyz:8080/images/36b21946ebff28403b26f8bb06d7f2f8.png" group-title="ENTRETENIMIENTO",GLITZ
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72817
+#EXTINF:-1 tvg-id="Food Network" tvg-name="ENT | FOOD NETWORK (ESPAÑOL)" tvg-logo="http://relaxplease.xyz:8080/images/cc9284597026dcc021735c0970ca0c93.png" group-title="DOCUMENTALES ",ENT | FOOD NETWORK (ESPAÑOL)
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72687
+#EXTINF:-1 tvg-id="Nat Geo Kids SD" tvg-name="BITME" tvg-logo="http://relaxplease.xyz:8080/images/625d12d6a2dc707359306eebe02e5533.png" group-title="INFANTILES",BITME
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72820
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Azteca Corazon" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Azteca Corazon
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58519
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58613
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="Canal_de_las_estrellas" tvg-logo="" group-title="ENTRETENIMIENTO",Canal_de_las_estrellas
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58255
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD" tvg-logo="" group-title="ENTRETENIMIENTO",Canal Claro HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58333
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://relaxplease.xyz:8080/images/77f0a966b8aef9d91edc46618a67cf8e.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/338
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Telenovelas*" tvg-logo="" group-title="MEXICO PREMIUM",MEX| Telenovelas*
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58528
+#EXTINF:-1 tvg-id="ESPN 2 México" tvg-name="DEPORTES | ESPN 2 Mx" tvg-logo="http://relaxplease.xyz:8080/images/83c5b5a91678d6d458491421c4e93896.png" group-title="DEPORTES",DEPORTES | ESPN 2 Mx
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/142
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUAVISA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72839
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL PERÚ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxx97WYgTJmEGVKRCjb0c9Au9B_FW7fIPaEQ&usqp=CAU" group-title="DEPORTES",DEPORTES | GOL PERÚ
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/164
+#EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name="HISTORY " tvg-logo="http://relaxplease.xyz:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="DOCUMENTALES ",HISTORY 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/28535
+#EXTINF:-1 tvg-id="" tvg-name="Los Pica Piedras" tvg-logo="http://relaxplease.xyz:8080/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7",Los Pica Piedras
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72850
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="http://relaxplease.xyz:8080/images/ebd69793a9dcd9fde617c8d10e835c79.png" group-title="24/7",24/7  CAILLOU
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72851
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72853
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="http://relaxplease.xyz:8080/images/8c7dd922ad47494fc02c388e12c00eac.png" group-title="24/7",24/7  DINOSAURIOS 1991
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72854
+#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="http://relaxplease.xyz:8080/images/2f5b6147106b070e0406e56efd1d067e.png" group-title="24/7",24/7  LOS SIMPSON
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72855
+#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="http://relaxplease.xyz:8080/images/a49e7b2a655d0e2e7c6c980de37691e1.png" group-title="24/7",24/7  SOUTH PARK
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72856
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="http://relaxplease.xyz:8080/images/77f9efb17d96fb6ed8a3d831ad313a14.png" group-title="24/7",24/7  THE WALKING DEAD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72857
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="http://relaxplease.xyz:8080/images/fb97d56a09285f420bad90588e431267.png" group-title="24/7",24/7 Mazinger Z
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="http://relaxplease.xyz:8080/images/e1003dfe8aec513441820dc525a93a23.png" group-title="24/7",24/7 XMEN ANIME
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="http://relaxplease.xyz:8080/images/4f86a29865dd29cd730a602ad35f46fa.png" group-title="24/7",24/7 THUNDERCAST
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="http://relaxplease.xyz:8080/images/6b52a162a9c6f6dc3ba1d95e197fca7a.png" group-title="24/7",24/7 SUPER CAMPEONES
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/05/Stranger-Things-Logo.png" group-title="24/7",24/7 STRANGER THINGS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72902
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="http://relaxplease.xyz:8080/images/06ec361ec6044e62c15ca8be56ee9f02.png" group-title="24/7",24/7 SPIDER-MAN
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="http://relaxplease.xyz:8080/images/7f0d3e708da0dd2a224bce0a5792068e.png" group-title="24/7",24/7 SMALLVILLE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="http://a.zutv.online:8080/images/baf5aa05cd8f6710340b6ebe43b14400.png" group-title="24/7",24/7 SHERA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 2" tvg-logo="http://relaxplease.xyz:8080/images/c6f42543302aa9b65e714ba2f3f18880.png" group-title="24/7",24/7 Shark Tank México TEP 2
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 1" tvg-logo="http://relaxplease.xyz:8080/images/b12f6e874ff886ffc83cbee5436f6617.png" group-title="24/7",24/7 Shark Tank México TEP 1
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72897
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="https://w7.pngwing.com/pngs/641/622/png-transparent-sailor-moon-musicals-chibiusa-tuxedo-mask-sailor-mercury-fair-work-text-logo-sailor-mercury.png" group-title="24/7",24/7 SAILOR MOON
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72896
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="http://relaxplease.xyz:8080/images/3e24e9e5fd8766664d12dfec17c235f6.png" group-title="24/7",24/7 ROBOTECH
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="https://w7.pngwing.com/pngs/1024/69/png-transparent-power-rangers-rita-repulsa-super-sentai-logo-others-text-television-show-ranger.png" group-title="24/7",24/7 POWER RANGERS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="http://relaxplease.xyz:8080/images/2376d507f5ed37d272c68b0e80c5b844.png" group-title="24/7",24/7 Pokémon
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="http://relaxplease.xyz:8080/images/0d3ef37d89c2ed372d8756a6f199b25c.png" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" group-title="24/7",24/7 Peliculas de terror
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Palazuelos Mi Rey |" tvg-logo="http://relaxplease.xyz:8080/images/311d51f5d634a6bddfd4a3f7a18ec9da.png" group-title="24/7",24/7 Palazuelos Mi Rey |
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="http://relaxplease.xyz:8080/images/8d24ed58356168683a8ff99e629aa684.png" group-title="24/7",24/7 Naruto
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72889
+#EXTINF:-1 tvg-id="CINECANAL OESTE SD" tvg-name="CINE: CINECANAL HD" tvg-logo="http://relaxplease.xyz:8080/images/e9a5213a49518ff2b527f87ca1168f42.png" group-title="CINE ",CINE: CINECANAL HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/60
+#EXTINF:-1 tvg-id="FOX CINEMA (Fox Cinema SD)" tvg-name="CINE: FOX CINEMA" tvg-logo="http://relaxplease.xyz:8080/images/b5ecbbe0ec5970ec9eb2ad084fa3121b.png" group-title="CINE ",CINE: FOX CINEMA
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="CINE: TCM SD" tvg-logo="http://relaxplease.xyz:8080/images/4460eb39067e18df629ecf1f6d0ccdc2.jpg" group-title="CINE ",CINE: TCM SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/96
+#EXTINF:-1 tvg-id="TNT SD" tvg-name="CINE: TNT" tvg-logo="http://relaxplease.xyz:8080/images/35fae07191b44f24c95594746e261d8b.jpg" group-title="CINE ",CINE: TNT
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/97
+#EXTINF:-1 tvg-id="FOX Comedy (Fox Comedy HD)" tvg-name="CINE: FOX COMEDY" tvg-logo="http://relaxplease.xyz:8080/images/70a7ffaabaee5fd9a89930ffa9127040.png" group-title="CINE ",CINE: FOX COMEDY
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/29413
+#EXTINF:-1 tvg-id="Cinemax Este SD" tvg-name="CINE: CINEMAX" tvg-logo="http://relaxplease.xyz:8080/images/b6dd700080185b8e39ce62a85ea0e11f.png" group-title="CINE ",CINE: CINEMAX
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/32014
+#EXTINF:-1 tvg-id="Canal SyFy SD" tvg-name="CINE: SyFy SD" tvg-logo="http://relaxplease.xyz:8080/images/8e35d1e8a232c89ddbf71127ff4ed443.png" group-title="CINE ",CINE: SyFy SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/35136
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD (Warner HD)" tvg-name="CINE: WARNER HD" tvg-logo="http://relaxplease.xyz:8080/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="CINE ",CINE: WARNER HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/35159
+#EXTINF:-1 tvg-id="FOX Family (Fox Family HD)" tvg-name="CINE: FOX FAMILY" tvg-logo="http://relaxplease.xyz:8080/images/26b4209d7303ea65e000f1f69b159bbc.png" group-title="CINE ",CINE: FOX FAMILY
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58343
+#EXTINF:-1 tvg-id="Canal Fox (Fox Channel HD)" tvg-name="CINE: STAR CHANNEL HD" tvg-logo="http://relaxplease.xyz:8080/images/18fab524dcf342837d7dc0eb9d075c05.png" group-title="CINE ",CINE: STAR CHANNEL HD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58344
+#EXTINF:-1 tvg-id="FOX Movies (Fox Movies HD)" tvg-name="CINE: STAR MOVIE" tvg-logo="http://relaxplease.xyz:8080/images/c9e4fdb46421710f5fca41ddef0873a0.png" group-title="CINE ",CINE: STAR MOVIE
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58345
+#EXTINF:-1 tvg-id="Canal Fox Premium Series (SD)" tvg-name="CINE: STAR SERIES" tvg-logo="http://relaxplease.xyz:8080/images/ead33f0ef588aab7d7181980788d52df.png" group-title="CINE ",CINE: STAR SERIES
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58346
+#EXTINF:-1 tvg-id="Canal Nicktoons SD" tvg-name="NICKTOONS" tvg-logo="http://relaxplease.xyz:8080/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="INFANTILES",NICKTOONS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/53
+#EXTINF:-1 tvg-id="TOONCAST SD" tvg-name="TOONCAST" tvg-logo="http://relaxplease.xyz:8080/images/51194287dea464e6be6d483240e1dba0.png" group-title="INFANTILES",TOONCAST
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/55
+#EXTINF:-1 tvg-id="NICK HD" tvg-name="Nick " tvg-logo="http://relaxplease.xyz:8080/images/f64609172efea86a5a6fbae12ab86d33.png" group-title="INFANTILES",Nick 
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58356
+#EXTINF:-1 tvg-id="Canal Film & Arts" tvg-name="FILM & ARTS" tvg-logo="http://relaxplease.xyz:8080/images/96930e61e073920d9327ad9b3ab58071.png" group-title="DOCUMENTALES ",FILM & ARTS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/58349
+#EXTINF:-1 tvg-id="Canal Discovery Civilization (Latinoamérica)" tvg-name="CIVILIZATION SD" tvg-logo="http://relaxplease.xyz:8080/images/9f6ccd0dcb1618e2b265afec4cac0f22.png" group-title="DOCUMENTALES ",CIVILIZATION SD
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/66191
+#EXTINF:-1 tvg-id="" tvg-name="EC: ECUAVISA INTERNACIONAL" tvg-logo="http://relaxplease.xyz:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR",EC: ECUAVISA INTERNACIONAL
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/68061
+#EXTINF:-1 tvg-id="" tvg-name="TELE AMAZONAS" tvg-logo="http://relaxplease.xyz:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="ECUADOR",TELE AMAZONAS
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/73018
+#EXTINF:-1 tvg-id="" tvg-name="VER TV" tvg-logo="" group-title="VER TV GRATIS",VER TV
+http://relaxplease.xyz:8080/canalesdeCODETV/si.no.es.codetv.reporta.y.gana.una.LISTA.M3U/72752
