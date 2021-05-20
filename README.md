@@ -1,2 +1,0 @@
-# IPTV
-LISTA_PROMO
