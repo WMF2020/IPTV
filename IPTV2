@@ -1,451 +1,819 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS SAN DIEGO | HD" tvg-logo="" group-title="LIGAS",US: FOX SPORTS SAN DIEGO | HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/81
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS SPORTSTIME OHIO | HD*" tvg-logo="" group-title="LIGAS",US: FOX SPORTS SPORTSTIME OHIO | HD*
-http://alv.encohd.co:39591/NxTAD2021/LX321/82
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports (South East) HD" tvg-logo="" group-title="LIGAS",US: Fox Sports (South East) HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/83
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports (South West) HD" tvg-logo="" group-title="LIGAS",US: Fox Sports (South West) HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/84
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS MIDWEST | HD" tvg-logo="" group-title="LIGAS",US: FOX SPORTS MIDWEST | HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/85
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC New York" tvg-logo="" group-title="LIGAS",US: ABC New York
-http://alv.encohd.co:39591/NxTAD2021/LX321/1
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS New York" tvg-logo="" group-title="LIGAS",US: CBS New York
-http://alv.encohd.co:39591/NxTAD2021/LX321/2
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC New York" tvg-logo="" group-title="LIGAS",US: NBC New York
-http://alv.encohd.co:39591/NxTAD2021/LX321/3
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX New York" tvg-logo="" group-title="LIGAS",US: FOX New York
-http://alv.encohd.co:39591/NxTAD2021/LX321/4
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Los Angeles" tvg-logo="" group-title="LIGAS",US: ABC Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/5
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Los Angeles" tvg-logo="" group-title="LIGAS",US: CBS Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/6
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Los Angeles" tvg-logo="" group-title="LIGAS",US: NBC Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/7
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Los Angeles" tvg-logo="" group-title="LIGAS",US: FOX Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/8
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Denver" tvg-logo="" group-title="LIGAS",US: ABC Denver
-http://alv.encohd.co:39591/NxTAD2021/LX321/9
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Denver" tvg-logo="" group-title="LIGAS",US: CBS Denver
-http://alv.encohd.co:39591/NxTAD2021/LX321/10
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Denver" tvg-logo="" group-title="LIGAS",US: NBC Denver
-http://alv.encohd.co:39591/NxTAD2021/LX321/11
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Denver" tvg-logo="" group-title="LIGAS",US: FOX Denver
-http://alv.encohd.co:39591/NxTAD2021/LX321/12
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Chicago" tvg-logo="" group-title="LIGAS",US: ABC Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/13
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Chicago" tvg-logo="" group-title="LIGAS",US: CBS Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/14
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Chicago" tvg-logo="" group-title="LIGAS",US: NBC Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/15
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Chicago" tvg-logo="" group-title="LIGAS",US: FOX Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/16
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Miami" tvg-logo="" group-title="LIGAS",US: ABC Miami
-http://alv.encohd.co:39591/NxTAD2021/LX321/17
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Miami" tvg-logo="" group-title="LIGAS",US: CBS Miami
-http://alv.encohd.co:39591/NxTAD2021/LX321/18
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Miami" tvg-logo="" group-title="LIGAS",US: NBC Miami
-http://alv.encohd.co:39591/NxTAD2021/LX321/19
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Miami" tvg-logo="" group-title="LIGAS",US: FOX Miami
-http://alv.encohd.co:39591/NxTAD2021/LX321/20
-#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA PR" tvg-logo="" group-title="LIGAS",PR | WAPA PR
-http://alv.encohd.co:39591/NxTAD2021/LX321/21
-#EXTINF:-1 tvg-id="" tvg-name="WAPA2 PR" tvg-logo="" group-title="LIGAS",WAPA2 PR
-http://alv.encohd.co:39591/NxTAD2021/LX321/22
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PR" tvg-logo="" group-title="LIGAS",TELEMUNDO PR
-http://alv.encohd.co:39591/NxTAD2021/LX321/23
-#EXTINF:-1 tvg-id="" tvg-name="PUNTO2 PR" tvg-logo="" group-title="LIGAS",PUNTO2 PR
-http://alv.encohd.co:39591/NxTAD2021/LX321/24
-#EXTINF:-1 tvg-id="" tvg-name="MEGATV PR" tvg-logo="" group-title="LIGAS",MEGATV PR
-http://alv.encohd.co:39591/NxTAD2021/LX321/25
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PR" tvg-logo="" group-title="LIGAS",UNIVISION PR
-http://alv.encohd.co:39591/NxTAD2021/LX321/26
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="" group-title="LIGAS",GOLTV
-http://alv.encohd.co:39591/NxTAD2021/LX321/27
-#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network" tvg-logo="" group-title="LIGAS",US: NFL Network
-http://alv.encohd.co:39591/NxTAD2021/LX321/28
-#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK" tvg-logo="" group-title="LIGAS",NHL NETWORK
-http://alv.encohd.co:39591/NxTAD2021/LX321/29
-#EXTINF:-1 tvg-id="" tvg-name="FISHING NETWORK" tvg-logo="" group-title="LIGAS",FISHING NETWORK
-http://alv.encohd.co:39591/NxTAD2021/LX321/30
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LaLiga" tvg-logo="" group-title="LIGAS",MOVISTAR LaLiga
-http://alv.encohd.co:39591/NxTAD2021/LX321/31
-#EXTINF:-1 tvg-id="" tvg-name="(UK) SKY SPORTS PERMIERE LEAGUE" tvg-logo="" group-title="LIGAS",(UK) SKY SPORTS PERMIERE LEAGUE
-http://alv.encohd.co:39591/NxTAD2021/LX321/32
-#EXTINF:-1 tvg-id="" tvg-name="(UK) SKY SPORTS F1" tvg-logo="" group-title="LIGAS",(UK) SKY SPORTS F1
-http://alv.encohd.co:39591/NxTAD2021/LX321/33
-#EXTINF:-1 tvg-id="" tvg-name="(UK) SKY SPORTS MAIN EVENT" tvg-logo="" group-title="LIGAS",(UK) SKY SPORTS MAIN EVENT
-http://alv.encohd.co:39591/NxTAD2021/LX321/34
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LATINO" tvg-logo="" group-title="LIGAS",SKY SPORTS LATINO
-http://alv.encohd.co:39591/NxTAD2021/LX321/35
-#EXTINF:-1 tvg-id="" tvg-name="BOX NATION" tvg-logo="" group-title="LIGAS",BOX NATION
-http://alv.encohd.co:39591/NxTAD2021/LX321/36
-#EXTINF:-1 tvg-id="" tvg-name="TLENOVELAS UNIVISION" tvg-logo="" group-title="LIGAS",TLENOVELAS UNIVISION
-http://alv.encohd.co:39591/NxTAD2021/LX321/37
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON" tvg-logo="" group-title="LIGAS",AZTECA CORAZON
-http://alv.encohd.co:39591/NxTAD2021/LX321/38
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| El Chavo del 8" tvg-logo="" group-title="LIGAS",24/7|| El Chavo del 8
-http://alv.encohd.co:39591/NxTAD2021/LX321/39
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! La casa de Mickey Mouse" tvg-logo="" group-title="LIGAS",24/7 || Play! La casa de Mickey Mouse
-http://alv.encohd.co:39591/NxTAD2021/LX321/40
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Navidad" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Navidad
-http://alv.encohd.co:39591/NxTAD2021/LX321/41
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Horror" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Horror
-http://alv.encohd.co:39591/NxTAD2021/LX321/42
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Halloween" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Halloween
-http://alv.encohd.co:39591/NxTAD2021/LX321/43
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Actividad paranormal" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Actividad paranormal
-http://alv.encohd.co:39591/NxTAD2021/LX321/44
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Happy Madison" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Happy Madison
-http://alv.encohd.co:39591/NxTAD2021/LX321/45
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Ciencia Ficcion" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Ciencia Ficcion
-http://alv.encohd.co:39591/NxTAD2021/LX321/46
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Accion Classics" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Accion Classics
-http://alv.encohd.co:39591/NxTAD2021/LX321/47
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Lego Movies" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Lego Movies
-http://alv.encohd.co:39591/NxTAD2021/LX321/48
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Disney Live Action" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Disney Live Action
-http://alv.encohd.co:39591/NxTAD2021/LX321/49
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Disney Pixar #1" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Disney Pixar #1
-http://alv.encohd.co:39591/NxTAD2021/LX321/50
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Disney Pixar #2" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Disney Pixar #2
-http://alv.encohd.co:39591/NxTAD2021/LX321/51
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Dreamworks #1" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Dreamworks #1
-http://alv.encohd.co:39591/NxTAD2021/LX321/52
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema DC Universe" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema DC Universe
-http://alv.encohd.co:39591/NxTAD2021/LX321/53
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Marvel" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Marvel
-http://alv.encohd.co:39591/NxTAD2021/LX321/54
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema Artes Marciales" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema Artes Marciales
-http://alv.encohd.co:39591/NxTAD2021/LX321/55
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Play! Cinema La Risa en Vacaciones" tvg-logo="" group-title="LIGAS",24/7 || Play! Cinema La Risa en Vacaciones
-http://alv.encohd.co:39591/NxTAD2021/LX321/56
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Vecinos" tvg-logo="" group-title="LIGAS",24/7 || Vecinos
-http://alv.encohd.co:39591/NxTAD2021/LX321/57
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || 40 y 20" tvg-logo="" group-title="LIGAS",24/7 || 40 y 20
-http://alv.encohd.co:39591/NxTAD2021/LX321/58
-#EXTINF:-1 tvg-id="" tvg-name="24/7 || Nosotros Los Guapos" tvg-logo="" group-title="LIGAS",24/7 || Nosotros Los Guapos
-http://alv.encohd.co:39591/NxTAD2021/LX321/59
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| Peppa Pig" tvg-logo="" group-title="LIGAS",24/7|| Peppa Pig
-http://alv.encohd.co:39591/NxTAD2021/LX321/60
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| Halcones Galacticos" tvg-logo="" group-title="LIGAS",24/7|| Halcones Galacticos
-http://alv.encohd.co:39591/NxTAD2021/LX321/61
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| DRAGON BALL" tvg-logo="" group-title="LIGAS",24/7|| DRAGON BALL
-http://alv.encohd.co:39591/NxTAD2021/LX321/62
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| Dragon Ball GT" tvg-logo="" group-title="LIGAS",24/7|| Dragon Ball GT
-http://alv.encohd.co:39591/NxTAD2021/LX321/63
-#EXTINF:-1 tvg-id="" tvg-name="MX || Telehit Plus HD" tvg-logo="" group-title="LIGAS",MX || Telehit Plus HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/64
-#EXTINF:-1 tvg-id="" tvg-name="MX | TeleHit Urbano ( RMS)" tvg-logo="" group-title="LIGAS",MX | TeleHit Urbano ( RMS)
-http://alv.encohd.co:39591/NxTAD2021/LX321/65
-#EXTINF:-1 tvg-id="" tvg-name="MX || BANDAMAX SD" tvg-logo="" group-title="LIGAS",MX || BANDAMAX SD
-http://alv.encohd.co:39591/NxTAD2021/LX321/66
-#EXTINF:-1 tvg-id="" tvg-name="||ES3|| ANTENA 3 HD" tvg-logo="" group-title="LIGAS",||ES3|| ANTENA 3 HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/67
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL" tvg-logo="" group-title="LIGAS",CO | CARACOL
-http://alv.encohd.co:39591/NxTAD2021/LX321/68
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN" tvg-logo="" group-title="LIGAS",CO | RCN
-http://alv.encohd.co:39591/NxTAD2021/LX321/69
-#EXTINF:-1 tvg-id="" tvg-name="Claro | RAI" tvg-logo="" group-title="LIGAS",Claro | RAI
-http://alv.encohd.co:39591/NxTAD2021/LX321/70
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Español" tvg-logo="" group-title="LIGAS",US: Discovery Español
-http://alv.encohd.co:39591/NxTAD2021/LX321/71
-#EXTINF:-1 tvg-id="" tvg-name="||ES3|| MOVISTAR F1 - DAZN" tvg-logo="" group-title="LIGAS",||ES3|| MOVISTAR F1 - DAZN
-http://alv.encohd.co:39591/NxTAD2021/LX321/72
-#EXTINF:-1 tvg-id="" tvg-name="USA | TSN 1" tvg-logo="" group-title="LIGAS",USA | TSN 1
-http://alv.encohd.co:39591/NxTAD2021/LX321/73
-#EXTINF:-1 tvg-id="" tvg-name="US: ACC NETWORK | HD" tvg-logo="" group-title="LIGAS",US: ACC NETWORK | HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/74
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox News Channel" tvg-logo="" group-title="LIGAS",US: Fox News Channel
-http://alv.encohd.co:39591/NxTAD2021/LX321/75
-#EXTINF:-1 tvg-id="" tvg-name="USA | Spectrum Sportsnet LA Lakers" tvg-logo="" group-title="LIGAS",USA | Spectrum Sportsnet LA Lakers
-http://alv.encohd.co:39591/NxTAD2021/LX321/76
-#EXTINF:-1 tvg-id="" tvg-name="US: OWN FHD" tvg-logo="" group-title="LIGAS",US: OWN FHD
-http://alv.encohd.co:39591/NxTAD2021/LX321/77
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports (Arizona) HD" tvg-logo="" group-title="LIGAS",US: Fox Sports (Arizona) HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/78
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS DETROIT | HD" tvg-logo="" group-title="LIGAS",US: FOX SPORTS DETROIT | HD
-http://alv.encohd.co:39591/NxTAD2021/LX321/79
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS FLORIDA | HD*" tvg-logo="" group-title="LIGAS",US: FOX SPORTS FLORIDA | HD*
-http://alv.encohd.co:39591/NxTAD2021/LX321/80
-#EXTINF:-1 tvg-id="" tvg-name="WWE US" tvg-logo="" group-title="LIGAS",WWE US
-http://alv.encohd.co:39591/NxTAD2021/LX321/86
-#EXTINF:-1 tvg-id="" tvg-name="5 MTY" tvg-logo="" group-title="LIGAS",5 MTY
-http://alv.encohd.co:39591/NxTAD2021/LX321/500
-#EXTINF:-1 tvg-id="" tvg-name="TELEVISAMTY" tvg-logo="" group-title="LIGAS",TELEVISAMTY
-http://alv.encohd.co:39591/NxTAD2021/LX321/501
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="" group-title="LIGAS",MULTIMEDIOS
-http://alv.encohd.co:39591/NxTAD2021/LX321/502
-#EXTINF:-1 tvg-id="" tvg-name="AZTECAUNO" tvg-logo="" group-title="LIGAS",AZTECAUNO
-http://alv.encohd.co:39591/NxTAD2021/LX321/503
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLAS" tvg-logo="" group-title="LIGAS",ESTRELLAS
-http://alv.encohd.co:39591/NxTAD2021/LX321/504
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="LIGAS",FOX SPORTS
-http://alv.encohd.co:39591/NxTAD2021/LX321/505
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="LIGAS",FOX SPORTS 2
-http://alv.encohd.co:39591/NxTAD2021/LX321/506
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="" group-title="LIGAS",TUDN USA
-http://alv.encohd.co:39591/NxTAD2021/LX321/508
-#EXTINF:-1 tvg-id="" tvg-name="USA: Sportsnet Pittsburgh" tvg-logo="" group-title="LIGAS",USA: Sportsnet Pittsburgh
-http://alv.encohd.co:39591/NxTAD2021/LX321/423
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Universo" tvg-logo="" group-title="LIGAS",USA: NBC Universo
-http://alv.encohd.co:39591/NxTAD2021/LX321/94
-#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax East" tvg-logo="" group-title="LIGAS",USA: Cinemax East
-http://alv.encohd.co:39591/NxTAD2021/LX321/301
-#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax Moremax" tvg-logo="" group-title="LIGAS",USA: Cinemax Moremax
-http://alv.encohd.co:39591/NxTAD2021/LX321/302
-#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax West" tvg-logo="" group-title="LIGAS",USA: Cinemax West
-http://alv.encohd.co:39591/NxTAD2021/LX321/303
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO" tvg-logo="" group-title="LIGAS",USA: HBO
-http://alv.encohd.co:39591/NxTAD2021/LX321/304
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Signature" tvg-logo="" group-title="LIGAS",USA: HBO Signature
-http://alv.encohd.co:39591/NxTAD2021/LX321/305
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Comedy" tvg-logo="" group-title="LIGAS",USA: HBO Comedy
-http://alv.encohd.co:39591/NxTAD2021/LX321/306
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO East" tvg-logo="" group-title="LIGAS",USA: HBO East
-http://alv.encohd.co:39591/NxTAD2021/LX321/307
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Family" tvg-logo="" group-title="LIGAS",USA: HBO Family
-http://alv.encohd.co:39591/NxTAD2021/LX321/308
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO West" tvg-logo="" group-title="LIGAS",USA: HBO West
-http://alv.encohd.co:39591/NxTAD2021/LX321/309
-#EXTINF:-1 tvg-id="" tvg-name="USA: HBO 2" tvg-logo="" group-title="LIGAS",USA: HBO 2
-http://alv.encohd.co:39591/NxTAD2021/LX321/310
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Women" tvg-logo="" group-title="LIGAS",USA: Showtime Women
-http://alv.encohd.co:39591/NxTAD2021/LX321/311
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Showcase" tvg-logo="" group-title="LIGAS",USA: Showtime Showcase
-http://alv.encohd.co:39591/NxTAD2021/LX321/312
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Next" tvg-logo="" group-title="LIGAS",USA: Showtime Next
-http://alv.encohd.co:39591/NxTAD2021/LX321/313
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Extreme" tvg-logo="" group-title="LIGAS",USA: Showtime Extreme
-http://alv.encohd.co:39591/NxTAD2021/LX321/314
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime East" tvg-logo="" group-title="LIGAS",USA: Showtime East
-http://alv.encohd.co:39591/NxTAD2021/LX321/315
-#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Beyond" tvg-logo="" group-title="LIGAS",USA: Showtime Beyond
-http://alv.encohd.co:39591/NxTAD2021/LX321/316
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Comedy" tvg-logo="" group-title="LIGAS",USA: Starz Comedy
-http://alv.encohd.co:39591/NxTAD2021/LX321/317
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Cinema" tvg-logo="" group-title="LIGAS",USA: Starz Cinema
-http://alv.encohd.co:39591/NxTAD2021/LX321/318
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Action" tvg-logo="" group-title="LIGAS",USA: Starz Encore Action
-http://alv.encohd.co:39591/NxTAD2021/LX321/319
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Kids & Family" tvg-logo="" group-title="LIGAS",USA: Starz Kids & Family
-http://alv.encohd.co:39591/NxTAD2021/LX321/320
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Western" tvg-logo="" group-title="LIGAS",USA: Starz Encore Western
-http://alv.encohd.co:39591/NxTAD2021/LX321/321
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Family" tvg-logo="" group-title="LIGAS",USA: Starz Encore Family
-http://alv.encohd.co:39591/NxTAD2021/LX321/322
-#EXTINF:-1 tvg-id="" tvg-name="USA: Starz in Black" tvg-logo="" group-title="LIGAS",USA: Starz in Black
-http://alv.encohd.co:39591/NxTAD2021/LX321/323
-#EXTINF:-1 tvg-id="" tvg-name="USA: Sony Movie Channel" tvg-logo="" group-title="LIGAS",USA: Sony Movie Channel
-http://alv.encohd.co:39591/NxTAD2021/LX321/324
-#EXTINF:-1 tvg-id="" tvg-name="USA: American Heroes" tvg-logo="" group-title="LIGAS",USA: American Heroes
-http://alv.encohd.co:39591/NxTAD2021/LX321/325
-#EXTINF:-1 tvg-id="" tvg-name="USA: Paramount Network" tvg-logo="" group-title="LIGAS",USA: Paramount Network
-http://alv.encohd.co:39591/NxTAD2021/LX321/326
-#EXTINF:-1 tvg-id="" tvg-name="USA: The Weather Nation" tvg-logo="" group-title="LIGAS",USA: The Weather Nation
-http://alv.encohd.co:39591/NxTAD2021/LX321/327
-#EXTINF:-1 tvg-id="" tvg-name="USA: AXS TV" tvg-logo="" group-title="LIGAS",USA: AXS TV
-http://alv.encohd.co:39591/NxTAD2021/LX321/328
-#EXTINF:-1 tvg-id="" tvg-name="USA: Destination America" tvg-logo="" group-title="LIGAS",USA: Destination America
-http://alv.encohd.co:39591/NxTAD2021/LX321/329
-#EXTINF:-1 tvg-id="" tvg-name="USA: Pop Channel" tvg-logo="" group-title="LIGAS",USA: Pop Channel
-http://alv.encohd.co:39591/NxTAD2021/LX321/330
-#EXTINF:-1 tvg-id="" tvg-name="USA: Travel Channel" tvg-logo="" group-title="LIGAS",USA: Travel Channel
-http://alv.encohd.co:39591/NxTAD2021/LX321/331
-#EXTINF:-1 tvg-id="" tvg-name="USA: TruTv" tvg-logo="" group-title="LIGAS",USA: TruTv
-http://alv.encohd.co:39591/NxTAD2021/LX321/332
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fuse" tvg-logo="" group-title="LIGAS",USA: Fuse
-http://alv.encohd.co:39591/NxTAD2021/LX321/333
-#EXTINF:-1 tvg-id="" tvg-name="USA: FX" tvg-logo="" group-title="LIGAS",USA: FX
-http://alv.encohd.co:39591/NxTAD2021/LX321/334
-#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax" tvg-logo="" group-title="LIGAS",USA: Cinemax
-http://alv.encohd.co:39591/NxTAD2021/LX321/335
-#EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo New York" tvg-logo="" group-title="LIGAS",USA: Telemundo New York
-http://alv.encohd.co:39591/NxTAD2021/LX321/336
-#EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo Los Angeles" tvg-logo="" group-title="LIGAS",USA: Telemundo Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/337
-#EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo Chicago" tvg-logo="" group-title="LIGAS",USA: Telemundo Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/338
-#EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo Houston" tvg-logo="" group-title="LIGAS",USA: Telemundo Houston
-http://alv.encohd.co:39591/NxTAD2021/LX321/339
-#EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo Miami" tvg-logo="" group-title="LIGAS",USA: Telemundo Miami
-http://alv.encohd.co:39591/NxTAD2021/LX321/340
-#EXTINF:-1 tvg-id="" tvg-name="USA: Univision New York" tvg-logo="" group-title="LIGAS",USA: Univision New York
-http://alv.encohd.co:39591/NxTAD2021/LX321/341
-#EXTINF:-1 tvg-id="" tvg-name="USA: Univision Los Angeles" tvg-logo="" group-title="LIGAS",USA: Univision Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/342
-#EXTINF:-1 tvg-id="" tvg-name="USA: Univision Chicago" tvg-logo="" group-title="LIGAS",USA: Univision Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/343
-#EXTINF:-1 tvg-id="" tvg-name="USA: Univision Houston" tvg-logo="" group-title="LIGAS",USA: Univision Houston
-http://alv.encohd.co:39591/NxTAD2021/LX321/344
-#EXTINF:-1 tvg-id="" tvg-name="USA: Univision Miami" tvg-logo="" group-title="LIGAS",USA: Univision Miami
-http://alv.encohd.co:39591/NxTAD2021/LX321/345
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SN Washington" tvg-logo="" group-title="LIGAS",USA: NBC SN Washington
-http://alv.encohd.co:39591/NxTAD2021/LX321/346
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SN Philadelphia" tvg-logo="" group-title="LIGAS",USA: NBC SN Philadelphia
-http://alv.encohd.co:39591/NxTAD2021/LX321/347
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SN Northwest" tvg-logo="" group-title="LIGAS",USA: NBC SN Northwest
-http://alv.encohd.co:39591/NxTAD2021/LX321/348
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SN Chicago" tvg-logo="" group-title="LIGAS",USA: NBC SN Chicago
-http://alv.encohd.co:39591/NxTAD2021/LX321/349
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SN California" tvg-logo="" group-title="LIGAS",USA: NBC SN California
-http://alv.encohd.co:39591/NxTAD2021/LX321/350
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sports By Area" tvg-logo="" group-title="LIGAS",USA: NBC Sports By Area
-http://alv.encohd.co:39591/NxTAD2021/LX321/351
-#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Washington" tvg-logo="" group-title="LIGAS",USA: PAC 12 Washington
-http://alv.encohd.co:39591/NxTAD2021/LX321/352
-#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Mountain" tvg-logo="" group-title="LIGAS",USA: PAC 12 Mountain
-http://alv.encohd.co:39591/NxTAD2021/LX321/353
-#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Los Angeles" tvg-logo="" group-title="LIGAS",USA: PAC 12 Los Angeles
-http://alv.encohd.co:39591/NxTAD2021/LX321/354
-#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 By Area" tvg-logo="" group-title="LIGAS",USA: PAC 12 By Area
-http://alv.encohd.co:39591/NxTAD2021/LX321/355
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 ARIZONA" tvg-logo="" group-title="LIGAS",PAC 12 ARIZONA
-http://alv.encohd.co:39591/NxTAD2021/LX321/356
-#EXTINF:-1 tvg-id="" tvg-name="USA: RideTv" tvg-logo="" group-title="LIGAS",USA: RideTv
-http://alv.encohd.co:39591/NxTAD2021/LX321/357
-#EXTINF:-1 tvg-id="" tvg-name="USA: Stadium" tvg-logo="" group-title="LIGAS",USA: Stadium
-http://alv.encohd.co:39591/NxTAD2021/LX321/358
-#EXTINF:-1 tvg-id="" tvg-name="USA: Sportsnet West" tvg-logo="" group-title="LIGAS",USA: Sportsnet West
-http://alv.encohd.co:39591/NxTAD2021/LX321/359
-#EXTINF:-1 tvg-id="" tvg-name="USA: Sportsnet NY" tvg-logo="" group-title="LIGAS",USA: Sportsnet NY
-http://alv.encohd.co:39591/NxTAD2021/LX321/360
-#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U" tvg-logo="" group-title="LIGAS",USA: ESPN U
-http://alv.encohd.co:39591/NxTAD2021/LX321/361
-#EXTINF:-1 tvg-id="" tvg-name="USA: FS2" tvg-logo="" group-title="LIGAS",USA: FS2
-http://alv.encohd.co:39591/NxTAD2021/LX321/362
-#EXTINF:-1 tvg-id="" tvg-name="USA: MSG" tvg-logo="" group-title="LIGAS",USA: MSG
-http://alv.encohd.co:39591/NxTAD2021/LX321/363
-#EXTINF:-1 tvg-id="" tvg-name="USA: Yes Network" tvg-logo="" group-title="LIGAS",USA: Yes Network
-http://alv.encohd.co:39591/NxTAD2021/LX321/364
-#EXTINF:-1 tvg-id="" tvg-name="USA: Eleven Sports" tvg-logo="" group-title="LIGAS",USA: Eleven Sports
-http://alv.encohd.co:39591/NxTAD2021/LX321/365
-#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN News" tvg-logo="" group-title="LIGAS",USA: ESPN News
-http://alv.encohd.co:39591/NxTAD2021/LX321/366
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="LIGAS",Cartoon Network
-http://alv.encohd.co:39591/NxTAD2021/LX321/367
-#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Channel" tvg-logo="" group-title="LIGAS",USA: Discovery Channel
-http://alv.encohd.co:39591/NxTAD2021/LX321/368
-#EXTINF:-1 tvg-id="" tvg-name="USA: CMT" tvg-logo="" group-title="LIGAS",USA: CMT
-http://alv.encohd.co:39591/NxTAD2021/LX321/369
-#EXTINF:-1 tvg-id="" tvg-name="USA: AMC" tvg-logo="" group-title="LIGAS",USA: AMC
-http://alv.encohd.co:39591/NxTAD2021/LX321/370
-#EXTINF:-1 tvg-id="" tvg-name="Sundance" tvg-logo="" group-title="LIGAS",Sundance
-http://alv.encohd.co:39591/NxTAD2021/LX321/371
-#EXTINF:-1 tvg-id="" tvg-name="USA: SyFy" tvg-logo="" group-title="LIGAS",USA: SyFy
-http://alv.encohd.co:39591/NxTAD2021/LX321/372
-#EXTINF:-1 tvg-id="" tvg-name="USA: TBS" tvg-logo="" group-title="LIGAS",USA: TBS
-http://alv.encohd.co:39591/NxTAD2021/LX321/373
-#EXTINF:-1 tvg-id="" tvg-name="USA: Lifetime" tvg-logo="" group-title="LIGAS",USA: Lifetime
-http://alv.encohd.co:39591/NxTAD2021/LX321/374
-#EXTINF:-1 tvg-id="" tvg-name="USA: Estrella Tv" tvg-logo="" group-title="LIGAS",USA: Estrella Tv
-http://alv.encohd.co:39591/NxTAD2021/LX321/375
-#EXTINF:-1 tvg-id="" tvg-name="USA: LongHorn Network" tvg-logo="" group-title="LIGAS",USA: LongHorn Network
-http://alv.encohd.co:39591/NxTAD2021/LX321/376
-#EXTINF:-1 tvg-id="" tvg-name="USA: Dog TV" tvg-logo="" group-title="LIGAS",USA: Dog TV
-http://alv.encohd.co:39591/NxTAD2021/LX321/377
-#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Fight Pass" tvg-logo="" group-title="LIGAS",USA: UFC Fight Pass
-http://alv.encohd.co:39591/NxTAD2021/LX321/378
-#EXTINF:-1 tvg-id="" tvg-name="USA: Sportsman" tvg-logo="" group-title="LIGAS",USA: Sportsman
-http://alv.encohd.co:39591/NxTAD2021/LX321/379
-#EXTINF:-1 tvg-id="" tvg-name="USA: NESN Main Plus" tvg-logo="" group-title="LIGAS",USA: NESN Main Plus
-http://alv.encohd.co:39591/NxTAD2021/LX321/380
-#EXTINF:-1 tvg-id="" tvg-name="USA: TVG" tvg-logo="" group-title="LIGAS",USA: TVG
-http://alv.encohd.co:39591/NxTAD2021/LX321/381
-#EXTINF:-1 tvg-id="" tvg-name="MX: Directv Sports" tvg-logo="" group-title="LIGAS",MX: Directv Sports
-http://alv.encohd.co:39591/NxTAD2021/LX321/382
-#EXTINF:-1 tvg-id="" tvg-name="MX: Directv Sports 2" tvg-logo="" group-title="LIGAS",MX: Directv Sports 2
-http://alv.encohd.co:39591/NxTAD2021/LX321/383
-#EXTINF:-1 tvg-id="" tvg-name="MX: Win sports" tvg-logo="" group-title="LIGAS",MX: Win sports
-http://alv.encohd.co:39591/NxTAD2021/LX321/384
-#EXTINF:-1 tvg-id="" tvg-name="MX: MX: Fox Sports Premium" tvg-logo="" group-title="LIGAS",MX: MX: Fox Sports Premium
-http://alv.encohd.co:39591/NxTAD2021/LX321/385
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Soccer plus" tvg-logo="" group-title="LIGAS",MX: Fox Soccer plus
-http://alv.encohd.co:39591/NxTAD2021/LX321/386
-#EXTINF:-1 tvg-id="" tvg-name="MX: MX: La Liga" tvg-logo="" group-title="LIGAS",MX: MX: La Liga
-http://alv.encohd.co:39591/NxTAD2021/LX321/387
-#EXTINF:-1 tvg-id="" tvg-name="MX: Toros" tvg-logo="" group-title="LIGAS",MX: Toros
-http://alv.encohd.co:39591/NxTAD2021/LX321/388
-#EXTINF:-1 tvg-id="" tvg-name="MX: Tyc Sports" tvg-logo="" group-title="LIGAS",MX: Tyc Sports
-http://alv.encohd.co:39591/NxTAD2021/LX321/389
-#EXTINF:-1 tvg-id="" tvg-name="MX: AYM Sports" tvg-logo="" group-title="LIGAS",MX: AYM Sports
-http://alv.encohd.co:39591/NxTAD2021/LX321/390
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery World" tvg-logo="" group-title="LIGAS",MX: Discovery World
-http://alv.encohd.co:39591/NxTAD2021/LX321/391
-#EXTINF:-1 tvg-id="" tvg-name="MX: DePelicula Plus" tvg-logo="" group-title="LIGAS",MX: DePelicula Plus
-http://alv.encohd.co:39591/NxTAD2021/LX321/392
-#EXTINF:-1 tvg-id="" tvg-name="MX: TLNovelas" tvg-logo="" group-title="LIGAS",MX: TLNovelas
-http://alv.encohd.co:39591/NxTAD2021/LX321/393
-#EXTINF:-1 tvg-id="" tvg-name="MX: AzClic" tvg-logo="" group-title="LIGAS",MX: AzClic
-http://alv.encohd.co:39591/NxTAD2021/LX321/394
-#EXTINF:-1 tvg-id="" tvg-name="MX: AzMundo" tvg-logo="" group-title="LIGAS",MX: AzMundo
-http://alv.encohd.co:39591/NxTAD2021/LX321/395
-#EXTINF:-1 tvg-id="" tvg-name="MX: TruTV" tvg-logo="" group-title="LIGAS",MX: TruTV
-http://alv.encohd.co:39591/NxTAD2021/LX321/396
-#EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia" tvg-logo="" group-title="LIGAS",MX: Distrito Comedia
-http://alv.encohd.co:39591/NxTAD2021/LX321/397
-#EXTINF:-1 tvg-id="" tvg-name="MX: El Gourmet" tvg-logo="" group-title="LIGAS",MX: El Gourmet
-http://alv.encohd.co:39591/NxTAD2021/LX321/398
-#EXTINF:-1 tvg-id="" tvg-name="MX: Power Rangers Space 24/7" tvg-logo="" group-title="LIGAS",MX: Power Rangers Space 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/400
-#EXTINF:-1 tvg-id="" tvg-name="MX: Thundercats 24/7" tvg-logo="" group-title="LIGAS",MX: Thundercats 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/401
-#EXTINF:-1 tvg-id="" tvg-name="MX: Le Temes a La Oscuridad 24/7" tvg-logo="" group-title="LIGAS",MX: Le Temes a La Oscuridad 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/402
-#EXTINF:-1 tvg-id="" tvg-name="MX: CatDog 24/7" tvg-logo="" group-title="LIGAS",MX: CatDog 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/403
-#EXTINF:-1 tvg-id="" tvg-name="MX: Coraje Perro Cobarde 24/7" tvg-logo="" group-title="LIGAS",MX: Coraje Perro Cobarde 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/404
-#EXTINF:-1 tvg-id="" tvg-name="MX: La Familia Peluche 24/7" tvg-logo="" group-title="LIGAS",MX: La Familia Peluche 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/405
-#EXTINF:-1 tvg-id="" tvg-name="MX: Extranormal 24/7" tvg-logo="" group-title="LIGAS",MX: Extranormal 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/406
-#EXTINF:-1 tvg-id="" tvg-name="MX: Hey Arnold ! 24/7" tvg-logo="" group-title="LIGAS",MX: Hey Arnold ! 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/407
-#EXTINF:-1 tvg-id="" tvg-name="MX: Dr House 24/7" tvg-logo="" group-title="LIGAS",MX: Dr House 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/408
-#EXTINF:-1 tvg-id="" tvg-name="MX: Ranma 1/2 24/7" tvg-logo="" group-title="LIGAS",MX: Ranma 1/2 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/409
-#EXTINF:-1 tvg-id="" tvg-name="MX: Pokemon 24/7" tvg-logo="" group-title="LIGAS",MX: Pokemon 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/410
-#EXTINF:-1 tvg-id="" tvg-name="MX: Dinosaurios 24/7" tvg-logo="" group-title="LIGAS",MX: Dinosaurios 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/411
-#EXTINF:-1 tvg-id="" tvg-name="MX: Futurama 24/7" tvg-logo="" group-title="LIGAS",MX: Futurama 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/412
-#EXTINF:-1 tvg-id="" tvg-name="MX: Dragon Ball Super 24/7" tvg-logo="" group-title="LIGAS",MX: Dragon Ball Super 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/413
-#EXTINF:-1 tvg-id="" tvg-name="MX: Los Simpsons 24/7" tvg-logo="" group-title="LIGAS",MX: Los Simpsons 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/414
-#EXTINF:-1 tvg-id="" tvg-name="MX: Chespirito 24/7" tvg-logo="" group-title="LIGAS",MX: Chespirito 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/415
-#EXTINF:-1 tvg-id="" tvg-name="MX: Mr Bean 24/7" tvg-logo="" group-title="LIGAS",MX: Mr Bean 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/416
-#EXTINF:-1 tvg-id="" tvg-name="MX: Malcom 24/7" tvg-logo="" group-title="LIGAS",MX: Malcom 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/417
-#EXTINF:-1 tvg-id="" tvg-name="MX: Chavo Animado 24/7" tvg-logo="" group-title="LIGAS",MX: Chavo Animado 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/418
-#EXTINF:-1 tvg-id="" tvg-name="MX: SuperCampeones 24/7" tvg-logo="" group-title="LIGAS",MX: SuperCampeones 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/419
-#EXTINF:-1 tvg-id="" tvg-name="MX: Caballeros Del Zodiaco 24/7" tvg-logo="" group-title="LIGAS",MX: Caballeros Del Zodiaco 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/420
-#EXTINF:-1 tvg-id="" tvg-name="MX: Acapulco Shore 24/7" tvg-logo="" group-title="LIGAS",MX: Acapulco Shore 24/7
-http://alv.encohd.co:39591/NxTAD2021/LX321/399
-#EXTINF:-1 tvg-id="" tvg-name="US: BT Sports UK" tvg-logo="" group-title="LIGAS",US: BT Sports UK
-http://alv.encohd.co:39591/NxTAD2021/LX321/87
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Net" tvg-logo="" group-title="LIGAS",US: NBC Sports Net
-http://alv.encohd.co:39591/NxTAD2021/LX321/88
-#EXTINF:-1 tvg-id="" tvg-name="US: Cowboy" tvg-logo="" group-title="LIGAS",US: Cowboy
-http://alv.encohd.co:39591/NxTAD2021/LX321/89
-#EXTINF:-1 tvg-id="" tvg-name="US: Comedy central" tvg-logo="" group-title="LIGAS",US: Comedy central
-http://alv.encohd.co:39591/NxTAD2021/LX321/90
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark" tvg-logo="" group-title="LIGAS",US: Hallmark
-http://alv.encohd.co:39591/NxTAD2021/LX321/91
-#EXTINF:-1 tvg-id="" tvg-name="A+ (MX)" tvg-logo="" group-title="LIGAS",A+ (MX)
-http://alv.encohd.co:39591/NxTAD2021/LX321/92
-#EXTINF:-1 tvg-id="" tvg-name="History mx" tvg-logo="" group-title="LIGAS",History mx
-http://alv.encohd.co:39591/NxTAD2021/LX321/93
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Sciense" tvg-logo="" group-title="LIGAS",MX: Discovery Sciense
-http://alv.encohd.co:39591/NxTAD2021/LX321/421
-#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Science " tvg-logo="" group-title="LIGAS",USA: Discovery Science 
-http://alv.encohd.co:39591/NxTAD2021/LX321/422
+#EXTINF:-1 tvg-id="" tvg-name="==== ARGENTINA ====" tvg-logo="" group-title="ARGENTINA",==== ARGENTINA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64100
+#EXTINF:-1 tvg-id="I719.16272.schedulesdirect.org" tvg-name="A 24. ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/1ef7gfv6fr24fsr/A24.png" group-title="ARGENTINA",A 24. ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6641
+#EXTINF:-1 tvg-id="I1120.102994.schedulesdirect.org" tvg-name="America. Tv ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/cnubv25jf57wiml/americatv.png" group-title="ARGENTINA",America. Tv ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6643
+#EXTINF:-1 tvg-id="I1720.103103.schedulesdirect.org" tvg-name="Canal 26 © " tvg-logo="https://dl.dropboxusercontent.com/s/5oryydqj4p4q120/26.png" group-title="ARGENTINA",Canal 26 © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6657
+#EXTINF:-1 tvg-id="I1122.16882.schedulesdirect.org" tvg-name="El Nueve ©" tvg-logo="https://dl.dropboxusercontent.com/s/9pkzy8uqudd3gtr/nueve.png" group-title="ARGENTINA",El Nueve ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/32927
+#EXTINF:-1 tvg-id="" tvg-name="El Trece. Inter ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/j3lj15020lm990q/eltrece.png" group-title="ARGENTINA",El Trece. Inter ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/27063
+#EXTINF:-1 tvg-id="I124.16044.schedulesdirect.org" tvg-name="El Trece. ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/j3lj15020lm990q/eltrece.png" group-title="ARGENTINA",El Trece. ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6658
+#EXTINF:-1 tvg-id="" tvg-name="Net TV ©" tvg-logo="https://dl.dropboxusercontent.com/s/639uf7zkr7661qs/nettv.png" group-title="ARGENTINA",Net TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13533
+#EXTINF:-1 tvg-id="I123.16189.schedulesdirect.org" tvg-name="Telefe." tvg-logo="https://dl.dropboxusercontent.com/s/kgar3l92pijgl35/telefe.png" group-title="ARGENTINA",Telefe.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/23235
+#EXTINF:-1 tvg-id="I123.16189.schedulesdirect.org" tvg-name="Telefe ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/kgar3l92pijgl35/telefe.png" group-title="ARGENTINA",Telefe ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13827
+#EXTINF:-1 tvg-id="I1123.16189.schedulesdirect.org" tvg-name="Telefe. INTER ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/cogrhnr12yu7926/telefeinternacional.png" group-title="ARGENTINA",Telefe. INTER ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13532
+#EXTINF:-1 tvg-id="I726.15036.schedulesdirect.org" tvg-name="Telemax ©  " tvg-logo="https://dl.dropboxusercontent.com/s/ki2o9czbsvg8yp4/telemax.png" group-title="ARGENTINA",Telemax ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6664
+#EXTINF:-1 tvg-id="I716.42507.schedulesdirect.org" tvg-name="TN © " tvg-logo="https://dl.dropboxusercontent.com/s/pp4847t98l9lerg/tn.png" group-title="ARGENTINA",TN © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6669
+#EXTINF:-1 tvg-id="I716.42507.schedulesdirect.org" tvg-name="TN ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/pp4847t98l9lerg/tn.png" group-title="ARGENTINA",TN ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6668
+#EXTINF:-1 tvg-id="I121.16525.schedulesdirect.org" tvg-name="Tv Publica. ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/1fy34nx51npb9za/tvpublica.png" group-title="ARGENTINA",Tv Publica. ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/9940
+#EXTINF:-1 tvg-id="" tvg-name="==== CHILE ====" tvg-logo="" group-title="CHILE",==== CHILE ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64101
+#EXTINF:-1 tvg-id="I122.16207.schedulesdirect.org" tvg-name="13 ®" tvg-logo="https://dl.dropboxusercontent.com/s/joda4kn8zdp7vb1/13.png" group-title="CHILE",13 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/54
+#EXTINF:-1 tvg-id="I125.16207.schedulesdirect.org" tvg-name="13C ®" tvg-logo="https://dl.dropboxusercontent.com/s/svfndj1844rkb62/13c.png" group-title="CHILE",13C ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/89
+#EXTINF:-1 tvg-id="I116.50296.schedulesdirect.org" tvg-name="13i ⁽T⁾" tvg-logo="https://dl.dropboxusercontent.com/s/zg9xcko1em1ajit/13i.png" group-title="CHILE",13i ⁽T⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/92
+#EXTINF:-1 tvg-id="I424.62889.schedulesdirect.org" tvg-name="24 Horas ®" tvg-logo="https://dl.dropboxusercontent.com/s/2q28nhxoz8hahtg/24horashd.png" group-title="CHILE",24 Horas ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/93
+#EXTINF:-1 tvg-id="I811.76008.schedulesdirect.org" tvg-name="CHV. ⁽P⁾" tvg-logo="https://dl.dropboxusercontent.com/s/t2l31ierc55xoqh/chv.png" group-title="CHILE",CHV. ⁽P⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/46857
+#EXTINF:-1 tvg-id="I817.104408.schedulesdirect.org" tvg-name="CNN Chile ⁽P⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/x5hc90ziwc2motr/cnnchilehd.png" group-title="CHILE",CNN Chile ⁽P⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/99
+#EXTINF:-1 tvg-id="I425.62048.schedulesdirect.org" tvg-name="CNN Chile ®" tvg-logo="https://dl.dropboxusercontent.com/s/x5hc90ziwc2motr/cnnchilehd.png" group-title="CHILE",CNN Chile ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/98
+#EXTINF:-1 tvg-id="I117.17422.schedulesdirect.org" tvg-name="La Red. ®" tvg-logo="http://puntoz.net/LOGOS/la.red.nuevo.png" group-title="CHILE",La Red. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/100
+#EXTINF:-1 tvg-id="I120.16527.schedulesdirect.org" tvg-name="Mega ⁽P⁾" tvg-logo="https://dl.dropboxusercontent.com/s/jss91bk2cp1f47u/megahd.png" group-title="CHILE",Mega ⁽P⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56278
+#EXTINF:-1 tvg-id="" tvg-name="Pinguino ©" tvg-logo="https://dl.dropboxusercontent.com/s/5gt9h3evn83a2yq/elpinguinotv.png" group-title="CHILE",Pinguino ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/45983
+#EXTINF:-1 tvg-id="I119.16526.schedulesdirect.org" tvg-name="TVN. ®" tvg-logo="http://23.237.120.58/LOGOS/TVNNUEVO.png" group-title="CHILE",TVN. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/118
+#EXTINF:-1 tvg-id="" tvg-name="==== CINE ====" tvg-logo="" group-title="CINE",==== CINE ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64102
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="AXN VIP" tvg-logo="SIN LOGO" group-title="CINE",AXN VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/128
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Cinema ⁽M⁾" tvg-logo="http://23.237.120.58/LOGOS/azcinema.png" group-title="CINE",Azteca Cinema ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/124
+#EXTINF:-1 tvg-id="" tvg-name="Cine Arg ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/56dkpveogfmw270/cinear.png" group-title="CINE",Cine Arg ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56688
+#EXTINF:-1 tvg-id="I120.15296.schedulesdirect.org" tvg-name="Cine Latino ®" tvg-logo="https://dl.dropboxusercontent.com/s/oks6edehbhddsrl/cinelatino.png" group-title="CINE",Cine Latino ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/27006
+#EXTINF:-1 tvg-id="I172.76960.schedulesdirect.org" tvg-name="DHE ⁽c⁾" tvg-logo="http://23.237.120.58/LOGOS/dhe1.png" group-title="CINE",DHE ⁽c⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56543
+#EXTINF:-1 tvg-id="I257.27741.schedulesdirect.org" tvg-name="Europa Europa ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/w5t9wz3r62ihk09/europaeuropa.png" group-title="CINE",Europa Europa ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/149
+#EXTINF:-1 tvg-id="I221.88534.schedulesdirect.org" tvg-name="Star Channel. ®" tvg-logo="http://23.237.120.58/LOGOS/star.channel.png" group-title="CINE",Star Channel. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/144
+#EXTINF:-1 tvg-id="I1561.74574.schedulesdirect.org" tvg-name="Star Action ®" tvg-logo="http://23.237.120.58/LOGOS/star.action.png" group-title="CINE",Star Action ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/146
+#EXTINF:-1 tvg-id="I1640.90969.schedulesdirect.org" tvg-name="Star Comedy ®" tvg-logo="http://23.237.120.58/LOGOS/star.comedy.png" group-title="CINE",Star Comedy ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/156
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Star Life ®" tvg-logo="http://23.237.120.58/LOGOS/star.life.png" group-title="CINE",Star Life ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/32926
+#EXTINF:-1 tvg-id="I1642.73049.schedulesdirect.org" tvg-name="Star Hits ®" tvg-logo="http://23.237.120.58/LOGOS/star.hits.png" group-title="CINE",Star Hits ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/163
+#EXTINF:-1 tvg-id="I523.60542.schedulesdirect.org" tvg-name="Star Series ¥¥1" tvg-logo="http://23.237.120.58/LOGOS/star.series.png" group-title="CINE",Star Series ¥¥1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/167
+#EXTINF:-1 tvg-id="I1606.80652.schedulesdirect.org" tvg-name="HBO 1 ¥¥7" tvg-logo="https://dl.dropboxusercontent.com/s/tn64uj7mh0f0vbt/hbocohd.png" group-title="CINE",HBO 1 ¥¥7
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/185
+#EXTINF:-1 tvg-id="I1602.19548.schedulesdirect.org" tvg-name="HBO 2 ¥¥1" tvg-logo="https://dl.dropboxusercontent.com/s/78wehoixvntyawl/hbo2.png" group-title="CINE",HBO 2 ¥¥1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/189
+#EXTINF:-1 tvg-id="I334.34879.schedulesdirect.org" tvg-name="HBO Family ®" tvg-logo="https://dl.dropboxusercontent.com/s/r4gfwz7ac8ys9g2/hbofamily..png" group-title="CINE",HBO Family ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/192
+#EXTINF:-1 tvg-id="I340.82003.schedulesdirect.org" tvg-name="HBO Plus ®" tvg-logo="https://dl.dropboxusercontent.com/s/6uy3xnsl3awpxey/hboplus..png" group-title="CINE",HBO Plus ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/195
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO Pop VIP" tvg-logo="" group-title="CINE",HBO Pop VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/209
+#EXTINF:-1 tvg-id="I639.34887.schedulesdirect.org" tvg-name="HBO Xtreme ®" tvg-logo="http://23.237.120.58/LOGOS/hboxtream.png" group-title="CINE",HBO Xtreme ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/203
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Sony Cine ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/xhfskybd91a87ve/sonychannel.png" group-title="CINE",Sony Cine ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56780
+#EXTINF:-1 tvg-id="I235.66349.schedulesdirect.org" tvg-name="Space ®" tvg-logo="https://dl.dropboxusercontent.com/s/zspol1nm5sq16bw/space.png" group-title="CINE",Space ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56581
+#EXTINF:-1 tvg-id="I313.29017.schedulesdirect.org" tvg-name="Studio Universal VIP" tvg-logo="SIN LOGO" group-title="CINE",Studio Universal VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/220
+#EXTINF:-1 tvg-id="" tvg-name="SYFY VIP" tvg-logo="SIN LOGO" group-title="CINE",SYFY VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/223
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Universal ®" tvg-logo="http://23.237.120.58/LOGOS/universaltv.png" group-title="CINE",Universal ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/249
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Zee Mundo ©" tvg-logo="http://23.237.120.58/LOGOS/zeemundo.png" group-title="CINE",Zee Mundo ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56481
+#EXTINF:-1 tvg-id="" tvg-name="==== COLOMBIA ====" tvg-logo="" group-title="COLOMBIA",==== COLOMBIA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64103
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV ©" tvg-logo="http://23.237.120.58/LOGOS/calitv.png" group-title="COLOMBIA",Cali TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22259
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital ©" tvg-logo="https://dl.dropboxusercontent.com/s/ap4yewds6gwrc38/Canal_Capital.png" group-title="COLOMBIA",Canal Capital ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6846
+#EXTINF:-1 tvg-id="I417.39719.schedulesdirect.org" tvg-name="Caracol. HD2 ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/cy3ce794r07woq8/caracol.png" group-title="COLOMBIA",Caracol. HD2 ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/23424
+#EXTINF:-1 tvg-id="" tvg-name="Caracol. Inter ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/vd7834sy2un18yc/caracolinternacional.png" group-title="COLOMBIA",Caracol. Inter ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/266
+#EXTINF:-1 tvg-id="" tvg-name="City TV ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/wqae28lxd4c1x5z/citytv.png" group-title="COLOMBIA",City TV ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/290
+#EXTINF:-1 tvg-id="" tvg-name="NTN24 ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/196ka9vdklmjdev/ntn24.png" group-title="COLOMBIA",NTN24 ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56784
+#EXTINF:-1 tvg-id="" tvg-name="RCN ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/529x4w3qtu1g5fz/rcnhd.png" group-title="COLOMBIA",RCN ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/273
+#EXTINF:-1 tvg-id="" tvg-name="RCn NuestraTele" tvg-logo="https://dl.dropboxusercontent.com/s/vso71w0685z68mz/rcnnuestratele.png" group-title="COLOMBIA",RCn NuestraTele
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/276
+#EXTINF:-1 tvg-id="" tvg-name="RCn NuestraTele ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/vso71w0685z68mz/rcnnuestratele.png" group-title="COLOMBIA",RCn NuestraTele ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/275
+#EXTINF:-1 tvg-id="" tvg-name="Senal Colombia ©" tvg-logo="http://23.237.120.58/LOGOS/senalcolombia.png" group-title="COLOMBIA",Senal Colombia ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/268
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia ©  " tvg-logo="https://dl.dropboxusercontent.com/s/r66qak2i91p0vrq/Teleantioquia.png" group-title="COLOMBIA",Teleantioquia ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/283
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/cvycplq3g8b2uy2/telecafe.png" group-title="COLOMBIA",Telecafe ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/284
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe. ⁽k⁾" tvg-logo="https://dl.dropboxusercontent.com/s/ji2g6acvii7e5fj/telecaribe.png" group-title="COLOMBIA",Telecaribe. ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/285
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="https://dl.dropboxusercontent.com/s/0mkqiczhdxtkg8j/telemedellin.png" group-title="COLOMBIA",Telemedellin
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/286
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico ©" tvg-logo="https://dl.dropboxusercontent.com/s/9q3gw3io2iiyihx/Telepac%C3%ADfico.png" group-title="COLOMBIA",Telepacifico ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/288
+#EXTINF:-1 tvg-id="" tvg-name="Tv Agro © " tvg-logo="https://dl.dropboxusercontent.com/s/79ag3ms59p9n64z/tvagro.png" group-title="COLOMBIA",Tv Agro © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/291
+#EXTINF:-1 tvg-id="" tvg-name="==== COSTA RICA ====" tvg-logo="" group-title="COSTA RICA",==== COSTA RICA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64104
+#EXTINF:-1 tvg-id="" tvg-name="Colosal TV ©" tvg-logo="http://23.237.120.58/LOGOS/colosaltv.png" group-title="COSTA RICA",Colosal TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/27092
+#EXTINF:-1 tvg-id="" tvg-name="Extrema ©" tvg-logo="http://23.237.120.58/LOGOS/extrema.png" group-title="COSTA RICA",Extrema ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6330
+#EXTINF:-1 tvg-id="" tvg-name="Repretel 11 ©" tvg-logo="https://dl.dropboxusercontent.com/s/mci8gr3ufqfy01n/Repretel_11.png" group-title="COSTA RICA",Repretel 11 ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6324
+#EXTINF:-1 tvg-id="" tvg-name="Repretel 6 ©" tvg-logo="https://dl.dropboxusercontent.com/s/e922mio13ktxvoe/Repretel_6.png" group-title="COSTA RICA",Repretel 6 ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6326
+#EXTINF:-1 tvg-id="" tvg-name="Tele Uno ©" tvg-logo="http://23.237.120.58/LOGOS/tele.uno.png" group-title="COSTA RICA",Tele Uno ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/33197
+#EXTINF:-1 tvg-id="" tvg-name="telesur ©" tvg-logo="https://dl.dropboxusercontent.com/s/glaiycnqiuf07j1/telesur.png" group-title="COSTA RICA",telesur ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/292
+#EXTINF:-1 tvg-id="" tvg-name="Teletica 7 ⁽c⁾" tvg-logo="https://dl.dropboxusercontent.com/s/4gew4c5obm6r2eo/Teletica7.png" group-title="COSTA RICA",Teletica 7 ⁽c⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6328
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports *" tvg-logo="https://dl.dropboxusercontent.com/s/rf0y97dezn84t1o/tigosportsnew.png" group-title="COSTA RICA",Tigo Sports *
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/299
+#EXTINF:-1 tvg-id="" tvg-name="==== CUBA ====" tvg-logo="" group-title="CUBA",==== CUBA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64105
+#EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="http://23.237.120.58/LOGOS/cubavision.png" group-title="CUBA",Cubavision
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63498
+#EXTINF:-1 tvg-id="" tvg-name="Cubavision Internacional ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/cubavisioninternacional.png" group-title="CUBA",Cubavision Internacional ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63495
+#EXTINF:-1 tvg-id="" tvg-name="Marti ©" tvg-logo="http://23.237.120.58/LOGOS/marti.png" group-title="CUBA",Marti ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/23953
+#EXTINF:-1 tvg-id="" tvg-name="Multivision ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/multivision.png" group-title="CUBA",Multivision ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63496
+#EXTINF:-1 tvg-id="" tvg-name="Telerebelde ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/telerebelde.png" group-title="CUBA",Telerebelde ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63497
+#EXTINF:-1 tvg-id="" tvg-name="==== CULTURALES ====" tvg-logo="" group-title="CULTURALES SPANISH",==== CULTURALES ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64106
+#EXTINF:-1 tvg-id="I361.96445.schedulesdirect.org" tvg-name="Animal Planet. ®" tvg-logo="https://dl.dropboxusercontent.com/s/vsjyqbvd4k2k6i2/animalplanet.png" group-title="CULTURALES SPANISH",Animal Planet. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/555
+#EXTINF:-1 tvg-id="I168.96307.schedulesdirect.org" tvg-name="Discovery CH #2 ®" tvg-logo="https://dl.dropboxusercontent.com/s/8owres3c50j2tr2/discovery_channel.png" group-title="CULTURALES SPANISH",Discovery CH #2 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/47112
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Espanol  ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/hv9xa0qokpxy0td/discovery.png" group-title="CULTURALES SPANISH",Discovery Espanol  ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56788
+#EXTINF:-1 tvg-id="I436.58428.schedulesdirect.org" tvg-name="Discovery Familia ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/yghzgfihq27151h/discovery_family.png" group-title="CULTURALES SPANISH",Discovery Familia ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/571
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H VIP" tvg-logo="SIN LOGO" group-title="CULTURALES SPANISH",Discovery H&H VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56419
+#EXTINF:-1 tvg-id="I1204.77635.schedulesdirect.org" tvg-name="Discovery ID ®" tvg-logo="http://23.237.120.58/LOGOS/discoveryinvestigationnuevo.png" group-title="CULTURALES SPANISH",Discovery ID ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/578
+#EXTINF:-1 tvg-id="I182.46608.schedulesdirect.org" tvg-name="Discovery Turbo. ®" tvg-logo="https://dl.dropboxusercontent.com/s/jn8wxdbwq4hzcp5/DiscoveryTurbo.png" group-title="CULTURALES SPANISH",Discovery Turbo. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/590
+#EXTINF:-1 tvg-id="" tvg-name="E! ★" tvg-logo="https://dl.dropboxusercontent.com/s/gtksibvdctrh9rp/e.png" group-title="CULTURALES SPANISH",E! ★
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56829
+#EXTINF:-1 tvg-id="" tvg-name="E! ®" tvg-logo="https://dl.dropboxusercontent.com/s/gtksibvdctrh9rp/e.png" group-title="CULTURALES SPANISH",E! ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/593
+#EXTINF:-1 tvg-id="I237.99509.schedulesdirect.org" tvg-name="EL Gourmet ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/trwn1hapeogebrf/elgourmet.png" group-title="CULTURALES SPANISH",EL Gourmet ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/57112
+#EXTINF:-1 tvg-id="I226.44718.schedulesdirect.org" tvg-name="Food Network ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/erf5m4noz3y1zxm/foodnetwork.png" group-title="CULTURALES SPANISH",Food Network ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/596
+#EXTINF:-1 tvg-id="" tvg-name="Glitz ¥¥7" tvg-logo="https://dl.dropboxusercontent.com/s/eu2jxb1jbq1dou8/glitz.png" group-title="CULTURALES SPANISH",Glitz ¥¥7
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/597
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic ƒ" tvg-logo="http://23.237.120.58/LOGOS/maschic.png" group-title="CULTURALES SPANISH",Mas Chic ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/612
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo #2 ® " tvg-logo="https://dl.dropboxusercontent.com/s/ym9mvtwd02swpix/natgeo.png" group-title="CULTURALES SPANISH",Natgeo #2 ® 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/606
+#EXTINF:-1 tvg-id="" tvg-name="Universo. Este ƒ" tvg-logo="http://23.237.120.58/LOGOS/UNIVERSO.png" group-title="TELEMUNDO & UNIVISION",Universo. Este ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56830
+#EXTINF:-1 tvg-id="" tvg-name="Universo. Oeste ƒ" tvg-logo="http://23.237.120.58/LOGOS/UNIVERSO.png" group-title="TELEMUNDO & UNIVISION",Universo. Oeste ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56831
+#EXTINF:-1 tvg-id="" tvg-name="==== DEPORTES ====" tvg-logo="http://controlam.com/Logos/ai1.png" group-title="DEPORTES",==== DEPORTES ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64107
+#EXTINF:-1 tvg-id="" tvg-name="Arg: Dir3ctv Sports 1 ®" tvg-logo="https://dl.dropboxusercontent.com/s/gkh224ywnlrx1xi/directvsports.png" group-title="DEPORTES",Arg: Dir3ctv Sports 1 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56701
+#EXTINF:-1 tvg-id="" tvg-name="Arg: Dir3ctv Sports 1. ©  " tvg-logo="https://dl.dropboxusercontent.com/s/gkh224ywnlrx1xi/directvsports.png" group-title="DEPORTES",Arg: Dir3ctv Sports 1. ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/303
+#EXTINF:-1 tvg-id="" tvg-name="Arg: Dir3ctv Sports 2 ®" tvg-logo="https://dl.dropboxusercontent.com/s/6o3au6xua6mmkxp/directvsports2.png" group-title="DEPORTES",Arg: Dir3ctv Sports 2 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56702
+#EXTINF:-1 tvg-id="" tvg-name="Arg: Dir3ctv Sports 2. ©  " tvg-logo="https://dl.dropboxusercontent.com/s/6o3au6xua6mmkxp/directvsports2.png" group-title="DEPORTES",Arg: Dir3ctv Sports 2. ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/304
+#EXTINF:-1 tvg-id="" tvg-name="Arg: Dir3ctv Sports Plus. © " tvg-logo="https://dl.dropboxusercontent.com/s/ie0wlj56seujfez/directvsportsmas.png" group-title="DEPORTES",Arg: Dir3ctv Sports Plus. © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/307
+#EXTINF:-1 tvg-id="" tvg-name="Arg: Dir3ctv Sports Plus ®" tvg-logo="https://dl.dropboxusercontent.com/s/ie0wlj56seujfez/directvsportsmas.png" group-title="DEPORTES",Arg: Dir3ctv Sports Plus ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/306
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="Arg:ESPN 2 ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/3axg0b1shubppdh/espn2.png" group-title="DEPORTES",Arg:ESPN 2 ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/310
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="Dep:ESPN 2 ®" tvg-logo="https://dl.dropboxusercontent.com/s/pqox0wnimk36232/espn2sur.png" group-title="DEPORTES",Dep:ESPN 2 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/311
+#EXTINF:-1 tvg-id="" tvg-name="Arg:FOX Sports ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/uc9pqjeik7bxq21/foxsports.png" group-title="DEPORTES",Arg:FOX Sports ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/317
+#EXTINF:-1 tvg-id="" tvg-name="Arg:FOX Sports 2 ®" tvg-logo="https://dl.dropboxusercontent.com/s/cpnvsejsegmgvli/foxsports2.png" group-title="DEPORTES",Arg:FOX Sports 2 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/321
+#EXTINF:-1 tvg-id="" tvg-name="Arg:FOX Sports 3 ®" tvg-logo="https://dl.dropboxusercontent.com/s/su1ik8of450aqpw/foxsports3sur.png" group-title="DEPORTES",Arg:FOX Sports 3 ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/399
+#EXTINF:-1 tvg-id="" tvg-name="Arg:FOX Sports Premium ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/2t82mqk3wgf5mk8/foxsportspremiumargentina.png" group-title="DEPORTES",Arg:FOX Sports Premium ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/324
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="Arg:TNT Sports. ⁽M⁾" tvg-logo="http://23.237.120.58/LOGOS/tntsportshd.png" group-title="DEPORTES",Arg:TNT Sports. ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/329
+#EXTINF:-1 tvg-id="I629.16275.schedulesdirect.org" tvg-name="Arg:TyC Sports. ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/rudar7y7vbom6ps/tycsportshd.png" group-title="DEPORTES",Arg:TyC Sports. ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/331
+#EXTINF:-1 tvg-id="I1629.16275.schedulesdirect.org" tvg-name="Arg:TyC Sports. Inter ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/pb93zdhcrsnad9d/tycsportsinternacional.png" group-title="DEPORTES",Arg:TyC Sports. Inter ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/333
+#EXTINF:-1 tvg-id="I484.50707.schedulesdirect.org" tvg-name="Chi:TNT Sports 1 HD ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/tntsportshd.png" group-title="DEPORTES",Chi:TNT Sports 1 HD ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56783
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="Chi:TNT Sports 3 ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/tntsports3.png" group-title="DEPORTES",Chi:TNT Sports 3 ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56782
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="Chi:TNT Sports 1 HD." tvg-logo="http://23.237.120.58/LOGOS/tntsportshd.png" group-title="DEPORTES",Chi:TNT Sports 1 HD.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56704
+#EXTINF:-1 tvg-id="I486.46744.schedulesdirect.org" tvg-name="Chi:TNT Sports 2 ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/tntsports2.png" group-title="DEPORTES",Chi:TNT Sports 2 ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/340
+#EXTINF:-1 tvg-id="I1637.98452.schedulesdirect.org" tvg-name="Chi:CDO Basico ⁽T⁾" tvg-logo="https://dl.dropboxusercontent.com/s/qyi94cpqhj7v596/cdobasico.png" group-title="DEPORTES",Chi:CDO Basico ⁽T⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13924
+#EXTINF:-1 tvg-id="I494.80240.schedulesdirect.org" tvg-name="Chi:CDO Premium (D)" tvg-logo="https://dl.dropboxusercontent.com/s/qhvy55z3mrl3stp/cdopremium.png" group-title="DEPORTES",Chi:CDO Premium (D)
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/32932
+#EXTINF:-1 tvg-id="I494.80240.schedulesdirect.org" tvg-name="Chi:CDO Premium ®" tvg-logo="https://dl.dropboxusercontent.com/s/qhvy55z3mrl3stp/cdopremium.png" group-title="DEPORTES",Chi:CDO Premium ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/345
+#EXTINF:-1 tvg-id="" tvg-name="Chi:Dir3ctv Sports ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/gkh224ywnlrx1xi/directvsports.png" group-title="DEPORTES",Chi:Dir3ctv Sports ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/53305
+#EXTINF:-1 tvg-id="I886.96723.schedulesdirect.org" tvg-name="Chi:ESPN 2 ® " tvg-logo="http://23.237.120.58/LOGOS/espn2chile.png" group-title="DEPORTES",Chi:ESPN 2 ® 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13830
+#EXTINF:-1 tvg-id="I490.73935.schedulesdirect.org" tvg-name="Chi:FOX Sports ⁽pr⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/uc9pqjeik7bxq21/foxsports.png" group-title="DEPORTES",Chi:FOX Sports ⁽pr⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/346
+#EXTINF:-1 tvg-id="" tvg-name="Col:FOX Sports 1 ⁽k⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/f1guqekbmh5prwz/foxsportscolombia.png" group-title="DEPORTES",Col:FOX Sports 1 ⁽k⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/362
+#EXTINF:-1 tvg-id="I1706.71328.schedulesdirect.org" tvg-name="Col:FOX Sports 2 ⁽D⁾" tvg-logo="https://dl.dropboxusercontent.com/s/ok3lj8tl7v1w0r8/foxsports2sur.png" group-title="DEPORTES",Col:FOX Sports 2 ⁽D⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/366
+#EXTINF:-1 tvg-id="" tvg-name="Col:WIN Plus." tvg-logo="https://dl.dropboxusercontent.com/s/0e6w3mprawh424n/winsports.png" group-title="DEPORTES",Col:WIN Plus.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/370
+#EXTINF:-1 tvg-id="" tvg-name="Col:Win Sports ¥¥1" tvg-logo="https://dl.dropboxusercontent.com/s/0e6w3mprawh424n/winsports.png" group-title="DEPORTES",Col:Win Sports ¥¥1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/374
+#EXTINF:-1 tvg-id="" tvg-name="Dep:Adrenalina ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/al25rcb93t2o852/adrenalina.png" group-title="DEPORTES",Dep:Adrenalina ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/372
+#EXTINF:-1 tvg-id="" tvg-name="Dep:ESPN 1 ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/pgp7zrgsvr7smei/espnsur.png" group-title="DEPORTES",Dep:ESPN 1 ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/355
+#EXTINF:-1 tvg-id="" tvg-name="Dep:ESPN Extra ⁽M⁾" tvg-logo="http://23.237.120.58/LOGOS/espnextra.png" group-title="DEPORTES",Dep:ESPN Extra ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56693
+#EXTINF:-1 tvg-id="" tvg-name="Dep:ESPN Extra ®" tvg-logo="http://23.237.120.58/LOGOS/espnextra.png" group-title="DEPORTES",Dep:ESPN Extra ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/315
+#EXTINF:-1 tvg-id="" tvg-name="Dep:EuroSport 1 ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/16zh2l5h7g1878q/eurosports.png" group-title="DEPORTES",Dep:EuroSport 1 ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/401
+#EXTINF:-1 tvg-id="" tvg-name="Dep:FOX Deportes ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/ccosq0nkxmftz90/foxdeportes.png" group-title="DEPORTES",Dep:FOX Deportes ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/394
+#EXTINF:-1 tvg-id="I20.114312.schedulesdirect.org" tvg-name="Mex:Afizionados ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/AFIZZIONADOS.png" group-title="DEPORTES",Mex:Afizionados ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56339
+#EXTINF:-1 tvg-id="I561.110964.schedulesdirect.org" tvg-name="Mex:ESPN 1" tvg-logo="https://dl.dropboxusercontent.com/s/6jic71cl99o5pyw/espn.png" group-title="DEPORTES",Mex:ESPN 1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/404
+#EXTINF:-1 tvg-id="I558.96876.schedulesdirect.org" tvg-name="Mex:ESPN 2. ®" tvg-logo="https://dl.dropboxusercontent.com/s/3axg0b1shubppdh/espn2.png" group-title="DEPORTES",Mex:ESPN 2. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/410
+#EXTINF:-1 tvg-id="I520.79042.schedulesdirect.org" tvg-name="Mex:ESPN 3 ⁽M⁾" tvg-logo="https://dl.dropboxusercontent.com/s/xevftq7iqs0uisg/espn3.png" group-title="DEPORTES",Mex:ESPN 3 ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56681
+#EXTINF:-1 tvg-id="I564.66365.schedulesdirect.org" tvg-name="Mex:FOX Sports 2." tvg-logo="https://dl.dropboxusercontent.com/s/suq1x32gif8fvb3/foxsports2mx.png" group-title="DEPORTES",Mex:FOX Sports 2.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/419
+#EXTINF:-1 tvg-id="I575.57580.schedulesdirect.org" tvg-name="Mex:TVC Deportes ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/ih0e74b8vva416s/tvcdeportes.png" group-title="DEPORTES",Mex:TVC Deportes ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63428
+#EXTINF:-1 tvg-id="" tvg-name="==== ECUADOR ====" tvg-logo="" group-title="ECUADOR",==== ECUADOR ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64108
+#EXTINF:-1 tvg-id="I218.16799.schedulesdirect.org" tvg-name="Canal Uno ⁽Pr⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/cwpeslbcbv3rrs2/uno.png" group-title="ECUADOR",Canal Uno ⁽Pr⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/847
+#EXTINF:-1 tvg-id="I218.16799.schedulesdirect.org" tvg-name="Canal Uno ⁽Pr⁾." tvg-logo="https://dl.dropboxusercontent.com/s/cwpeslbcbv3rrs2/uno.png" group-title="ECUADOR",Canal Uno ⁽Pr⁾.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/849
+#EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-logo="https://dl.dropboxusercontent.com/s/adrlqqw2zmi07mg/canelatv.png" group-title="ECUADOR",Canela
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13823
+#EXTINF:-1 tvg-id="" tvg-name="Dir3ctv Sports ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/gkh224ywnlrx1xi/directvsports.png" group-title="ECUADOR",Dir3ctv Sports ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/33347
+#EXTINF:-1 tvg-id="" tvg-name="Dir3ctv Sports ®" tvg-logo="https://dl.dropboxusercontent.com/s/gkh224ywnlrx1xi/directvsports.png" group-title="ECUADOR",Dir3ctv Sports ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/850
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV (Pr)" tvg-logo="https://dl.dropboxusercontent.com/s/cg4srh5mptkxh7u/ecuadortv.png" group-title="ECUADOR",Ecuador TV (Pr)
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/853
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa ®" tvg-logo="https://dl.dropboxusercontent.com/s/11ow1iq9t3eol7l/ecuavisa.png" group-title="ECUADOR",Ecuavisa ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/857
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa ® ⁽Pr⁾" tvg-logo="https://dl.dropboxusercontent.com/s/11ow1iq9t3eol7l/ecuavisa.png" group-title="ECUADOR",Ecuavisa ® ⁽Pr⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56834
+#EXTINF:-1 tvg-id="" tvg-name="Gama ⁽Pr⁾" tvg-logo="https://dl.dropboxusercontent.com/s/nagajpujfaev592/gamatv.png" group-title="ECUADOR",Gama ⁽Pr⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56706
+#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="Gama ⁽pr⁾." tvg-logo="https://dl.dropboxusercontent.com/s/nagajpujfaev592/gamatv.png" group-title="ECUADOR",Gama ⁽pr⁾.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/11935
+#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="Gama ®" tvg-logo="https://dl.dropboxusercontent.com/s/nagajpujfaev592/gamatv.png" group-title="ECUADOR",Gama ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/859
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/p9ddhri7yg0t5ba/goltvhdpanish.png" group-title="ECUADOR",GOLTV ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/863
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV ⁽P⁾" tvg-logo="https://dl.dropboxusercontent.com/s/p9ddhri7yg0t5ba/goltvhdpanish.png" group-title="ECUADOR",GOLTV ⁽P⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/864
+#EXTINF:-1 tvg-id="" tvg-name="Oromar ®" tvg-logo="https://dl.dropboxusercontent.com/s/wyoxb3wkzht9ah5/oromartv.png" group-title="ECUADOR",Oromar ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/866
+#EXTINF:-1 tvg-id="" tvg-name="Oromar ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/wyoxb3wkzht9ah5/oromartv.png" group-title="ECUADOR",Oromar ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56483
+#EXTINF:-1 tvg-id="" tvg-name="RTS ©" tvg-logo="https://dl.dropboxusercontent.com/s/0yt1c86tnthir89/rts.png" group-title="ECUADOR",RTS ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56484
+#EXTINF:-1 tvg-id="" tvg-name="RTS ®" tvg-logo="https://dl.dropboxusercontent.com/s/0yt1c86tnthir89/rts.png" group-title="ECUADOR",RTS ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/870
+#EXTINF:-1 tvg-id="" tvg-name="TC Mi canal ⁽pr⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/lqlmzkv3rfkm7q8/tc.png" group-title="ECUADOR",TC Mi canal ⁽pr⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/872
+#EXTINF:-1 tvg-id="" tvg-name="TC Mi canal ⁽P⁾" tvg-logo="https://dl.dropboxusercontent.com/s/lqlmzkv3rfkm7q8/tc.png" group-title="ECUADOR",TC Mi canal ⁽P⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/879
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas " tvg-logo="https://dl.dropboxusercontent.com/s/i0nzbw2rg794fos/Teleamazonas.png" group-title="ECUADOR",Teleamazonas 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/11936
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas. " tvg-logo="https://dl.dropboxusercontent.com/s/i0nzbw2rg794fos/Teleamazonas.png" group-title="ECUADOR",Teleamazonas. 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56587
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="https://dl.dropboxusercontent.com/s/ky01kq9cxpwdxvb/tvc.png" group-title="ECUADOR",TVC
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13841
+#EXTINF:-1 tvg-id="" tvg-name="==== GUATEMALA ====" tvg-logo="" group-title="GUATEMALA",==== GUATEMALA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64109
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Guate ⁽c⁾" tvg-logo="http://23.237.120.58/LOGOS/aztecahonduras.png" group-title="GUATEMALA",Azteca Guate ⁽c⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56487
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 " tvg-logo="http://23.237.120.58/LOGOS/Canal_3GU.png" group-title="GUATEMALA",Canal 3 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/23822
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 (Q)" tvg-logo="http://23.237.120.58/LOGOS/Televisiete.png" group-title="GUATEMALA",Canal 7 (Q)
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/32928
+#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua" tvg-logo="http://23.237.120.58/LOGOS/canal_antigua.png" group-title="GUATEMALA",Canal Antigua
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/62682
+#EXTINF:-1 tvg-id="" tvg-name="Guatevision ⁽c⁾" tvg-logo="http://23.237.120.58/LOGOS/guatevision.png" group-title="GUATEMALA",Guatevision ⁽c⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/23948
+#EXTINF:-1 tvg-id="" tvg-name="==== HONDURAS ====" tvg-logo="" group-title="HONDURAS",==== HONDURAS ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64110
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras ©" tvg-logo="http://23.237.120.58/LOGOS/aztecahonduras.png" group-title="HONDURAS",Azteca Honduras ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13875
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="http://23.237.120.58/LOGOS/canal11.png" group-title="HONDURAS",Canal 11
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13878
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 ©" tvg-logo="http://23.237.120.58/LOGOS/canal5ellider.png" group-title="HONDURAS",Canal 5 ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13921
+#EXTINF:-1 tvg-id="" tvg-name="HCH ©" tvg-logo="http://23.237.120.58/LOGOS/HCH.png" group-title="HONDURAS",HCH ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13885
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV © " tvg-logo="http://23.237.120.58/LOGOS/megahonduras.png" group-title="HONDURAS",MEGA TV © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13887
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena ©" tvg-logo="http://23.237.120.58/LOGOS/telecadena.png" group-title="HONDURAS",Telecadena ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13890
+#EXTINF:-1 tvg-id="" tvg-name="TSI ©" tvg-logo="http://23.237.120.58/LOGOS/tsi.png" group-title="HONDURAS",TSI ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13894
+#EXTINF:-1 tvg-id="" tvg-name="Une TV © " tvg-logo="http://23.237.120.58/LOGOS/unetv.png" group-title="HONDURAS",Une TV © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/25941
+#EXTINF:-1 tvg-id="" tvg-name="==== INFANTILES ====" tvg-logo="" group-title="INFANTILES",==== INFANTILES ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64111
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="BitMe " tvg-logo="https://dl.dropboxusercontent.com/s/ltl56pi033jpn20/bitme.png" group-title="INFANTILES",BitMe 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/3676
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Boomerang ¥1" tvg-logo="https://dl.dropboxusercontent.com/s/5ryookr4gr6suok/Boomerang.png" group-title="INFANTILES",Boomerang ¥1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63411
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Disney Channel @  " tvg-logo="http://23.237.120.58/LOGOS/disneychannel.png" group-title="INFANTILES",Disney Channel @  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5054
+#EXTINF:-1 tvg-id="I44.87058.schedulesdirect.org" tvg-name="Disney Espana £" tvg-logo="https://dl.dropboxusercontent.com/s/o7rxcck21ewr7so/disneychannel..png" group-title="INFANTILES",Disney Espana £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13932
+#EXTINF:-1 tvg-id="I190.16563.schedulesdirect.org" tvg-name="Disney XD ®" tvg-logo="https://dl.dropboxusercontent.com/s/c01hzepfl6lyn27/disneyxd.png" group-title="INFANTILES",Disney XD ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5058
+#EXTINF:-1 tvg-id="I310.47485.schedulesdirect.org" tvg-name="ETC Kids ®" tvg-logo="https://dl.dropboxusercontent.com/s/lexnsl2f4w3nr13/ETC.png" group-title="INFANTILES",ETC Kids ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5075
+#EXTINF:-1 tvg-id="" tvg-name="Nick Teens @" tvg-logo="http://23.237.120.58/LOGOS/teennick.png" group-title="INFANTILES",Nick Teens @
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5061
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons ⁽Ss⁾" tvg-logo="https://dl.dropboxusercontent.com/s/c7c8828jmz5z6b2/nicketoons.png" group-title="USA KIDS",Nicktoons ⁽Ss⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5068
+#EXTINF:-1 tvg-id="" tvg-name="==== MEXICO ====" tvg-logo="" group-title="MEXICO",==== MEXICO ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64113
+#EXTINF:-1 tvg-id="I9.75278.schedulesdirect.org" tvg-name="ADN 40 ©" tvg-logo="http://23.237.120.58/LOGOS/adn40.png" group-title="MEXICO",ADN 40 ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/638
+#EXTINF:-1 tvg-id="I112.100594.schedulesdirect.org" tvg-name="AZ Corazon ¥¥7" tvg-logo="http://23.237.120.58/LOGOS/azcorazon.png" group-title="MEXICO",AZ Corazon ¥¥7
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56705
+#EXTINF:-1 tvg-id="I5.16463.schedulesdirect.org" tvg-name="Canal 5. ®" tvg-logo="http://23.237.120.58/LOGOS/canal5.png" group-title="MEXICO",Canal 5. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/649
+#EXTINF:-1 tvg-id="I163.16288.schedulesdirect.org" tvg-name="DEPelicula ƒ" tvg-logo="http://23.237.120.58/LOGOS/depelicula1.png" group-title="CINE",DEPelicula ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/656
+#EXTINF:-1 tvg-id="I164.19736.schedulesdirect.org" tvg-name="DEPelicula Clasico ƒ" tvg-logo="http://23.237.120.58/LOGOS/depeliculaclasico1.png" group-title="CINE",DEPelicula Clasico ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/657
+#EXTINF:-1 tvg-id="I165.74016.schedulesdirect.org" tvg-name="DEPelicula Plus ⁽M⁾" tvg-logo="http://23.237.120.58/LOGOS/depeliculaplus1.png" group-title="CINE",DEPelicula Plus ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/658
+#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="Estrellas. ⁽M⁾" tvg-logo="http://23.237.120.58/LOGOS/lasestrellas.png" group-title="MEXICO",Estrellas. ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/46856
+#EXTINF:-1 tvg-id="I104.66635.schedulesdirect.org" tvg-name="FORO TV ƒ" tvg-logo="http://23.237.120.58/LOGOS/forotv.png" group-title="MEXICO",FORO TV ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56542
+#EXTINF:-1 tvg-id="I3.101096.schedulesdirect.org" tvg-name="Imagen TV. ®" tvg-logo="http://23.237.120.58/LOGOS/imagen.png" group-title="MEXICO",Imagen TV. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/670
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Milenio TV    " tvg-logo="http://23.237.120.58/LOGOS/milenio.png" group-title="MEXICO",Milenio TV    
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/673
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Multimedios MTY ©" tvg-logo="http://23.237.120.58/LOGOS/multimedios.png" group-title="MEXICO",Multimedios MTY ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/19694
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios GDL" tvg-logo="http://23.237.120.58/LOGOS/multimedios.png" group-title="MEXICO",Multimedios GDL
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/19763
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Teleformula ©" tvg-logo="http://23.237.120.58/LOGOS/teleformula.png" group-title="MEXICO",Teleformula ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/13808
+#EXTINF:-1 tvg-id="" tvg-name="==== MUSICA ====" tvg-logo="" group-title="MUSIC",==== MUSICA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64114
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/r3mqn9yd56ffaqn/bandamax.png" group-title="MUSIC",Bandamax ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/719
+#EXTINF:-1 tvg-id="" tvg-name="Music California M © " tvg-logo="https://dl.dropboxusercontent.com/s/ovn5crzk02vbxrf/CaliforniaMusic.png" group-title="MUSIC",Music California M © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/728
+#EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial ©  " tvg-logo="https://dl.dropboxusercontent.com/s/inb50e5lc61a1zt/lamegamundial.png" group-title="MUSIC",La Mega Mundial ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/703
+#EXTINF:-1 tvg-id="" tvg-name="Maleta Mix ©  " tvg-logo="http://23.237.120.58/LOGOS/maletamix.png" group-title="MUSIC",Maleta Mix ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/702
+#EXTINF:-1 tvg-id="" tvg-name="Mas que POP TV © " tvg-logo="https://dl.dropboxusercontent.com/s/ovc0xppev06fj1o/masquepoptv.png" group-title="MUSIC",Mas que POP TV © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/709
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://dl.dropboxusercontent.com/s/vazi251x7zmt9zg/mtv.png" group-title="MUSIC",MTV
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/721
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits @" tvg-logo="http://23.237.120.58/LOGOS/MTVhits.png" group-title="MUSIC",MTV Hits @
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/701
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://23.237.120.58/LOGOS/mtvlive.png" group-title="MUSIC",MTV Live
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63404
+#EXTINF:-1 tvg-id="" tvg-name="Music Top ©" tvg-logo="https://dl.dropboxusercontent.com/s/tb5ex9mogw8jx91/musictop.png" group-title="MUSIC",Music Top ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/707
+#EXTINF:-1 tvg-id="" tvg-name="PORTALFORMIX TV ©" tvg-logo="https://dl.dropboxusercontent.com/s/0xrwp0sje4hwpkb/portalfoxmix.png" group-title="MUSIC",PORTALFORMIX TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/45984
+#EXTINF:-1 tvg-id="" tvg-name="Radio U ©" tvg-logo="https://dl.dropboxusercontent.com/s/qtx24i3d1n9h6p3/radiou.png" group-title="MUSIC",Radio U ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/712
+#EXTINF:-1 tvg-id="" tvg-name="San Borja Peru © " tvg-logo="https://dl.dropboxusercontent.com/s/shvedi7tt3py3e5/sanborjaperu.png" group-title="MUSIC",San Borja Peru © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/695
+#EXTINF:-1 tvg-id="" tvg-name="Ritmoson ƒ" tvg-logo="http://23.237.120.58/LOGOS/ritmoson.png" group-title="MUSIC",Ritmoson ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/741
+#EXTINF:-1 tvg-id="" tvg-name="Music Spirit Tv ©  " tvg-logo="https://dl.dropboxusercontent.com/s/dr9l03d9rjg36w9/spirittv.png" group-title="MUSIC",Music Spirit Tv ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/713
+#EXTINF:-1 tvg-id="" tvg-name="Video Rola ©" tvg-logo="http://23.237.120.58/LOGOS/videorola.png" group-title="MUSIC",Video Rola ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56828
+#EXTINF:-1 tvg-id="" tvg-name="==== PERU ====" tvg-logo="" group-title="PERU",==== PERU ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64115
+#EXTINF:-1 tvg-id="" tvg-name="America. TV " tvg-logo="https://dl.dropboxusercontent.com/s/j9ab9guyk9oo6db/Americatv.png" group-title="PERU",America. TV 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/814
+#EXTINF:-1 tvg-id="" tvg-name="ATV © " tvg-logo="https://dl.dropboxusercontent.com/s/xma6xul0d3y0nfb/atv.png" group-title="PERU",ATV © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/33348
+#EXTINF:-1 tvg-id="" tvg-name="Canal N ⁽Pr⁾" tvg-logo="https://dl.dropboxusercontent.com/s/0q6hmkc26xwaxn1/canaln.png" group-title="PERU",Canal N ⁽Pr⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/824
+#EXTINF:-1 tvg-id="" tvg-name="Canal N. ⁽k⁾" tvg-logo="https://dl.dropboxusercontent.com/s/0q6hmkc26xwaxn1/canaln.png" group-title="PERU",Canal N. ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/821
+#EXTINF:-1 tvg-id="" tvg-name="Capital TV " tvg-logo="https://dl.dropboxusercontent.com/s/98c1t9upn45yd2n/Capitaltv.png" group-title="PERU",Capital TV 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/823
+#EXTINF:-1 tvg-id="" tvg-name="M Deportes CMD." tvg-logo="http://23.237.120.58/LOGOS/movistar_deportes.png" group-title="PERU",M Deportes CMD.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/825
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa ©" tvg-logo="http://23.237.120.58/LOGOS/exitosa.png" group-title="PERU",Exitosa ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22928
+#EXTINF:-1 tvg-id="" tvg-name="GOLPeru. ⁽Pr⁾" tvg-logo="https://dl.dropboxusercontent.com/s/4a9w5lk8eeyqzdd/golperu.png" group-title="PERU",GOLPeru. ⁽Pr⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/828
+#EXTINF:-1 tvg-id="" tvg-name="ipe © " tvg-logo="https://dl.dropboxusercontent.com/s/chf33e2392p20gv/ipe.png" group-title="PERU",ipe © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/819
+#EXTINF:-1 tvg-id="" tvg-name="Latina. ⁽Pr⁾" tvg-logo="http://23.237.120.58/LOGOS/latina.png" group-title="PERU",Latina. ⁽Pr⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/833
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana ©." tvg-logo="https://dl.dropboxusercontent.com/s/0aegg14ax83x47d/panamericana.png" group-title="PERU",Panamericana ©.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/839
+#EXTINF:-1 tvg-id="" tvg-name="Peru Magico" tvg-logo="https://dl.dropboxusercontent.com/s/puiu4i1fqif8edn/perumagico.png" group-title="PERU",Peru Magico
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/11933
+#EXTINF:-1 tvg-id="" tvg-name="RPP. ⁽ᴰ⁾" tvg-logo="http://23.237.120.58/LOGOS/RPP.png" group-title="PERU",RPP. ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22343
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru ©" tvg-logo="http://23.237.120.58/LOGOS/tvperunew.png" group-title="PERU",TV Peru ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/844
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru noticias ©  " tvg-logo="http://23.237.120.58/LOGOS/tvperunoticiasnew.png" group-title="PERU",TV Peru noticias ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/845
+#EXTINF:-1 tvg-id="" tvg-name="CTNI PR ©" tvg-logo="https://dl.dropboxusercontent.com/s/ej9lc93c8q35tfx/ctnipr.png" group-title="RELIGION",CTNI PR ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/886
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR ©" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo PR ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22467
+#EXTINF:-1 tvg-id="" tvg-name="Univision PR ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision PR ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6363
+#EXTINF:-1 tvg-id="I1004.63389.schedulesdirect.org" tvg-name="Dep:Wapa Deportes ⁽T⁾" tvg-logo="https://dl.dropboxusercontent.com/s/ohfa981ce86wj3x/wapaamerica.png" group-title="DEPORTES",Dep:Wapa Deportes ⁽T⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22469
+#EXTINF:-1 tvg-id="" tvg-name="==== RELIGION ====" tvg-logo="" group-title="RELIGION",==== RELIGION ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64125
+#EXTINF:-1 tvg-id="" tvg-name="Aliento Vision ©" tvg-logo="https://dl.dropboxusercontent.com/s/908x2l48x76rpx6/alientovision.png" group-title="RELIGION",Aliento Vision ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/881
+#EXTINF:-1 tvg-id="" tvg-name="Avivamiento  ©" tvg-logo="https://dl.dropboxusercontent.com/s/v4pti30pitip3fq/avivamiento.png" group-title="RELIGION",Avivamiento  ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/882
+#EXTINF:-1 tvg-id="" tvg-name="Esperanza TV ©" tvg-logo="http://23.237.120.58/LOGOS/ESPERANZATV.png" group-title="RELIGION",Esperanza TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/883
+#EXTINF:-1 tvg-id="" tvg-name="Ewtn Espana ©" tvg-logo="https://dl.dropboxusercontent.com/s/vk1mnre4ar9ikjz/EWTNIN.png" group-title="RELIGION",Ewtn Espana ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/891
+#EXTINF:-1 tvg-id="" tvg-name="Hope ©" tvg-logo="https://dl.dropboxusercontent.com/s/14yvpx7i6zxtz96/hopechnuevotiempo.png" group-title="RELIGION",Hope ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/892
+#EXTINF:-1 tvg-id="" tvg-name="Hope InterAmerica ©" tvg-logo="https://dl.dropboxusercontent.com/s/14yvpx7i6zxtz96/hopechnuevotiempo.png" group-title="RELIGION",Hope InterAmerica ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/893
+#EXTINF:-1 tvg-id="" tvg-name="Hope NuevoTiempo ©" tvg-logo="https://dl.dropboxusercontent.com/s/14yvpx7i6zxtz96/hopechnuevotiempo.png" group-title="RELIGION",Hope NuevoTiempo ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/894
+#EXTINF:-1 tvg-id="" tvg-name="Hossana Vision ©" tvg-logo="https://dl.dropboxusercontent.com/s/oz41h9femcinuq1/hosannavision.png" group-title="RELIGION",Hossana Vision ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/895
+#EXTINF:-1 tvg-id="" tvg-name="TeleAmiga ¥¥7" tvg-logo="https://dl.dropboxusercontent.com/s/gcy3vjn4a5thv2n/ESPERANZATV.png" group-title="RELIGION",TeleAmiga ¥¥7
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/889
+#EXTINF:-1 tvg-id="" tvg-name="==== SALVADOR ====" tvg-logo="" group-title="SALVADOR",==== SALVADOR ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64117
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12 ⁽k⁾" tvg-logo="https://dl.dropboxusercontent.com/s/7bfftih49b6prvm/canal12.png" group-title="SALVADOR",Canal 12 ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5830
+#EXTINF:-1 tvg-id="" tvg-name="Canal 19 " tvg-logo="https://dl.dropboxusercontent.com/s/0yh8lik6isgi5df/canal19.png" group-title="SALVADOR",Canal 19 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5831
+#EXTINF:-1 tvg-id="" tvg-name="Canal 33 ⁽T⁾" tvg-logo="http://23.237.120.58/LOGOS/canal33.png" group-title="SALVADOR",Canal 33 ⁽T⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56417
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 ©" tvg-logo="https://dl.dropboxusercontent.com/s/p37xcypgkw83db0/canal6.png" group-title="SALVADOR",Canal 6 ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5835
+#EXTINF:-1 tvg-id="" tvg-name="TCS+  ©" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ez6f39yhge4i/tcs.png" group-title="SALVADOR",TCS+  ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5836
+#EXTINF:-1 tvg-id="" tvg-name="Tele Salvador ©" tvg-logo="http://23.237.120.58/LOGOS/telesalvador.png" group-title="SALVADOR",Tele Salvador ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56589
+#EXTINF:-1 tvg-id="" tvg-name="==== SPORTS ====" tvg-logo="" group-title="USA SPORTS",==== SPORTS ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64121
+#EXTINF:-1 tvg-id="I610.56783.schedulesdirect.org" tvg-name="BIG Ten Network ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/bigtennetwork.png" group-title="USA SPORTS",BIG Ten Network ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10201
+#EXTINF:-1 tvg-id="I221.16365.schedulesdirect.org" tvg-name="CBS SPORTS NET ƒ" tvg-logo="http://23.237.120.58/LOGOS/cbswbbos.png" group-title="USA SPORTS",CBS SPORTS NET ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/57109
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NET ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/fightboxfightnet.png" group-title="USA SPORTS",FIGHT NET ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10233
+#EXTINF:-1 tvg-id="I219.82547.schedulesdirect.org" tvg-name="FOX S1 ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/foxsps1.png" group-title="USA SPORTS",FOX S1 ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10237
+#EXTINF:-1 tvg-id="I618.59305.schedulesdirect.org" tvg-name="FOX S2 ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/foxsps2.png" group-title="USA SPORTS",FOX S2 ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10239
+#EXTINF:-1 tvg-id="" tvg-name="FOX SOCCER PLUS ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/foxsoccerplus.png" group-title="USA SPORTS",FOX SOCCER PLUS ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10241
+#EXTINF:-1 tvg-id="I218.61854.schedulesdirect.org" tvg-name="Golf NBC ƒ" tvg-logo="http://controlam.com/golf.png" group-title="USA SPORTS",Golf NBC ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10245
+#EXTINF:-1 tvg-id="" tvg-name="MSG + ƒ" tvg-logo="http://23.237.120.58/LOGOS/msgmas.png" group-title="USA SPORTS",MSG + ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56836
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPS NET ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/nbcspsnet.png" group-title="USA SPORTS",NBC SPS NET ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10250
+#EXTINF:-1 tvg-id="I639.50038.schedulesdirect.org" tvg-name="SNY ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/sny,spsnet.png" group-title="USA SPORTS",SNY ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56812
+#EXTINF:-1 tvg-id="" tvg-name="Stadium ©" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/stadium.png" group-title="USA SPORTS",Stadium ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/4099
+#EXTINF:-1 tvg-id="I217.60316.schedulesdirect.org" tvg-name="Tennis Channel ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/tennischannel.png" group-title="USA SPORTS",Tennis Channel ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10274
+#EXTINF:-1 tvg-id="" tvg-name="==== USA LATINO ====" tvg-logo="" group-title="TELEMUNDO & UNIVISION",==== USA LATINO ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64118
+#EXTINF:-1 tvg-id="" tvg-name="Galavision ƒ" tvg-logo="http://23.237.120.58/LOGOS/galatv.png" group-title="TELEMUNDO & UNIVISION",Galavision ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/29694
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/sixfxlfytv70a05/megatv.png" group-title="TELEMUNDO & UNIVISION",Mega TV ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22470
+#EXTINF:-1 tvg-id="I1248.91978.schedulesdirect.org" tvg-name="Pasiones USA ⁽D⁾" tvg-logo="https://dl.dropboxusercontent.com/s/t021e7i2dohw02h/pasiones.png" group-title="TELEMUNDO & UNIVISION",Pasiones USA ⁽D⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/53645
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Boston ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo Boston ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56856
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Chicago ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo Chicago ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56302
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo L.A ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo L.A ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/911
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo Miami ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/903
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo New York ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo New York ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/907
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo San Francisco ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo San Francisco ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/5593
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Tampa ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/741r5h7uf660w2f/Telemundo_New_York_2012.png" group-title="TELEMUNDO & UNIVISION",Telemundo Tampa ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56776
+#EXTINF:-1 tvg-id="" tvg-name="Unimas  ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/f9jaevmo7i6frd1/unimas.png" group-title="TELEMUNDO & UNIVISION",Unimas  ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/915
+#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision Chicago ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56303
+#EXTINF:-1 tvg-id="" tvg-name="Univision Miami ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision Miami ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/1045
+#EXTINF:-1 tvg-id="" tvg-name="Univision NY ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision NY ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/1047
+#EXTINF:-1 tvg-id="" tvg-name="Univision NY © ." tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision NY © .
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/1048
+#EXTINF:-1 tvg-id="" tvg-name="Univision Telenovelas ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision Telenovelas ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56308
+#EXTINF:-1 tvg-id="" tvg-name="Univision. ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/rzonf5adhc8bk5g/univision.png" group-title="TELEMUNDO & UNIVISION",Univision. ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/57113
+#EXTINF:-1 tvg-id="" tvg-name="==== URUGUAY ====" tvg-logo="" group-title="URUGUAY",==== URUGUAY ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64119
+#EXTINF:-1 tvg-id="" tvg-name="1000xHR ©" tvg-logo="https://dl.dropboxusercontent.com/s/v8fk5zs3ulnzn5x/1000xhora.png" group-title="URUGUAY",1000xHR ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/936
+#EXTINF:-1 tvg-id="" tvg-name="A + V ©" tvg-logo="https://dl.dropboxusercontent.com/s/sb0ozncvf765ej9/A%2BV.png" group-title="URUGUAY",A + V ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/935
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10." tvg-logo="https://dl.dropboxusercontent.com/s/oiee7ozdwo5ivc4/canal10.png" group-title="URUGUAY",Canal 10.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/941
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 ⁽P⁾" tvg-logo="https://dl.dropboxusercontent.com/s/oiee7ozdwo5ivc4/canal10.png" group-title="URUGUAY",CANAL 10 ⁽P⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/943
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Montecarlo ⁽ᴰ⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/786s9b44yo0efxs/canal4montecarlotv.png" group-title="URUGUAY",Canal 4 Montecarlo ⁽ᴰ⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/939
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Montecarlo ⁽P⁾⁾" tvg-logo="https://dl.dropboxusercontent.com/s/786s9b44yo0efxs/canal4montecarlotv.png" group-title="URUGUAY",Canal 4 Montecarlo ⁽P⁾⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/938
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Salto ©" tvg-logo="https://dl.dropboxusercontent.com/s/rfbj0usl4o737iu/canal4salto.png" group-title="URUGUAY",Canal 4 Salto ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/932
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Punta ©" tvg-logo="https://dl.dropboxusercontent.com/s/9kf3834wdu79e9k/logo.png" group-title="URUGUAY",Canal 7 Punta ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/931
+#EXTINF:-1 tvg-id="" tvg-name="Canal M ©" tvg-logo="https://dl.dropboxusercontent.com/s/2pavc1f6s5ckv7l/canalm.png" group-title="URUGUAY",Canal M ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/929
+#EXTINF:-1 tvg-id="" tvg-name="Charrua tv ©" tvg-logo="https://dl.dropboxusercontent.com/s/vnc1t0uq6plt7wm/charruatv.png" group-title="URUGUAY",Charrua tv ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/937
+#EXTINF:-1 tvg-id="" tvg-name="Canal U ©" tvg-logo="https://dl.dropboxusercontent.com/s/zkcg1jprrwvigt6/canalu.png" group-title="URUGUAY",Canal U ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/922
+#EXTINF:-1 tvg-id="" tvg-name="Latina TV ©" tvg-logo="https://dl.dropboxusercontent.com/s/irzjfzczmx7d7dn/maronas.png" group-title="URUGUAY",Latina TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/928
+#EXTINF:-1 tvg-id="" tvg-name="Natural TV ©" tvg-logo="http://23.237.120.58/LOGOS/natural.png" group-title="URUGUAY",Natural TV ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56576
+#EXTINF:-1 tvg-id="" tvg-name="Teledoce ⁽k⁾" tvg-logo="https://dl.dropboxusercontent.com/s/n4y9jbsl8pssxrm/teledoce.png" group-title="URUGUAY",Teledoce ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/946
+#EXTINF:-1 tvg-id="" tvg-name="TV Ciudad ©" tvg-logo="https://dl.dropboxusercontent.com/s/gddq2h7d0zldjcb/tvciudad.png" group-title="URUGUAY",TV Ciudad ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/925
+#EXTINF:-1 tvg-id="" tvg-name="TNU" tvg-logo="http://23.237.120.58/LOGOS/tnu.png" group-title="URUGUAY",TNU
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/53539
+#EXTINF:-1 tvg-id="" tvg-name="VTV ⁽ᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/s/gn2h0s56te93e3c/vtvhd.png" group-title="URUGUAY",VTV ⁽ᴰ⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/1387
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://dl.dropboxusercontent.com/s/5fucgqh3fj6xkjz/vtvfhd.png" group-title="URUGUAY",VTV
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/948
+#EXTINF:-1 tvg-id="" tvg-name="VTV. PLUS ®" tvg-logo="https://dl.dropboxusercontent.com/s/l4y8b112hg09srt/vtv.png" group-title="URUGUAY",VTV. PLUS ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/1388
+#EXTINF:-1 tvg-id="" tvg-name=".==== USA ====" tvg-logo="" group-title="USA",.==== USA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64120
+#EXTINF:-1 tvg-id="I265.51529.schedulesdirect.org" tvg-name="A&E ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/azxbcq54dcriy15/A%26E.png" group-title="USA CINEMA",A&E ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10915
+#EXTINF:-1 tvg-id="I254.59337.schedulesdirect.org" tvg-name="AMC ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/x9z2brtetlqkuey/amc.png" group-title="USA CINEMA",AMC ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10926
+#EXTINF:-1 tvg-id="I287.78808.schedulesdirect.org" tvg-name="American Heroes ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/lvaluyz5u0kl5q3/americanheroes.png" group-title="USA CULTURE",American Heroes ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/45972
+#EXTINF:-1 tvg-id="I282.16331.schedulesdirect.org" tvg-name="Animal Planet ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/15o8s7d3dok2f3c/animalplanet.png" group-title="USA CULTURE",Animal Planet ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10930
+#EXTINF:-1 tvg-id="" tvg-name="Bravo ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/a1owczyqghvarpq/bravo.png" group-title="USA",Bravo ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56546
+#EXTINF:-1 tvg-id="" tvg-name="CBS Miami ƒ" tvg-logo="http://23.237.120.58/LOGOS/cbswbbos.png" group-title="USA NEWS",CBS Miami ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10943
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ƒ" tvg-logo="http://23.237.120.58/LOGOS/cnbc.png" group-title="USA NEWS",CNBC ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/1136
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/xwusksemwc0f4iu/comedy_central.png" group-title="USA",Comedy Central ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10954
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel ƒ  " tvg-logo="http://23.237.120.58/LOGOS/cooking_channel.png" group-title="USA CULTURE",Cooking Channel ƒ  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/45974
+#EXTINF:-1 tvg-id="I571.61469.schedulesdirect.org" tvg-name="Crime & Law ƒ" tvg-logo="http://23.237.120.58/LOGOS/lawycrime.png" group-title="USA CULTURE",Crime & Law ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56547
+#EXTINF:-1 tvg-id="I278.56905.schedulesdirect.org" tvg-name="Discovery Ch ƒ" tvg-logo="http://23.237.120.58/LOGOS/discovery.png" group-title="USA CULTURE",Discovery Ch ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10962
+#EXTINF:-1 tvg-id="I294.67749.schedulesdirect.org" tvg-name="Discovery Family ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/yghzgfihq27151h/discovery_family.png" group-title="USA CULTURE",Discovery Family ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10967
+#EXTINF:-1 tvg-id="I285.16615.schedulesdirect.org" tvg-name="Discovery Investigation ƒ" tvg-logo="http://23.237.120.58/LOGOS/discoveryinvestigationnuevo.png" group-title="USA CULTURE",Discovery Investigation ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10963
+#EXTINF:-1 tvg-id="I261.16125.schedulesdirect.org" tvg-name="Discovery Life ƒ" tvg-logo="http://23.237.120.58/LOGOS/discoverylife.png" group-title="USA CULTURE",Discovery Life ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/19557
+#EXTINF:-1 tvg-id="I284.57390.schedulesdirect.org" tvg-name="Discovery Sciencie ƒ" tvg-logo="http://23.237.120.58/LOGOS/Discoveryscience.png" group-title="USA CULTURE",Discovery Sciencie ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10971
+#EXTINF:-1 tvg-id="I827.17454.schedulesdirect.org" tvg-name="Discovery TLC ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/f186o8gky5l0v99/tlc.png" group-title="USA CULTURE",Discovery TLC ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10974
+#EXTINF:-1 tvg-id="I230.67375.schedulesdirect.org" tvg-name="DIY ƒ" tvg-logo="http://23.237.120.58/LOGOS/diy.png" group-title="USA CULTURE",DIY ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10975
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/gtksibvdctrh9rp/e.png" group-title="USA",E! Entertainment ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10978
+#EXTINF:-1 tvg-id="I231.50747.schedulesdirect.org" tvg-name="Food Network ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/erf5m4noz3y1zxm/foodnetwork.png" group-title="USA CULTURE",Food Network ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56764
+#EXTINF:-1 tvg-id="" tvg-name="FOX NY ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/9azhxy3446nki0r/fox.png" group-title="USA NEWS",FOX NY ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10984
+#EXTINF:-1 tvg-id="" tvg-name="FOX Miami ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/9azhxy3446nki0r/fox.png" group-title="USA NEWS",FOX Miami ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56765
+#EXTINF:-1 tvg-id="" tvg-name="FOX Tampa ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/9azhxy3446nki0r/fox.png" group-title="USA NEWS",FOX Tampa ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/32935
+#EXTINF:-1 tvg-id="I564.105723.schedulesdirect.org" tvg-name="Hallmark Drama ƒ" tvg-logo="http://23.237.120.58/LOGOS/hallmarkdrama.png" group-title="USA CINEMA",Hallmark Drama ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/25888
+#EXTINF:-1 tvg-id="I312.11221.schedulesdirect.org" tvg-name="Hallmark Ch ƒ" tvg-logo="http://23.237.120.58/LOGOS/hallmarkchannel.png" group-title="USA CINEMA",Hallmark Ch ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10997
+#EXTINF:-1 tvg-id="I312.66268.schedulesdirect.org" tvg-name="Hallmark Movies & Mysteries ƒ" tvg-logo="http://23.237.120.58/LOGOS/hallmarkmoviesmisteries.png" group-title="USA CINEMA",Hallmark Movies & Mysteries ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/10999
+#EXTINF:-1 tvg-id="I229.49788.schedulesdirect.org" tvg-name="HGTV ƒ" tvg-logo="http://23.237.120.58/LOGOS/hgtv.png" group-title="USA CULTURE",HGTV ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56766
+#EXTINF:-1 tvg-id="I269.57708.schedulesdirect.org" tvg-name="History ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/sfbxwtbl5shnhrj/history.png" group-title="USA CULTURE",History ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/53654
+#EXTINF:-1 tvg-id="I252.60150.schedulesdirect.org" tvg-name="Lifetime ƒ" tvg-logo="http://23.237.120.58/LOGOS/lifetime1.png" group-title="USA CULTURE",Lifetime ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56767
+#EXTINF:-1 tvg-id="I252.60150.schedulesdirect.org" tvg-name="Lifetime Movies ƒ" tvg-logo="http://23.237.120.58/LOGOS/lifetimemovies.png" group-title="USA CINEMA",Lifetime Movies ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56548
+#EXTINF:-1 tvg-id="I281.31046.schedulesdirect.org" tvg-name="Motor Trend ƒ" tvg-logo="http://23.237.120.58/LOGOS/motortrend.png" group-title="USA CULTURE",Motor Trend ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/22342
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC ƒ" tvg-logo="http://23.237.120.58/LOGOS/cnbc_world.png" group-title="USA NEWS",MSNBC ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/11015
+#EXTINF:-1 tvg-id="" tvg-name="NBC MIami ƒ" tvg-logo="http://23.237.120.58/LOGOSSPORTSINGLES/nbcspsnet1.png" group-title="USA NEWS",NBC MIami ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56769
+#EXTINF:-1 tvg-id="I279.70388.schedulesdirect.org" tvg-name="OWN ƒ " tvg-logo="http://23.237.120.58/LOGOS/own.png" group-title="USA CULTURE",OWN ƒ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56775
+#EXTINF:-1 tvg-id="I251.70522.schedulesdirect.org" tvg-name="Oxygen ƒ " tvg-logo="http://23.237.120.58/LOGOS/Oxygen.png" group-title="USA CULTURE",Oxygen ƒ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56550
+#EXTINF:-1 tvg-id="I241.59186.schedulesdirect.org" tvg-name="Paramount ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/wyv35nmsr0454ie/Paramount.png" group-title="USA CINEMA",Paramount ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56779
+#EXTINF:-1 tvg-id="" tvg-name="Sony ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/nwkxvpdi4rywyd1/Sony_Channel.png" group-title="USA",Sony ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56770
+#EXTINF:-1 tvg-id="I239.16108.schedulesdirect.org" tvg-name="Sundance TV ⁽G⁾" tvg-logo="https://dl.dropboxusercontent.com/s/gr6qg6zv672ntrx/Sundance.png" group-title="USA CINEMA",Sundance TV ⁽G⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56785
+#EXTINF:-1 tvg-id="I244.58623.schedulesdirect.org" tvg-name="SYFY ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/hxtlunkkvh1fljn/syfy.png" group-title="USA CINEMA",SYFY ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56773
+#EXTINF:-1 tvg-id="" tvg-name="USA Network ƒ " tvg-logo="http://23.237.120.58/LOGOS/USA-Network.png" group-title="USA",USA Network ƒ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/11062
+#EXTINF:-1 tvg-id="I17.91177.schedulesdirect.org" tvg-name="AXN White £" tvg-logo="http://23.237.120.58/LOGOS/axnwhite.png" group-title="CINE PREMIUM ESPANA",AXN White £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/64127
+#EXTINF:-1 tvg-id="" tvg-name="==== CANADA ====" tvg-logo="http://controlam.com/Logos/ai1.png" group-title="CANADA",==== CANADA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/65083
+#EXTINF:-1 tvg-id="CBC (CBRT) Calgary, AB-CA" tvg-name="CBC Calgary ©  " tvg-logo="https://dl.dropboxusercontent.com/s/0b9lyjcme6r4drf/cbc-montreal.png" group-title="CANADA",CBC Calgary ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6714
+#EXTINF:-1 tvg-id="CBC (CBXT) Edmonton, AB-CA" tvg-name="CBC Edmonton © " tvg-logo="https://dl.dropboxusercontent.com/s/0b9lyjcme6r4drf/cbc-montreal.png" group-title="CANADA",CBC Edmonton © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6715
+#EXTINF:-1 tvg-id="CA-CBC (CBMT) Montreal,QC" tvg-name="CBC Montreal ©  " tvg-logo="https://dl.dropboxusercontent.com/s/0b9lyjcme6r4drf/cbc-montreal.png" group-title="CANADA",CBC Montreal ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6717
+#EXTINF:-1 tvg-id="CBC News Network-CA" tvg-name="CBC Toronto ©  " tvg-logo="https://dl.dropboxusercontent.com/s/0b9lyjcme6r4drf/cbc-montreal.png" group-title="CANADA",CBC Toronto ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/6716
+#EXTINF:-1 tvg-id="I409.68858.schedulesdirect.org" tvg-name="Sportsnet One ⁽Ss⁾" tvg-logo="https://dl.dropboxusercontent.com/s/svhdwh6ydhha86v/sportsnet.png" group-title="USA SPORTS",Sportsnet One ⁽Ss⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/57031
+#EXTINF:-1 tvg-id="I409.68858.schedulesdirect.org" tvg-name="Sportsnet One ⁽T⁾" tvg-logo="https://dl.dropboxusercontent.com/s/svhdwh6ydhha86v/sportsnet.png" group-title="USA SPORTS",Sportsnet One ⁽T⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/23392
+#EXTINF:-1 tvg-id="I401.18990.schedulesdirect.org" tvg-name="TSN 2 ⁽Ss⁾" tvg-logo="https://dl.dropboxusercontent.com/s/n5cgu7alx29492y/tsn2.png" group-title="USA SPORTS",TSN 2 ⁽Ss⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/3454
+#EXTINF:-1 tvg-id="" tvg-name="==== ESPANA ====" tvg-logo="" group-title="ESPANA",==== ESPANA ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/65084
+#EXTINF:-1 tvg-id="I84.90353.schedulesdirect.org" tvg-name="24 Horas © " tvg-logo="https://dl.dropboxusercontent.com/s/ary6i8etv9j71lo/24horas.png" group-title="ESPANA",24 Horas © 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/429
+#EXTINF:-1 tvg-id="I84.90353.schedulesdirect.org" tvg-name="24 Horas ©." tvg-logo="https://dl.dropboxusercontent.com/s/ary6i8etv9j71lo/24horas.png" group-title="ESPANA",24 Horas ©.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/60451
+#EXTINF:-1 tvg-id="I3.91176.schedulesdirect.org" tvg-name="Antena 3 ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/dtjkretcqnacpkl/Antena_3.png" group-title="ESPANA",Antena 3 ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/431
+#EXTINF:-1 tvg-id="I24.90309.schedulesdirect.org" tvg-name="Antena 3 Inter ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/9m6i0alyq3pibvi/Antena_3_internacional.png" group-title="ESPANA",Antena 3 Inter ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/455
+#EXTINF:-1 tvg-id="" tvg-name="A3S Series  ƒ" tvg-logo="http://23.237.120.58/LOGOS/atreserieshd.png" group-title="CINE PREMIUM ESPANA",A3S Series  ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/454
+#EXTINF:-1 tvg-id="I17.91177.schedulesdirect.org" tvg-name="AXN White ⁽k⁾ " tvg-logo="http://23.237.120.58/LOGOS/axnwhite.png" group-title="CINE PREMIUM ESPANA",AXN White ⁽k⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/28961
+#EXTINF:-1 tvg-id="I59.99701.schedulesdirect.org" tvg-name="Be Mad £" tvg-logo="https://dl.dropboxusercontent.com/s/w5q8mz69nmbjvfn/be_mad.png" group-title="ESPANA",Be Mad £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/432
+#EXTINF:-1 tvg-id="I42.86956.schedulesdirect.org" tvg-name="Boing £" tvg-logo="https://dl.dropboxusercontent.com/s/8o0l04zs97d19e1/Boing_TV.png" group-title="ESPANA",Boing £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/436
+#EXTINF:-1 tvg-id="I58.87038.schedulesdirect.org" tvg-name="Divinity " tvg-logo="https://dl.dropboxusercontent.com/s/a2e3n4vohqkqwkx/divinity.png" group-title="ESPANA",Divinity 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/446
+#EXTINF:-1 tvg-id="I28.87042.schedulesdirect.org" tvg-name="Energy £" tvg-logo="https://dl.dropboxusercontent.com/s/5kimzmsdgbzxw21/energy.png" group-title="ESPANA",Energy £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/448
+#EXTINF:-1 tvg-id="I106.90362.schedulesdirect.org" tvg-name="Extremadura TV ©  " tvg-logo="https://dl.dropboxusercontent.com/s/2cp13rjnhmsop4v/extremaduratv.png" group-title="ESPANA",Extremadura TV ©  
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/452
+#EXTINF:-1 tvg-id="I35.97473.schedulesdirect.org" tvg-name="Historia ⁽k⁾ " tvg-logo="http://puntoz.net/LOGOS/historiaes.png" group-title="ESPANA",Historia ⁽k⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/522
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="LA 1 ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/8c4yqob7iupungg/la1.png" group-title="ESPANA",LA 1 ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/487
+#EXTINF:-1 tvg-id="I2.91206.schedulesdirect.org" tvg-name="LA 2 ©" tvg-logo="https://dl.dropboxusercontent.com/s/rnwtlqeixppb2hn/la2.png" group-title="ESPANA",LA 2 ©
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/520
+#EXTINF:-1 tvg-id="I6.97481.schedulesdirect.org" tvg-name="La Sexta ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/yjvjg3llg3b6t3u/la_sexta.png" group-title="ESPANA",La Sexta ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/513
+#EXTINF:-1 tvg-id="I36.96453.schedulesdirect.org" tvg-name="MEGA ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/xroe7bixx0agib0/mega.png" group-title="ESPANA",MEGA ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/505
+#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="M. Estrenos ⁽k⁾" tvg-logo="https://dl.dropboxusercontent.com/s/bjzdfavtj662a0o/movistar_Estrenos.png" group-title="CINE PREMIUM ESPANA",M. Estrenos ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/510
+#EXTINF:-1 tvg-id="" tvg-name="F1 ESP ⁽k⁾" tvg-logo="http://23.237.120.58/LOGOS/movistarformula1.png" group-title="EVENTS PPV",F1 ESP ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/495
+#EXTINF:-1 tvg-id="" tvg-name="Esp:Mov Golf ⁽k⁾" tvg-logo="http://23.237.120.58/LOGOS/Movistar_Golf.png" group-title="DEPORTES",Esp:Mov Golf ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/496
+#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="Esp:Mov La Liga 1" tvg-logo="http://23.237.120.58/LOGOS/laliga.png" group-title="DEPORTES",Esp:Mov La Liga 1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/21205
+#EXTINF:-1 tvg-id="" tvg-name="M. Series ⁽k⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/8d4p9j1fg3vsh2y/movistar_series.png" group-title="CINE PREMIUM ESPANA",M. Series ⁽k⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/465
+#EXTINF:-1 tvg-id="" tvg-name="Esp:Mov Vamos ⁽k⁾" tvg-logo="http://23.237.120.58/LOGOS/movistarvamos.png" group-title="DEPORTES",Esp:Mov Vamos ⁽k⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/21200
+#EXTINF:-1 tvg-id="I29.78990.schedulesdirect.org" tvg-name="Neox ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/bx7ga181gd90omc/neox.png" group-title="ESPANA",Neox ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/26044
+#EXTINF:-1 tvg-id="I57.81786.schedulesdirect.org" tvg-name="Nova £" tvg-logo="http://23.237.120.58/LOGOS/nova.png" group-title="ESPANA",Nova £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/26045
+#EXTINF:-1 tvg-id="I24.87049.schedulesdirect.org" tvg-name="Paramount  ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/wyv35nmsr0454ie/Paramount.png" group-title="CINE PREMIUM ESPANA",Paramount  ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/466
+#EXTINF:-1 tvg-id="I138.53930.schedulesdirect.org" tvg-name="Esp:Real Madrid £" tvg-logo="https://dl.dropboxusercontent.com/s/uj9nczty1h886el/realmadridtv.png" group-title="DEPORTES",Esp:Real Madrid £
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/467
+#EXTINF:-1 tvg-id="I77.86928.schedulesdirect.org" tvg-name="Esp:Toros ⁽k⁾ " tvg-logo="https://dl.dropboxusercontent.com/s/vtiya9xjda9wt27/toros.png" group-title="DEPORTES",Esp:Toros ⁽k⁾ 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/47060
+#EXTINF:-1 tvg-id="I403.90122.schedulesdirect.org" tvg-name="TSN 4 ⁽Ss⁾" tvg-logo="https://dl.dropboxusercontent.com/s/86jarivwmhhxczk/tsn4.png" group-title="USA SPORTS",TSN 4 ⁽Ss⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/62
+#EXTINF:-1 tvg-id="" tvg-name=".==== PPV ====" tvg-logo="http://controlam.com/Logos/ai1.png" group-title="EVENTS PPV",.==== PPV ====
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/65880
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name=".B31N Sports N ƒ" tvg-logo="http://23.237.120.58/LOGOS/beinsportsñ.png" group-title="B31N SP0RTS",.B31N Sports N ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/388
+#EXTINF:-1 tvg-id="I659.77068.schedulesdirect.org" tvg-name=".TUDN ƒ" tvg-logo="https://dl.dropboxusercontent.com/s/0gquskdmvj6xwwu/tdn.png" group-title="EVENTS PPV",.TUDN ƒ
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/871
+#EXTINF:-1 tvg-id="I503.38683.schedulesdirect.org" tvg-name=".TUDN. MX. ¥1" tvg-logo="https://dl.dropboxusercontent.com/s/0gquskdmvj6xwwu/tdn.png" group-title="EVENTS PPV",.TUDN. MX. ¥1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/422
+#EXTINF:-1 tvg-id="I659.77068.schedulesdirect.org" tvg-name=".TUDN. " tvg-logo="https://dl.dropboxusercontent.com/s/0gquskdmvj6xwwu/tdn.png" group-title="EVENTS PPV",.TUDN. 
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56342
+#EXTINF:-1 tvg-id="" tvg-name="BOX 1" tvg-logo="http://23.237.120.58/LOGOS/boxppv.png" group-title="EVENTS PPV",BOX 1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/65085
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ADN 40 ¥1" tvg-logo="http://23.237.120.58/LOGOS/adn40.png" group-title="NOTICIAS",ADN 40 ¥1
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/18544
+#EXTINF:-1 tvg-id="I318.19234.schedulesdirect.org" tvg-name="Disney Channel ®" tvg-logo="http://23.237.120.58/LOGOS/disneychannel.png" group-title="INFANTILES",Disney Channel ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/66367
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Disney Jr. ®" tvg-logo="https://dl.dropboxusercontent.com/s/dq6deb4orjnv38p/disney-jr.png" group-title="INFANTILES",Disney Jr. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/66368
+#EXTINF:-1 tvg-id="I576.34863.schedulesdirect.org" tvg-name="Mex:AyM Sports ⁽M⁾" tvg-logo="http://23.237.120.58/LOGOS/aymsports.png" group-title="DEPORTES",Mex:AyM Sports ⁽M⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/65104
+#EXTINF:-1 tvg-id="I221.82970.schedulesdirect.org" tvg-name="Hola TV ®" tvg-logo="https://dl.dropboxusercontent.com/s/27zhkbyz92yeqzw/holatv.png" group-title="CULTURALES SPANISH",Hola TV ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/605
+#EXTINF:-1 tvg-id="" tvg-name="A&E VIP" tvg-logo="SIN LOGO" group-title="CINE",A&E VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/68424
+#EXTINF:-1 tvg-id="I611.90653.schedulesdirect.org" tvg-name="AMC ¥¥7" tvg-logo="https://dl.dropboxusercontent.com/s/x9z2brtetlqkuey/amc.png" group-title="CINE",AMC ¥¥7
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/123
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Star Classics VIP" tvg-logo="" group-title="CINE",Star Classics VIP
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/152
+#EXTINF:-1 tvg-id="I1636.81294.schedulesdirect.org" tvg-name="Star Fun." tvg-logo="http://23.237.120.58/LOGOS/star.fun.png" group-title="CINE",Star Fun.
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/157
+#EXTINF:-1 tvg-id="" tvg-name="Sports 16 La Liga" tvg-logo="http://23.237.120.58/LOGOS/sky.sports.png" group-title="EVENTS PPV",Sports 16 La Liga
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/85578
+#EXTINF:-1 tvg-id="" tvg-name="Sports 21 EPL" tvg-logo="http://23.237.120.58/LOGOS/sky.sports.png" group-title="EVENTS PPV",Sports 21 EPL
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/85579
+#EXTINF:-1 tvg-id="I404.90124.schedulesdirect.org" tvg-name="TSN 5 ⁽Ss⁾" tvg-logo="https://dl.dropboxusercontent.com/s/ljxa5g23jdi7487/tsn5.png" group-title="USA SPORTS",TSN 5 ⁽Ss⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/63
+#EXTINF:-1 tvg-id="I402.90118.schedulesdirect.org" tvg-name="TSN 3 ⁽Ss⁾" tvg-logo="https://dl.dropboxusercontent.com/s/wom4efzkro7007o/tsn3.png" group-title="USA SPORTS",TSN 3 ⁽Ss⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/61
+#EXTINF:-1 tvg-id="I601.78843.schedulesdirect.org" tvg-name="Cartoon Network ⁽c⁾" tvg-logo="https://dl.dropboxusercontent.com/s/ols38sfs0gesypd/Cartoon_Network.png" group-title="INFANTILES",Cartoon Network ⁽c⁾
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/56680
+#EXTINF:-1 tvg-id="I640.74420.schedulesdirect.org" tvg-name="Discovery TLC ®" tvg-logo="https://dl.dropboxusercontent.com/s/f186o8gky5l0v99/tlc.png" group-title="CULTURALES SPANISH",Discovery TLC ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/588
+#EXTINF:-1 tvg-id="I1520.91029.schedulesdirect.org" tvg-name="Paramount. ®" tvg-logo="https://dl.dropboxusercontent.com/s/wyv35nmsr0454ie/Paramount.png" group-title="CINE",Paramount. ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/211
+#EXTINF:-1 tvg-id="I156.74906.schedulesdirect.org" tvg-name="Comedy Central ®" tvg-logo="https://dl.dropboxusercontent.com/s/xwusksemwc0f4iu/comedy_central.png" group-title="CULTURALES SPANISH",Comedy Central ®
+http://ametv.xyz:25461/FluxFlows50/2DEk48ZytW/69252
