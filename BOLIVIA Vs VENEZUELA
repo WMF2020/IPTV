@@ -2,11 +2,13 @@
 
 #EXTINF:-1, TIGO SPORTS 1
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+#EXTINF:-1,CARACOL HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20045
+#EXTINF:-1,CARACOL SD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/385651
 #EXTINF:-1,TUDN
 http://209.205.221.74:130/R3$3202/3R1W3$32/3140_.m3u8
 #EXTINF:-1,TNT SPORTS
 http://199.223.255.67:8080/images/admin/progress/47811_.m3u8
 #EXTINF:-1,TNT SPORTS 2
 http://199.223.255.67:8080/images/admin/progress/47839_.m3u8
-#EXTINF:-1,CARACOL
-http://209.126.105.238:25461/live/ea41e0eba25e4e5693db2bf4efc16667/fcf0c1f3cfc2461fa2cbb20b0a394af5/72.ts
